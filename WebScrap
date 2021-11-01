@@ -1,0 +1,11 @@
+#from selenium import webdriver
+from bs4 import BeautifulSoup as bf
+#import pandas as pd
+from urllib.request import urlopen
+
+html = urlopen("https://ca.indeed.com/viewjob?cmp=Grizzly-Force&t=Junior+Accountant&jk=e7dff72e6c38462f&q=Accountant&vjs=3/")
+obj = bf(html.read(),'html.parser')
+#title = obj.head
+title = obj.body.div.li
+
+print(title)
