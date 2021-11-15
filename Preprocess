@@ -1,0 +1,32 @@
+#import re
+#import numpy as np
+import nltk
+nltk.download('punkt')
+nltk.download('stopwords')
+from nltk.corpus import stopwords
+from nltk.tokenize import word_tokenize
+stopWord = set(stopwords.words('english'))
+from nltk.stem import PorterStemmer
+ps = PorterStemmer()
+infile = open('data.csv', 'r', encoding='utf-8')
+stemmedDoc = []
+for line in infile:
+    #put every character into lower case
+    line = line.lower()
+    #remove stop word
+    word = word_tokenize(line)
+    sentenceWithoutStopWord = [w for w in word if not w in stopWord]
+    sentenceStemmed = []
+    for word in sentenceWithoutStopWord:   
+        word = ps.stem(word)
+        if len(word) >= 3:
+            sentenceStemmed.append(word)
+    sentenceStemmed = (" ").join(sentenceStemmed)
+    stemmedDoc.append(sentenceStemmed)
+print(stemmedDoc)
+freq = nltk.FreqDist(stemmedDoc)
+#for key,val in freq.items():
+    #print(str(key) + ':' + str(val))
+freq.plot(20, cumulative=False)
+    
+infile.close()
