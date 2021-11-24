@@ -2,10 +2,10 @@
 
 ### Table of Contents 
 <!--ts-->
-* [List of Jobs](#List of Jobs)
-* [Team Members](#Team Members)
+* [List of Jobs](#List-of-Jobs)
+* [Team Members](#Team-Members)
 * [Milestones](#Milestones)
-* [Final Presentation](#Final Presentation)
+* [Final Presentation](#Final-Presentation)
 <!--te-->
 
 ## List of Jobs
