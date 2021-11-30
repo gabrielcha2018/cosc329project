@@ -16,6 +16,7 @@
 - Dentist
 - Engineer
 - Digital Marketing
+- Cashier
 - 
 - Computer Programmer
 - Software Developer
