@@ -16,6 +16,9 @@
 - Dentist
 - Engineer
 - Digital Marketing
+- 
+- Computer Programmer
+- Software Developer
 
 
 ## Milestones
