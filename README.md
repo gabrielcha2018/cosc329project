@@ -20,6 +20,7 @@
 - 
 - Computer Programmer
 - Software Developer
+- Database Administrator
 
 
 ## Milestones
