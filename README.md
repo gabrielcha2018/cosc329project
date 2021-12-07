@@ -22,6 +22,8 @@
 - Computer Programmer
 - Software Developer
 - Database Administrator
+- Computer Hardware Engineer
+- Computer Systems Analyst (on process)
 
 
 ## Milestones
