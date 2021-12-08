@@ -23,7 +23,8 @@
 - Software Developer
 - Database Administrator
 - Computer Hardware Engineer
-- Computer Systems Analyst (on process)
+- Computer Systems Analyst
+- Computer Network Architect(on process)
 
 
 ## Milestones
