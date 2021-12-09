@@ -17,7 +17,8 @@
 - Engineer
 - Digital Marketing
 - Cashier
-- Maching learning (on processing)
+- Maching learning
+- sales associate (on process)
 - 
 - Computer Programmer
 - Software Developer
