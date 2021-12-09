@@ -1,0 +1,28 @@
+import re
+import nltk
+nltk.download('wordnet')
+nltk.download('stopwords')
+from nltk.corpus import stopwords
+stopWord = set(stopwords.words('english'))
+from nltk.corpus import wordnet
+from nltk.tokenize import word_tokenize
+from nltk.stem import PorterStemmer
+ps = PorterStemmer()
+infile = open('Skill.csv', 'r', encoding='utf-8')
+expendedSkillList = []
+
+for line in infile:
+    #put every character into lower case
+    line = line.lower()
+    word = word_tokenize(line)
+    sentenceWithoutStopWord = [w for w in word if not w in stopWord]
+    print(sentenceWithoutStopWord)
+    #expendedSkillList.append(sentenceWithoutStopWord)
+    for word in sentenceWithoutStopWord:
+        for syn in wordnet.synsets(word):
+            for l in syn.lemmas():
+                
+                l = re.sub(r'_', ' ', l.name())
+#print(expendedSkillList)
+
+infile.close()
