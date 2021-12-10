@@ -8,6 +8,7 @@
 * [List of Jobs](#List-of-Jobs)
 * [NLP Library Function](#NLP-Library-Function)
 * [Original Plan](#Original-Plan)
+* [File Structure](#File-Structure)
 * [Milestones](#Milestones)
 * [Team Members](#Team-Members)
 * [Final Presentation](#Final-Presentation)
@@ -61,6 +62,15 @@
 - Week 13: Submit project video, vote on other's projects
 - Week 14: Finalize project deliverables and submit the required deliverables
 
+## File Structure
+- webscrpaeplus
+  - Scrap job description from website to csv
+- combin
+  - Combine scrapped data to a master csv
+- draftofskill
+  - Organize predetermined list of skills into ngrams
+- findskill
+  - Use the master csv to identify popular skills
 
 ## Milestones
 
