@@ -9,6 +9,12 @@
 * [Final Presentation](#Final-Presentation)
 <!--te-->
 
+## Website
+- Indeed
+
+## Location
+- Canada
+
 ## List of Jobs
 
 - Accounting
@@ -27,6 +33,28 @@
 - Computer Systems Analyst
 - Computer Network Architect(on process)
 
+## NLP Library Function
+- word_tokenize
+  - Seperate words in sentences. Prepare for future process steps
+- stopwords
+  - Help remove words like "and" that does not help with analysis
+- PorterStemmer
+  - Keep the root of the word
+  - Remove extra "s" and "ing" at the end of words
+- FreqDist
+  - Count the number of frequency the same thing appear
+- wordnet
+  - Show a list of synonym for skills
+
+## Original Plan
+- Week 8: Plan out the steps involved and explore relevant APIs
+- Week 9: Collect and cleaning data, define the skill
+- Week 10: Identify 5+ NLP library functions to use, and extract skills from the job website
+- Week 11: Cluster skills
+- Week 12: Make video
+- Week 13: Submit project video, vote on other's projects
+- Week 14: Finalize project deliverables and submit the required deliverables
+
 
 ## Milestones
 
@@ -36,8 +64,8 @@
 
 ## Team Members
 
-- Ann Ni
-- Hecheng(Gabrielcha) Chen: I am Gabrielcha. I am a year 4 students, majoring in Computer Science.
+- Ann(Jingyi) Ni: I am Ann, year 4 Management student.
+- Hecheng(Gabrielcha) Chen: I am Gabrielcha. I am a year 4 student, majoring in Computer Science.
 
 
 ## Project Presentation
