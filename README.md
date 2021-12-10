@@ -4,7 +4,9 @@
 
 <!--ts-->
 * [Website](#Website)
+* [Location](#Location)
 * [List of Jobs](#List-of-Jobs)
+* [NLP Library Function](#NLP Library Function)
 * [Milestones](#Milestones)
 * [Team Members](#Team-Members)
 * [Final Presentation](#Final-Presentation)
