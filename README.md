@@ -48,7 +48,9 @@
 - FreqDist
   - Count the number of frequency the same thing appear
 - wordnet
-  - Show a list of synonym for skills
+  - Generate a list of synonym for skills
+- ngrams
+  - Generate ngram for skills
 
 ## Original Plan
 - Week 8: Plan out the steps involved and explore relevant APIs
