@@ -71,6 +71,7 @@
 - draftofskill
   - Organize predetermined list of skills into ngrams
 - findskill
+  - Find synonyms for predetermined skills
   - Use the master csv to identify popular skills
 
 ## Milestones
