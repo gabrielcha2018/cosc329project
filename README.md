@@ -12,6 +12,7 @@
 * [Milestones](#Milestones)
 * [Team Members](#Team-Members)
 * [Final Presentation](#Final-Presentation)
+* [Project Demo](#Project-Demo)
 <!--te-->
 
 ## Website
