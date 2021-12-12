@@ -30,14 +30,13 @@
 - Digital Marketing
 - Cashier
 - Maching learning
-- sales associate (on process)
-- 
+- sales associate 
 - Computer Programmer
 - Software Developer
 - Database Administrator
 - Computer Hardware Engineer
 - Computer Systems Analyst
-- Computer Network Architect(on process)
+- Computer Network Architect
 
 ## NLP Library Function
 - word_tokenize
