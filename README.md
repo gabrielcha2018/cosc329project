@@ -66,12 +66,19 @@
 - webscrpaeplus.ipynb
   - Scrap job description from website to csv
 - combin.ipynb
-  - Combine scrapped data to a master csv
+  - Combine scrapped data to a  master csv ( "all_no_title.csv")
 - draftofskill.ipynb
-  - Organize predetermined list of skills into ngrams
+  - Organize predetermined list of skills in 3 different word length (1 to 3)
 - findskill.ipynb
-  - Find synonyms for predetermined skills
+  - Find synonyms for predetermined (word length is one )skill
   - Use the master csv to identify popular skills(cluster skill)
+-folder draftskill
+  -a list of predefine skill taking from the website
+-folder roughdata
+  -a list of job description with title get it from indeed
+-folder skillset
+  - it contains word length one to three different skills in different document
+  - it also contains csv files that after applying the stemmer
 
 ## Milestones
 
