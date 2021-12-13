@@ -1,0 +1,1268 @@
+Title,Description
+"Researcher - Operations Research - Vancouver, BC - Indeed.com","Your Role
+1QBit is looking for an expert in operations research to work on theoretical and experimental aspects of emerging quantum and quantum-inspired devices. Our Hardware Innovation Lab (HIL) team is interested to hear from high caliber scientists who are excited to contribute to the various layers of the full stack of computing. HIL collaborates with its hardware partners, employing its expertise in classical and quantum computing to develop technologies that will enable scalable and applicable quantum computing.
+What You’ll Do
+Work alongside peers with unique and creative backgrounds in physics, computer science, mathematics and engineering
+Constantly learn through your work as well as active engagement with the academic community
+Present to and learn from collaborators
+Design and analyze algorithms
+Design and implement numerical and lab experiments
+Perform simulations and benchmarking
+Take part in generating reports, drafting patents, authoring publications, and attending conferences
+What You’ll Bring
+Members of our team bring a confluence of personality, skills, and intent that contributes to their individual development and our collective growth as an organization. The knowledge and mindset you will bring to our team include the following:
+PhD in operations research, computer science, or mathematics (or equivalent training)
+Coursework or work experience in mathematical programming including linear, (mixed) integer, stochastic and / or nonlinear programming
+Experience in solving large-scale optimization using advanced operations research / computer science techniques, including decomposition algorithms, dynamic programming, heuristics, etc.
+Experience in model prototyping through use of optimization toolkit(s) including CPLEX, Gurobi, or AMPL
+A strong research track record in operations research, mathematical programming, large scale optimization, demonstrated by peer-reviewed publications and top-tier conference presentations
+A passion for quantum computing
+Experience with Unix/Linux and strong programming skills (e.g., Python, C/C++)
+Ability to work well with others towards a common goal
+Research independence: the ability to take responsibility and initiative to conduct your research as it is required in working towards the common goal
+Good to have:
+Familiarity with:
+Non-convex optimization techniques, including local search, Monte Carlo method, etc.
+Metaheuristics and implementation, including simulated annealing, parallel tempering, genetic algorithms, etc.
+Statistical learning methods for solving complex problems
+Machine learning and related topics in convex optimization
+Who We Are
+The Hardware Innovation Lab is a unique division in 1QBit that works to address the computational challenges of building performant alternative computing devices, including quantum computers and classical HPC devices. With expertise in quantum information science, quantum control, machine learning, optimal control, and optimization, our drive is to support and accelerate the development of advanced computing hardware. We are constantly developing our tools, methods, and expertise, in order to support our hardware partners and experimentalist collaborators.
+About 1QBit
+1QBit is a global leader in advanced computing, with three innovation hubs located in Vancouver, Waterloo, and Sherbrooke. Along with its partners, 1QBit takes on computationally intensive problems across a variety of fields, including advanced materials, life sciences, energy, and finance. Trusted by Fortune 500 companies and top research institutions, 1QBit develops novel solutions by building on its broad expertise in hardware innovation, quantum computing, AI, and commercial application development. 1QBit offers unique deep-tech career opportunities through advanced internships, full-time positions, and a steadfast investment in our team’s expertise. Working at 1QBit means applying your thinking and skills to tackle exciting and relevant challenges."
+"Software Engineer (Machine Learning) - Waterloo, ON - Indeed.com","Trustwave is a leading cybersecurity and managed security services provider that helps businesses fight cybercrime, protect data and reduce security risk. Offering a comprehensive portfolio of managed security services, security testing, consulting, technology solutions and cybersecurity education, Trustwave helps businesses embrace digital transformation securely. Trustwave is a Singtel company and the global security arm of Singtel, Optus and NCS, with customers in 96 countries. For more information about Trustwave, visit
+https://www.trustwave.com
+.
+Introduction:
+Trustwave, a leader in cloud-based compliance and information security solutions, is seeking a highly talented and motivated Software Engineer to join our Machine Learning team. You will be responsible for extending a platform for the analysis of our customer's security data. These models will be used to monitor our customer environments and detect & respond to security threats. Your challenges will be handling a high volume of data (Petabyte scale), effectively processing it in near real-time, and finding substantiated signals within the noise to present to our threat response team. You are comfortable reviewing the related ML literature.
+Responsibilities:
+Work in small, agile teams to design, prototype and build new product offerings and enhance existing products and tools
+Work with Research Lab to transform academic publications to production grade software
+Contribute code to our custom ML Platform
+Design, development and explanation of ML tasks for network security and automation use cases
+Data science of new models and proof-of-concepts to determine suitability for deployment
+Work with our QA team on system, performance and acceptance testing
+Create robust automated unit/functional test suites and deployment scripts
+Technical Requirements:
+Strong programming skills - Java is preferred
+Database skills
+Experience or significant project work with ML technologies
+Proficiency with Linux or BSD OS
+Systems and networking knowledge
+Nice to have (but not required):
+Experience in the development of high-speed streaming applications
+Experience working with distributed systems
+Experience with large scale storage and retrieval systems
+General Requirements:
+Ability to work with distributed teams in a dynamic, iterative development process
+Excellent oral and written communication skills
+Familiarity with the security industry is desirable but not required
+Education:
+We prefer college-educated applicants, but at minimum, high school diploma or equivalent is
+required for employment.
+Trustwave is an Equal Opportunity Employer of Minorities, Females, Protected Veterans, and Individuals with Disabilities.
+To All Agencies:
+Please, no phone calls or emails to any employee of Trustwave outside of the Talent Acquisition team. Trustwave’s policy is to only accept resumes from agencies via the Trustwave Agency Portal. Agencies must have a valid fee agreement in place and they must have been assigned the specific requisition to which they submit resumes, by the Talent Acquisition team. Any resume submitted outside of this process will be deemed the sole property of Trustwave and in the event a candidate is submitted outside of this policy is hired, no fee or payment of any kind will be paid."
+"Machine Learning Developer - Burnaby, BC - Indeed.com","This is an opportunity to be part of one of the teams at Fortiguard team focused on detecting zero day threats. FortiSandbox product analyzes the runtime behavior of files when executed in an virtual environment, similar to real world client computers. In a safe and monitored virtual environment, this behavior is recorded and analyzed for any potential malicious pattern.
+As part of this role you collaborate with Security Developers and Fortisandbox developers to enable Fortisandbox with AI technologies. This ranges from using decision trees to more involved deep learning methods to analyze sequence of behaviors and identify potential malicious ones.
+This role is a combination of a Software Developer role as well as Machine Learning Research and Development. As a Software Developer you port the machine learning engines into existing products and maintain performance of it. You also collaborate with other teams to develop and maintain data pipelines needed for machine learning projects.
+In this role, the success candidate will:
+Be a member of Fortisandbox team
+Own design, implementation, and maintenance of machine learning solutions
+Do research into existing deep learning methods and how they best fit cybersecurity needs
+Write reports, blogs, and patents
+Have an opportunity to be creative and explore new methods while supervised by team manager
+Collaborate with QA team to troubleshoot customer issues related to AI
+Requirements:
+Masters or PhD degree in computer science, software engineering or related discipline
+At least 2 years of experience implementing applied machine learning products
+Hands on skill with implementing data pipelines, handling large data sets, interface with SQL databases
+Proficiency in Python, C++, and object oriented concepts
+Practical understanding of machine learning algorithms like decision trees, Bayesian inference, linear regression, deep learning, graph convolutional networks, recursive neural networks
+Strong communication skills
+Bonus:
+Practical familiarity with Docker, Kubernetics
+Experienced with developing in Linux and Windows environment
+Reverse engineering skills when applied to reversing windows PE files, Office documents, etc. Familiar with sandboxing technologies
+#GD
+#LI-MIMI"
+"Data Scientist - Toronto, ON - Indeed.com","About OANDA
+We have come a long way since our first currency feed 23 years ago, we are an award-winning global company offering leading currency solutions for both retail and corporate clients, from a tech start-up to a global corporation. Founded in 1996, we became the first company to share exchange rate information on the internet free of charge and in 2001, we launched a trading platform that helped pioneer the development of online-based trading around the world, enabling forex and CFD investors the ability to trade the financial markets. Our vision is to transform how our clients can meet all of their currency needs with innovative and award-winning solutions. Under new ownership with significant ambitions to grow the business on the global stage, we are looking for highly motivated, passionate individuals who want to make a mark in a dynamic environment.
+Our Team:
+Is a cross-functional Data team made up of data scientists, data and software architects, software engineers and business reporting analysts spanning the globe
+Works on analytics project based on the company's business requirements on different domain such as NLP and time series prediction and analysis
+Has ownership over data company-wide, from analytics to global business reporting
+Manages the entire data lifecycle from extraction to visualization
+Works in SQL, Python, R, scikit-learn, Google Cloud BigQuery, Java and C++ and are always prototyping new technologies
+Who You Are:
+You’re looking for an opportunity to work with great people in energetic and open company culture. You enjoy collaborating across many different disciplines within a company to help drive towards a common goal. You’re as passionate about building efficient solutions and driving high-level impact to the business. You’re curious about what makes a company succeed; to you, data is not just the answer, but a means to ask more questions.
+You Will:
+Build statistical, predictive, and machine learning models
+Collection, review, perform cleansing and reporting of data
+Help our Marketing, Strategy, Product, Sales, Customer Service, and Trading teams drive growth in the business
+Develop data-oriented solutions to help solve complex business problems
+Create reporting and visualizations and educate the company on your findings
+Take part in planning sessions, where we develop use cases and requirements for analytical solutions based on data
+Basic Qualifications:
+Bachelor, Master’s or Ph.D. degree (Statistics, Computer Engineering, Computer Science, Applied Math, or a related field preferred)
+Experience using Python, SQL, databases, and visualization tools
+Experience in data modeling, ETL development, and data warehousing
+Experience in time series modeling, developing custom algorithms, and Machine Learning
+Familiarity with GCP, AWS, Azure, Docker, or Kubernetes
+Strong verbal/written communication and data presentation skills in English
+Nice To Have:
+Experience with Big Data technologies (such as Spark), and unstructured data
+Proficient with data analysis and modeling software such as R
+We Value Our People:
+OANDA Global Corporation is a diverse and global team with offices around the world. We value the unique skills and experiences each individual brings to OANDA. We are committed to creating and sustaining a collegial work environment in which all individuals are treated with dignity and respect and one which reflects the diversity of the community in which we operate. We provide an inclusive and accessible environment for everyone.
+Candidates selected for an interview will be contacted directly. If you require accommodation during the recruitment and selection process, please let us know. We will work with you to provide as seamless a recruitment experience as possible."
+AI Scientist - Quebec Province - Indeed.com,"Paige is a software company helping pathologists and clinicians make faster, more informed diagnostic and treatment decisions by mining decades of data from the world's experts in cancer care. We are leading a digital transformation in pathology by leveraging advanced Artificial Intelligence (AI) technology to create value for the oncology clinical team.
+We are the first company to develop clinical grade AI tools for the pathologist, which resulted in our receiving FDA breakthrough designation for our first product. Paige has also received FDA-clearance for our digital viewer, FullFocus™. We have also established multiple relationships with biopharma, laboratory, and equipment manufacturers that enables Paige to develop an ecosystem ready to help patients receive better diagnoses and treatment.
+We're looking for
+AI Scientists
+to join us. In this role you'll be part of a team of world-leading experts in machine learning, computer vision and pathology.
+In this role you'll conduct publishable deep learning research using some of the largest digital pathology datasets in the world. You'll be working to save lives by improving the accuracy of cancer detection, classification, and treatment outcome.
+Recent graduates and PhD candidates who will defend soon are welcome to apply!
+This position is fully remote for candidates based in Canada.
+Key Responsibilities:
+Work with our AI Scientists and Engineers to develop and assess deep neural network models
+Author top-tier journal and conference papers on your research at Paige
+Attend conferences to present your work.
+Requirements:
+Highly motivated
+PhD degree in computer science or related field
+Publication record in venues such as CVPR, ICCV, NeurIPS, TPAMI, ICLR IJCV, MICCAI, etc.
+Expertise in deep learning, especially for computer vision
+Strong Python coding skills
+Computer vision expertise
+Knowledge of deep learning toolboxes
+You are authorized to work in Canada"
+"Data Engineer - Machine Learning - Toronto, ON - Indeed.com","What is the opportunity?
+As a member of QUARK platform development team you will be at the forefront of this transformational technology, assisting a list of business managed applications and developers that are taking advantage of a growing set of services and features to run their mission-critical applications. As a Data Engineer in QUARK, you will act as the ambassador across all the products, arming our stakeholders with required tools & tactics to get the most out of their Product and Support investment.
+Would you like to use the latest cloud technologies? Do you have an interest in helping teams understand application architectures and integration approaches? Are you familiar with best practices for applications, servers and networks?
+If you fit the description, you might be the person we are looking for! We are a group of smart people, passionate about cloud computing and latest technologies.
+What will you do?
+Learn and use ground breaking technologies.
+Design and Help develop new solutions for batch and real-time data and analytics use cases.
+Work closely with business stakeholders to ensure successful design and development.
+Help improve data management processes - acquiring, transforming and storing massive volumes of structured and unstructured data.
+Leverage best practices in CI/CD, with a strong commitment to lead with quality. Ensure ETL pipelines are produced with the highest quality standards, metadata and validated for completeness and accuracy.
+Work closely with development teams to learn about needs, current processes and to promote best practices.
+What do you need to succeed?
+Must-Have:
+Post-Secondary Education in any of the following: Computer Science, Data Analytics, Information Systems, or Information Technology.
+Expert in Python programming to write production-ready codes. Strong data profiling, cleaning, mining and technical documentation skills.
+Experience containerizing and deploying applications with Docker/Kubernetes.
+Strong knowledge of big data technologies (Hadoop, Spark, etc), and databases (SQL, NoSQL, postgresql, etc.) to build data products and services.
+Experience with CI/CD tools like GitHub, Jenkins, Artifact Repository, UCD, etc.
+Foundational experience in developing machine learning models for real business problems
+Excellent interpersonal and highly developed communication skills (verbal and written) with ability to work cross-functionally to articulate, measure and solve issues.
+Nice-to-have:
+Experience with Airflow
+Experience with OCP
+ML Cloud capabilities would be an asset.
+What’s in it for you?
+We thrive on the challenge to be our best, progressive thinking to keep growing, and working together to deliver trusted advice to help our clients thrive and communities prosper. We care about each other, reaching our potential, making a difference to our communities, and achieving success that is mutual.
+A comprehensive Total Rewards Program including bonuses and flexible benefits, competitive compensation, commissions, and stock where applicable
+Leaders who support your development through coaching and managing opportunities
+Work in a dynamic, collaborative, progressive, and high-performing team
+Opportunities to take on progressively greater accountabilities
+Learn more about RBC Tech Jobs
+Join our Talent Community
+Stay in-the-know about great career opportunities at RBC. Sign up and get customized info on our latest jobs, career tips and Recruitment events that matter to you.
+Expand your limits and create a new future together at RBC. Find out how we use our passion and drive to enhance the well-being of our clients and communities at rbc.com/careers.
+JOB SUMMARY
+City:
+Toronto
+Address:
+155 Wellington
+Work Hours/Week:
+37.5
+Work Environment:
+Office
+Employment Type:
+Permanent
+Career Level:
+Experienced Hire/Professional
+Pay Type:
+Salary + Variable Bonus
+Required Travel(%):
+0
+Exempt/Non-Exempt:
+N/A
+People Manager:
+No
+Application Deadline:
+12/10/2021
+Platform:
+Technology and Operations
+Req ID:
+433555
+Ad Code(s):"
+"Machine Learning & Cloud Designer Summer Intern - Montréal, QC - Indeed.com","Aleo Solutions
+Machine Learning & Cloud Designer Summer Intern
+Internship
+Montreal – Canada
+Posted 2 weeks ago
+Duration: 4 months
+Role Summary/Purpose
+As a Machine Learning (ML) and cloud designer, you will contribute to the implementation and development of ML models applied towards the discovery of novel solutions for performance improvements using an immense amount of data as well as cloud software solutions.
+This Program aims to be a state-of-the-art program for ML research and cloud solution, designed to provide you with an experience in an agile startup environment.
+RESPONSIBILITIES:
+Be the main player: design, prototype and implement new machine learning algorithms and cloud tech
+Having the can-do attitude: work with large, complex data sets. Solve difficult, non-routine problems.
+Manage individual project priorities, deadlines and deliverables.
+SKILLSETS & QUALIFICATIONS
+Undergraduate or Graduate student (Masters or higher) in a quantitative discipline (e.g., computer science, mathematics, physics, statistics, electrical engineering, informatics, economics, finance, etc.)
+Proficiency in Python (C++ is an asset)
+Applied experience with machine learning on large datasets as well as cloud techno
+Experience with various deep learning techniques and libraries (tensorflow, Keras, etc.)
+Working proficiency and communication skills in verbal and written English (French is an asset)
+Additional qualifications:
+Experience with graph representation learning and reinforcement learning.
+Demonstrated skills in selecting the right statistical tools given a data analysis problem
+2 years of relevant work experience in data analysis or related fields (e.g., work experience as a statistician/data scientist)
+Experience with statistical software (e.g., R, Julia, MATLAB, pandas) and database languages (e.g., SQL) , Cloud container (Kubernetes
+Relevant work experience speaking at technology conferences, blogging/writing technical articles with an existing follower base, or contributing to an open source project
+Role Summary/Purpose
+As a Machine Learning (ML) and cloud designer, you will contribute to the implementation and development of ML models applied towards the discovery of novel solutions for performance improvements using an immense amount of data as well as cloud software solutions.
+This Program aims to be a state-of-the-art program for ML research and cloud solution, designed to provide you with an experience in an agile startup environment.
+RESPONSIBILITIES:
+Be the main player: design, prototype and implement new machine learning algorithms and cloud tech
+Having the can-do attitude: work with large, complex data sets. Solve difficult, non-routine problems.
+Manage individual project priorities, deadlines and deliverables.
+SKILLSETS & QUALIFICATIONS
+Undergraduate or Graduate student (Masters or higher) in a quantitative discipline (e.g., computer science, mathematics, physics, statistics, electrical engineering, informatics, economics, finance, etc.)
+Proficiency in Python (C++ is an asset)
+Applied experience with machine learning on large datasets as well as cloud techno
+Experience with various deep learning techniques and libraries (tensorflow, Keras, etc.)
+Working proficiency and communication skills in verbal and written English (French is an asset)
+Additional qualifications:
+Experience with graph representation learning and reinforcement learning.
+Demonstrated skills in selecting the right statistical tools given a data analysis problem
+2 years of relevant work experience in data analysis or related fields (e.g., work experience as a statistician/data scientist)
+Experience with statistical software (e.g., R, Julia, MATLAB, pandas) and database languages (e.g., SQL) , Cloud container (Kubernetes
+Relevant work experience speaking at technology conferences, blogging/writing technical articles with an existing follower base, or contributing to an open source project"
+"Oligonucleotide Chemist - Toronto, ON - Indeed.com","About Us
+Deep Genomics is a Toronto-based startup company that is building an AI-powered discovery and development platform to significantly expand the universe of medicines available for genetically-defined diseases. Founded in 2015, Deep Genomics brings together a multidisciplinary team of world-leading experts in machine learning, genomics, chemistry, and biology. Together we are on a mission to rapidly discover and develop oligonucleotide drugs for the treatment of patients with severe disorders of the liver, central nervous system, and eye.
+Ideal Candidate
+We are seeking an ambitious and talented organic chemist to help us develop oligonucleotide therapies for rare diseases. This ideal candidate will lead the research and development of novel approaches to use oligonucleotides therapeutically and methods to characterize oligonucleotides and their effects in biological systems. They will also work closely with our manufacturing partners to develop and optimize synthesis and characterization processes for oligonucleotides and associated ligands. They will support our clinical and regulatory teams in complying with regulatory requirements and documentation. They will have a flexible attitude to job roles and superlative organizational, interpersonal, and communication skills.
+Requirements:
+PhD in Chemistry, Biochemistry or related discipline
+Extensive experience in oligonucleotide synthesis, characterization and/or manufacturing
+Previous experience in working with CROs and CMOs for process development and manufacturing of oligonucleotides is highly desirable, preferably in a regulated environment (i.e. GMP)
+What we offer:
+A highly competitive salary, health and dental benefits, and meaningful equity compensation.
+Exceptional opportunities for learning and growth.
+A collegial working environment with regular social events for team members and their families.
+You’ll also be joining a bright and highly-motivated team working at the intersection of the most exciting areas of science and technology.
+Deep Genomics thanks all applicants, however only those selected for an interview will be contacted.
+Deep Genomics welcomes and encourages applications from people with disabilities.
+Accommodations are available on request for candidates taking part in all aspects of the selection process."
+"Content Manager - Toronto, ON - Indeed.com","StackAdapt has experienced explosive growth since its founding in 2014 and the best is yet to come. We are the state-of-the-art, no minimums programmatic advertising platform where some of the most progressive work in machine learning meets cutting-edge user experience. Ad buyers can plan, execute, and analyze data-driven digital advertising campaigns across all devices, inventory sources and publishing partners. Our obsessive focus on stellar results has earned StackAdapt the highest customer satisfaction scores in the DSP (demand side platform) industry as demonstrated by our clear leadership position on G2.
+We are looking for a Content Manager who can transform our website from great to exceptional. If you can effectively leverage the advanced knowledge from our internal teams, and eloquently communicate the value of our exceptional product offering—then keep reading!
+As an expert in how to best manage content and optimize for SEO, you will make recommendations to improve the availability of our content and the experience of those who pursue it.
+You will organize and execute user testing and market research to ensure that the website content we are presenting is suitable for our audience and easy to discover and consume.
+Our customers are strategic and exceptional digital marketers. Most of whom are independent, mid-market digital advertising and marketing agencies with some brands that have in-house advertising capabilities mixed in.
+What you’ll be doing:
+Write and edit web copy
+Optimize web content for SEO
+Develop a content calendar for regular site updates
+Conduct content audits to identify gaps and redundancies in the site content
+Source or request and sometimes edit images and videos
+Analyze data to learn how users interact with our site
+Produce maps and visualizations of the site to help team understand the structure/function of the website
+Survey users and hold virtual focus groups to learn about how they view your site
+Collaborate with developers to ensure the website aligns with the goals of the organization
+Ensure the site remains current with content requirements and technology improvements
+We’ll be reaching out to candidates that have:
+Experience in web content development and management with specific success stories to share
+Preference will be given to candidates who have “editor in chief” experience in individual contributor roles
+Examples of web content writing that has delivered measurable results
+Experience working in a fast-moving startup environment
+Superb attention to detail
+Extensive experience with, and focus on SEO
+Remote candidates with the desired background and experience will be considered for the position.
+StackAdapters Enjoy:
+Highly competitive salary with RRSP Matching
+3 weeks vacation + 3 personal care days + 1 volunteer day + birthdays off
+Full benefits from League on day one of employment
+Home office and Internet reimbursements
+Coverage and support of personal development initiatives (conferences, courses, etc)
+An awesome parental leave policy
+A weekly $15 lunch credit via Ritual
+A friendly, welcoming, and supportive culture
+Our social and team events (virtually!)
+About StackAdapt
+StackAdapt is a self-serve programmatic advertising platform used by the most exceptional digital marketers. This state-of-the-art platform is where some of the most progressive work in machine learning meets cutting-edge user experience. Ad buyers plan, execute, and manage data-driven digital advertising campaigns across all devices, inventory, and publisher partners. StackAdapt is a Top 100 Software Product on G2, being the only DSP on the Best Software Products and Highest Satisfaction lists.
+We've been recognized for our high performing campaign conversion rates, award-winning customer service, and innovation by numerous industry publications including:
+Great Place to Work® named StackAdapt as one of Canada’s Best Workplaces for Start-ups in 2021
+A leader in the DSP, Video and Cross-Channel Advertising Categories on G2
+A Top Growing Company in Canada based on the Globe and Mail's 2020 Business Report
+Named 23rd in Deloitte Canada’s Technology Fast 50™ program
+Named a Technology Fast 50™ in North America
+StackAdapt is a diverse and inclusive team of collaborative, hardworking individuals trying to make a dent in the universe. We are an equal opportunity employer and we are happy to work with applicants requesting accommodation at any stage of the hiring process. We welcome and encourage anyone and everyone to apply."
+Quality Assurance Analyst - Ontario - Indeed.com,"ABOUT ENVIEW
+Enview provides 3D automation for a rapidly changing world. We have created an extensible platform for computing geospatial insights across virtually limitless data sizes. We help clients achieve their goals by pioneering cutting edge techniques in 3D AI/ML that are focused on object detection, classification, segmentation, and analysis. Our multidisciplinary team uses expertise in remote sensing, computer vision and geospatial big data to empower customers to respond with unprecedented speed and scale to some of the most impactful challenges facing our world.
+QA AT ENVIEW
+Enview's QA team helps enable Enview's customers by leveraging our expertise in Software QA methodologies and domain experience. We put ourselves in the customer's shoes to suggest new features and improvements in existing features. We focus on understanding the customers accuracy and performance requirements in order to design both automated and manual testing plans to create better software products.
+THE ROLE
+We're looking for a passionate Quality Assurance Analyst who can help us automate software tests for our current and future tools and products. Your automated test design skills will support the Enview team to become magnitudes more efficient in providing feedback on new web platform software features, and custom workflows to other technical teams and leadership at Enview. Your knowledge and experience with functional, performance, and regression testing, will improve the standard operating procedures of creating and updating Enview's suite of innovative geospatial software tools. Your cross-team communication mastery will help with collaborating with a talented and amazing team- that includes Geospatial Analysts, Software Engineers, Data Scientists, Machine Learning Specialists, and Site Reliability Engineers- to deliver high quality work during our regular release schedules and projects.
+YOU WILL:
+Create automated functional and regression tests
+Create, maintain, and execute software test plans and test cases for software features and customer use case scenarios
+Assist in other activities as needed
+MINIMUM QUALIFICATIONS:
+Software testing automation experience
+Strong understanding of Quality Assurance testing methodology and processes
+A passion and aptitude for software excellence and desire to continuously expand your skills and knowledge
+A minimum of 6 months experience developing test cases for functional, performance, and regression testing (preferably back-end)
+PREFERRED QUALIFICATIONS:
+Some experience with API testing (REST, JSON)
+Degree or Diploma (preferably in Computer Science, IT, Engineering, GIS, or similar)
+Excellent written and verbal communication skills within an agile and collaborative environment
+A passion and aptitude for software excellence and desire to continuously expand your skills and knowledge
+Good debugging skills
+Strong understanding of Quality Assurance testing methodology and processes
+PERKS
+Opportunity to play a foundational role at a well-funded startup with major clients and revenue
+Work with people like yourself—talented and thoughtful; passionate about solving challenging problems
+Unlimited vacation policy (we're serious about this - do great work, have fun and live life)
+Internet Reimbursement
+EXPORT CONTROL
+Enview works with software and technology subject to U.S. export controls regulations. Under these regulations it may be necessary for Enview to obtain a U.S. government export license prior to releasing its software and technology to certain persons. Enview also complies with applicable U.S. sanctions laws and regulations, which can restrict Enview's ability to employ certain persons subject to U.S. sanctions."
+"Software Engineer, Front-End - Vancouver, BC - Indeed.com","Grammarly offers a
+remote-first hybrid working model
+. Team members can work primarily remotely. Starting in 2022, teams will meet in person every quarter in one of Grammarly’s hubs, currently in San Francisco, Vancouver, New York, and Kyiv. To ensure that teams are able to overlap in their working hours and to meet face-to-face when needed, all team members need to live within three time zones of their direct team.
+Grammarly team members who will be collaborating at our San Francisco hub must be based in the United States.
+The opportunity
+Grammarly empowers people to thrive and connect, whenever and wherever they communicate. More than 30 million people and 30,000 teams around the world use our AI-powered writing assistant every day. All of this begins with our team collaborating in a values-driven and learning-oriented environment.
+To achieve our ambitious goals, we’re looking for a Software Engineer focused on machine learning to join our team. This individual will be responsible for building end-to-end intelligence systems that solve complex user problems, including applying ML to solve new problems as well as building the infrastructure and systems that will enable this to operate effectively at scale. The role will have the opportunity to provide feedback about the systems and tools in place to facilitate the creation and improvement of a machine learning platform that can increase the efficacy of the engineering team.
+Grammarly’s engineers and researchers have the freedom to innovate and uncover breakthroughs—and, in turn, influence our product roadmap. The complexity of our technical challenges is growing rapidly as we scale our interfaces, algorithms, and infrastructure. Read more about our stack or hear from our team on our technical blog.
+Your impact
+The Software Engineer for machine learning will need to stay up-to-date on the quickly evolving field of NLP while also focusing on building production systems. The majority of the problems we’re tackling haven't already been solved elsewhere, which provides the opportunity for creativity and innovative problem-solving.
+Working on the Machine Learning team requires close partnership with analytical linguists, computational linguists, and research scientists. You will have the chance to deepen your skills in machine learning and deep learning while increasing breadth in related areas to up-level our entire team.
+In this role, you will:
+Build end-to-end machine learning solutions to solve complex customer problems.
+Collaborate with applied researchers to ensure they are well-calibrated on the constraints of the production system, ensuring their research proceeds along practical pathways as they explore novel techniques to tackle previously unsolved problems.
+Effectively communicate technical machine learning results in a business context where most people are not machine learning experts.
+Build the systems to help applied researchers scale their models in a production environment.
+Design experiments, including for offline prototypes in a statistically sound way that will provide actionable data and enable us to make reliable decisions as we iterate on a project.
+Promote excellence and best practices across the machine learning team in regards to research, implementation, tooling, and system design.
+Work cross-functionally across multiple partner teams to get new features shipped across our many interfaces.
+We’re looking for someone who
+Embodies our EAGER values—is ethical, adaptable, gritty, empathetic, and remarkable.
+Understands traditional machine learning algorithms and how to use them effectively in practice.
+Is familiar with deep learning and its applications in industry.
+Has a strong working knowledge of statistics as it relates to sampling methodologies and designing experiments
+Understands data structures and algorithms at a level sufficient to write performant code when working with large datasets or large incoming data streams.
+Is aware of NLP techniques to effectively work with very high-dimensional, sparse data.
+Has enough experience with academic research to be comfortable reading and implementing papers to reproduce their results.
+Support for you, professionally and personally
+Professional growth
+: We hire people we trust, and we give team members autonomy to do their best work. We also support professional development with training, coaching, and regular feedback.
+A connected team
+: Grammarly builds products that help people connect, and we apply this mindset to our own team. We have a highly collaborative culture supported by our EAGER values. We also take time to celebrate our colleagues and accomplishments with global, local, and team-specific events and programs.
+Comprehensive benefits
+: Grammarly offers all team members competitive pay along with a benefits package that includes superior health care. We also offer support to set up a home office, ample and defined time off, gym and recreation stipends, admission discounts, and more.
+For Colorado-based employment:
+The salary range for this position is $133,000 – $311,000/year; however, base pay offered may vary considerably depending on job-related knowledge, skills, and experience. The compensation package includes a wide range of medical, dental, vision, financial, and other benefits, as well as equity.
+We encourage you to apply
+At Grammarly, we value our differences, and we encourage all—especially those whose identities are traditionally underrepresented in tech organizations—to apply. We do not discriminate on the basis of race, religion, color, gender expression or identity, sexual orientation, national origin, citizenship, age, marital status, veteran status, disability status, or any other characteristic protected by law. Grammarly will consider qualified applicants with criminal histories in a manner consistent with the San Francisco Fair Chance Ordinance. Grammarly is an equal opportunity employer and participant in the U.S. Federal E-Verify program.
+Please note that Grammarly’s COVID-19 vaccination policy requires that all team members in North America be vaccinated against COVID-19 to meet in person for Grammarly business or to work from a North America hub location. It is expected that this will be a requirement for this role. Qualified candidates in North America who cannot be vaccinated for medical reasons or because of a sincerely held religious belief may request a reasonable accommodation to this policy. For Ukraine, this policy requires team members to be vaccinated or produce a daily negative COVID-19 test administered at the Kyiv hub to work from the hub or attend in-person meetings.
+#LI-Remote"
+"Senior Machine Learning Infrastructure Software Engineer - Richmond, BC - Indeed.com","Job Type: Full Time, Permanent
+Start Date: As soon as possible
+Language: English
+Minimum Education: Bachelor's Degree
+Positions Available: 1
+NOC Group: Software Engineers and Designers (2173)
+NOC Job Title: Computer Software Engineer
+Expires in 18 days
+Expires: 2021-12-23
+Posted: 2021-12-02
+Last Updated: 2021-12-02
+Job Location(s)
+200-13111 Vanier Place
+Richmond, British Columbia
+V6V 2J1, Canada
+Job Description
+Senior Machine Learning Infrastructure Software Engineer
+PressReader is a rapidly growing technology company that partners with the world’s leading publishers to deliver content to millions of users in over 160 countries. Our progressive approach to digital distribution has allowed publishers such as
+The Washington Post
+,
+The Guardian
+,
+Newsweek
+,
+Rolling Stone
+,
+The Globe and Mail,
+and
+Vogue
+to find new audiences through business partnerships, including airlines, hotels, cruise ships, libraries, and thousands of other companies worldwide.
+We have a full-time opportunity for a
+Senior Machine Learning Infrastructure Software Engineer
+to join our
+R&D department.
+In this role, you will:
+Design and implement robust, efficient and cost-effective infrastructure to run ML services in production, support data extraction and preparation, model training and evaluation
+Communicate with stakeholders and other teams to coordinate goals, priorities and deadlines
+Take part in architectural decisions, analyze overall system performance, propose technical solutions, review code contributed by teammates
+Write production-quality Python code (clean, easy to understand and support, covered by tests and well documented)
+Be responsible for preparing services for deployment to production, monitoring key performance indicators, resolving issues and assisting other teams. Be part of the 24x7 on-call rotation
+Guide junior team members, participate in hiring
+You are a great fit if you have:
+A Bachelor’s Degree in Computer Science/Engineering
+Experience working with the infrastructure (Kubernetes, Kubeflow, GCP/Azure)
+A strong background in ML theory and algorithms, both deep learning and classical ones like SVM, random forest or gradient boosting methods
+Proficiency with Python and common ML/DL frameworks like sklearn, tensorflow, theano, pytorch or keras
+Experience developing recommendation/personalization systems
+The ability to process large amounts of data
+Knowledge of common NLP problems (language recognition, stemming & morphological segmentation/parsing, text categorization, topic modeling, text clustering or text summarization)
+Good communication skills and enjoy being part of a team
+A creative mind, critical thinking capabilities
+Solid troubleshooting skills and a problem-solving approach
+The capacity to work with minimal supervision and can be proactive
+Bonus points if you:
+Enjoy sharing your knowledge with others
+Can train and guide others
+Have a strong interest in the technology sector
+This role is a full-time position based in our Richmond, BC office. Working from home is available during the Covid pandemic and we are considering hybrid solutions post-pandemic.
+Applicants must be legally able to work in Canada.
+PressReader offers a compensation package which includes extended health care, dental, vision and accidental death insurance paid by the company; paid vacation, sick and bereavement days; reimbursements for professional training and membership in professional associations; subsidized fitness membership and more, along with a chance to be working with amazing people.
+To apply, please submit your resume. This is a great opportunity for the right candidate.
+We can’t wait to meet you!
+Related Document(s)
+Software Engineer JD.pdf
+How to Apply
+Expiring: Dec 23, 2021"
+"Machine Operator - Concord, ON - Indeed.com","Now Hiring!
+As a Machine Operator you will be a crucial part of our operations, ensuring that a quality product is available to our customers when they need them. Your work will directly affect people's lives!
+This position is located at 8200 Keele St, Concord, ON L4K 2A5.
+Key Responsibilities
+Setup, calibration, and operation of machining equipment used to produce or modify parts or products in achievements
+Work from verbal or written instructions, diagrams, or models
+Inspects machining operations and finished product against specified tolerances using precision measuring tools
+Determines and corrects minor machine malfunctions. Performs routine maintenance and cleaning
+Qualifications
+High school education or equivalent
+Two to four years of experience
+Ability to lift up to 50 pounds on a consistent basis throughout the day
+Number of Years’ experience
+Preferred qualifications
+About us:
+Here at PPG we make it happen, and we seek candidates of the highest integrity and professionalism who share our values, with the commitment and drive to strive today to do better than yesterday – everyday.
+PPG: WE PROTECT AND BEAUTIFY THE WORLD™
+Through leadership in innovation, sustainability and color, PPG helps customers in industrial, transportation, consumer products, and construction markets and aftermarkets to enhance more surfaces in more ways than does any other company.. To learn more, visit www.ppg.com and follow @ PPG on Twitter.
+The PPG Way
+Every single day at PPG:
+We partner with customers to create mutual value.
+We are insightful, dedicated and proactive. We have intimate knowledge of the market and our customers. We focus on practical solutions that make a difference.
+We are “One PPG” to the world.
+We are better and stronger together. We leverage our scale to reach new markets and introduce innovative technologies as we differentiate and disrupt our markets.
+We trust our people every day, in every way.
+We enable and empower our people to make the right decisions. We are inclusive, transparent and respectful. Our feedback is clear and actionable.
+We make it happen.
+We have a passion for winning. We achieve. We deliver with discipline and integrity. We bring our best energy to our work. We decide and act intelligently and quickly.
+We run it like we own it.
+We respect one another by being responsible and accountable. We always act in the best interest of our company, customers, shareholders and our communities.
+We do better today than yesterday – everyday.
+We continuously learn. We develop our people to grow our businesses.
+PPG Way: (Click here to learn more about the PPG Way)
+PPG vision: http://corporate.ppg.com/Our-Company/PPG-Vision.aspx
+We are One PPG: http://one.ppg.com/
+PPG provides equal opportunity to all candidates and employees. We offer an opportunity to grow and develop your career in an environment that provides a fulfilling workplace for employees, creates an environment for continuous learning, and embraces the ideas and diversity of others. All qualified applicants will receive consideration for employment without regard to sex, pregnancy, race, color, creed, religion, national origin, age, disability status, marital status, veteran status, sexual orientation, gender identity or expression. If you need assistance to complete your application due to a disability, please email recruiting@ppg.com.
+PPG values your feedback on our recruiting process. We encourage you to visit Glassdoor.com and provide feedback on the process, so that we can do better today than yesterday.
+Benefits will be discussed with you by your recruiter during the hiring process.
+Pay Transparency poster
+: https://www.dol.gov/sites/dolgov/files/ofccp/pdf/pay-transp_ English_formattedESQA508c.pdf
+EEO is the Law
+: https://www.eeoc.gov/sites/default/files/migrated_files/employers/eeoc_self_print_poster.pdf
+EEO is the Law Supplement
+: http://www.eeoc.gov/sites/default/files/migrated_files/employers/eeoc_gina_supplement.pdf
+#Dulux #IQ"
+"Data Engineer, Machine Learning - Vancouver, BC - Indeed.com","AbCellera is a young, energetic, and rapidly growing biotech company with an amazing team that searches, decodes, and analyzes natural immune systems to find antibodies that its partners can develop into drugs to prevent and treat disease.
+We are seeking a highly-motivated and experienced Data Engineer to join our Machine Learning team. We believe that we can tackle the most challenging scientific problems through teamwork, innovation, and mutual support. If you're a self-motivated and creative problem solver who thrives in a fast-paced, collaborative environment, we'd love to hear from you.
+How you might spend your days:
+Wrangling both structured and unstructured data
+Organizing and joining data sets from disjoint data storage systems
+Doing exploratory data analysis on imaging, sequence, and wet bench experimental data sets
+Implementing automated, repeatable, testable pipelines that join together and process diverse data sets
+Designing metrics to measure data set characteristics and quality
+Discovering data characteristics that influence ML model inference accuracy, and ways to mitigate problems
+Cleverly repurposing or augmenting existing internal and external tools to build manual data labeling workflows, and orchestrating data labeling efforts
+Auditing data access for compliance with data governance policies
+Providing valuable insights into platform and data pipelines development and deployment
+Participating in code reviews with the machine learning team and broader data science group
+We'd love to hear from you if you have:
+A team-first attitude and thirst to learn and improve in machine learning, software engineering, data science, and the life sciences!
+B.S. in computer science, data science, machine learning, or similar
+2+ years of experience working with machine learning data sets using Python, Pandas, and SQL, at the level of querying and joining together data sets
+Excellent organizational skills and attention to detail
+Enthusiasm for cross-team collaborative work, especially across life science disciplines
+In addition, the ideal candidate will have:
+Experience in the life sciences, including imaging and bioinformatics
+Experience with other components of our opinionated ML stack, including PyTorch, Plotly / Dash, Parquet, DVC, and Dask
+Experience with our infrastructure stack, including AWS (S3, IAM, CloudWatch, Route53, RedShift), Terraform, Kubernetes, Docker, bazel
+Offers & benefits:
+The opportunity to work with an inspired team on challenging problems that matter
+An attractive compensation package, including health and lifestyle benefits
+A minimum of 3 weeks' vacation
+Opportunities for personal and professional development
+About AbCellera:
+At AbCellera, we're solving tough problems and creating innovative solutions from the ground up - custom immunizations, microfluidics, high-throughput imaging, genomics, computation, machine learning and laboratory automation. We're revolutionizing how our scientists can explore antibodies and the scale at which they can do so. This is life-changing research and you could be a part of it.
+You'll join a diverse and multi-disciplinary team of biologists, biochemists, engineers, bioinformaticians, computer scientists and physicists - all working together to bring better therapies to patients. We're a growing company with a high-throughput pipeline and the drive to be the best in the industry. This isn't just about having the best technology. We know we need a world-class team of visionaries and innovators. We look for people with drive and energy. Idealists. People we love and people we trust. This may be unconventional, but it is the key to our success. We're looking for someone like you to help us get there.
+#LI-MM1 #LI-AS"
+"Researcher on Power Systems and Energy Management - Quebec City, QC - Indeed.com","Hitachi Energy is a pioneering technology leader that is helping to increase access to affordable, reliable, sustainable and modern energy for all. We help to power your home, keep the factories running, and our hospitals and schools open. Come as you are and prepare to get better as you learn from others. Bring your passion, bring your energy, and plug into a team that appreciates a simple truth: Diversity + Collaboration = Great Innovation
+Do you want to apply your knowledge in science or engineering to make a real difference to the everyday quality of life for hundreds of millions of people worldwide?
+Hitachi Energy is a pioneering technology leader that is helping to increase access to affordable, reliable, sustainable and modern energy for all. We help to power your home, keep the factories running, and our hospitals and schools open. Come as you are and prepare to get better as you learn from others. Bring your passion, bring your energy, and plug into a team that appreciates a simple truth: Diversity + Collaboration = Great Innovation
+Innovation is the heart of Hitachi Energy and our research centers are the backbone. Join us if you have outstanding scientific or technical expertise as well as drive and passion. Through your research projects you will become part of company-wide community that will shape and help you to develop your career into a technical or managerial leader.
+For our research center in Montreal, QC, we are looking for a research scientist with expertise in the area of Electricity Transmission and Distribution Grid Management. In this function you will work on projects with your colleagues in North America and globally.
+*The position can be located in Montreal or Raleigh*
+Your responsibilities
+Contribute to and lead research projects that advance state-of-the art for power systems network management technologies and improve end-to-end power systems operations for future power grids with large penetration of renewable generation and grid-interactive con-sumers.
+Research and implement new flexible power systems management solutions applying mathematical optimization, data analytics, machine learning.
+Network in the company and actively distribute your knowledge and expertise
+Collaborate with external partners including universities, startups and vendors
+Disseminate your results in scientific publications, patent applications, and technical reports
+Your background
+PhD degree in the area of Electrical Engineering with specialization in Power Systems, or in a related field.
+Expertise in classical power system problems such as distribution system identification, dis-tribution fault detection, optimal power flow, security constrained unit commitment, etc. is required.
+Knowledge of Energy Management Systems (EMS), Advanced Distribution Management Sys-tems (ADMS / DERMS), Outage Management Systems, etc. are preferred.
+Experience in High Performance Computing (HPC) platforms is preferred.
+Programing experience in C++, CPLEX, Python, etc. along with knowledge of data visualiza-tion methods and practices are beneficial.
+Knowledge of data models such as Common Information Model (CIM) and protocols like ICCP are beneficial.
+Excellent written and verbal communication and presentation skills in English.
+More about us
+Hitachi Energy is a global technology leader that is advancing a sustainable energy future for all. We serve customers in the utility, industry and infrastructure sectors with innovative solutions and services across the value chain. Together with customers and partners, we pioneer technologies and enable the digital transformation required to accelerate the energy transition towards a carbon-neutral future. We are advancing the world’s energy system to become more sustainable, flexible and secure whilst balancing social, environmental and economic value. Hitachi Energy has a proven track record and unparalleled installed base in more than 140 countries. Headquartered in Switzerland, we employ around 38,000 people in 90 countries. In fiscal year 2020 we generated business volumes of around $10 billion USD as reported by Hitachi. www.hitachienergy.com
+Hitachi Energy values the dedication, commitment and expertise of our employees. We are committed to employment equity and believe in an inclusive and diverse workforce. Hitachi Energy actively encourages applications from women, Indigenous Peoples, persons with disabilities and visible minorities. Hitachi Energy encourages applicants to self-identify in the application process and is prepared to provide reasonable accommodations to applicants with disabilities.
+Only selected applicants will be contacted.
+Publication date
+2021-11-01
+Reference Number
+CA51968393_E17
+Basic Info
+Location
+Saint-Laurent, QC, Quebec, Canada
+Job type
+Full-Time
+Contract
+Regular/Permanent"
+"Instrumentation Scientist - Edmonton, AB - Indeed.com","Coanda Research & Development Corporation (a Tetra Tech Company) is a rapidly growing research and development company specializing in solving the most complex industrial problems. Our expertise is the application of fundamental scientific principles to tackle complex problems. To tackle such complex challenges, Coanda develops and leverages a range of advanced methodologies such as physical and computational (CFD) modeling, mathematical and statistical modeling, and custom instrumentation. Our scientific, logical, and comprehensive approach to industrial and engineering challenges often leads to fundamental, lasting solutions for clients and a rewarding place to work for our employees.
+A challenging opportunity exists in our Edmonton, AB facility for an Instrumentation Scientist with a Data Science background. The successful candidate will engage in advanced research and development projects over a wide range of industrial sectors and technologies.
+Your Role
+:
+Taking responsibility for the measurement on new and existing apparatus. These apparatus range from benchtop units measuring a few parameters to warehouse-sized systems with multiple flow loops and motion control axis controlled by a central system.
+Determining the physical quantities that need to be measured in an experimental system to characterize the physics
+Designing the measurement system to collect data on the above. This may include:
+Specification of commercially available instrumentation
+Adaptation of existing instrumentation for non-standard applications
+Development of new instrumentation from scratch
+Installing the measurement system
+Pre-assembly and testing of instrumentation
+Installing instrumentation on the apparatus
+Wiring instrumentation back to the data acquisition/control cabinet
+Assembly and installation of the data acquisition/control cabinet
+Commissioning the measurement system
+Calibration
+Troubleshooting
+Writing data analysis packages that allow non-expert users to extract relevant information from complex datasets
+Learning the fundamentals of how each instrument works to determine its utility in new applications and correctly interpret data
+Writing report content and memos related to the design and execution of measurement and control schemes
+Specifying, procuring, calibrating, commissioning, and maintaining:
+Data acquisition systems
+Distributed wiring and control systems
+Commercial instrumentation
+Analytical equipment
+Process equipment such as pumps, compressors, valves, motors, drives, etc.
+Troubleshooting:
+Circuit board level debugging
+Process and analytical instrumentation diagnosis and repair
+Electrical noise and grounding issues between AC power, variable frequency drives and other sources, and distributed data acquisition systems
+Design, fabrication, and assembly of custom components, circuits, housings and enclosures, etc.
+Working closely with project managers and other research scientists to execute projects accurately and on time
+Compiling and maintaining well-organized data reporting & documentation: lab books, data tables, circuit diagrams, photographs, etc.
+Data collection, sample analysis, and general laboratory support and assistance
+Contributions in at least one other area or with another team at Coanda, which may be one of:
+Working with our mathematical modeling or data science team on algorithm development and other advanced data science methods and analysis
+Project management
+Certified electrician
+PLC/HMI programming
+Software development
+Identifying a need and making it happen
+Required skills and experience:
+Eagerness to learn new skills
+Critical thinker
+Sound understanding of analog and digital electronics systems and wiring techniques
+Experience with troubleshooting noise and grounding problems in data acquisition systems
+Experience troubleshooting and repairing instrumentation
+Operation and maintenance of sensitive lab equipment
+Hands-on experience with mechanical systems, process equipment, and fabrication (shop experience)
+Working safely in a lab & industrial environment
+Strong data analysis using Excel and Python/Matlab (or similar language)
+Demonstrated leadership, ability to work in a team, and attention to detail (could be in a volunteer capacity)
+Additional (preferred) skills and experience:
+Higher-level software coding (object-oriented programming, GUIs)
+Data science and/or mathematical modelling
+Machine learning
+PCB design and rework (surface mount and through hold desoldering, cutting and patching traces on boards)
+User of microcontrollers and embedded electronics (Arduino, Raspberry Pi, PLCs)
+Programming and commissioning of Siemens motor controllers/drives
+Experiments using ionising radiation or radioactive tracers
+Presenting talks/posters at conferences/meetings
+Publications in peer-reviewed journals
+Photography, videography, lighting and camera setup
+Mechanical maintenance (ex automotive repair)
+Fabrication (machining, welding, etc.) and maintenance of such equipment
+Teaching, instruction, or curriculum development
+Qualifications
+:
+Master's, Doctorate or commensurate experience specializing in physics, measurement science, engineering, experimental hard-science, or equivalent
+3+ years research experience with instrumentation, electronics and lab techniques in a scientific or industrial environment
+Must be eligible to work in Canada
+Excellent written and communication skills
+Benefits available to our employees:
+RRSP matching
+Health spending account
+Dental, vision and extended health coverage
+Travel coverage
+Short- and long-term disability coverage
+Life Insurance and AD&D
+Flexible work hours
+Paid time off for sick days and medical reasons
+This is an on-site job at Coanda’s Edmonton facility; however some travel and participation in field projects at customer’s facilities is also a possibility for this position.
+Coanda is committed to creating a diverse environment and is proud to be an Equal Opportunity Employer. We invite resumes from all interested parties including women, Indigenous persons, persons with disabilities, and members of visible minorities.
+We thank all those that apply; however, only those selected for an interview will be contacted.
+About Tetra Tech:
+Tetra Tech combines the resources of a global, multibillion-dollar company with local, client-focused delivery in more than 400 locations around the world. Our reputation rests on the technical expertise and dedication of our employees—21,000 associates working together to provide smart, scalable solutions for challenging projects. We are proud to be home to leading technical experts in water, environment, infrastructure, resource management, energy, and international development.
+Explore our open positions at https://www.tetratech.com/careers. Follow us on social media to learn more about our people, culture, and opportunities:
+LinkedIn: @TetraTechCareers
+Twitter: @TetraTechJobs
+Facebook: @TetraTechCareers
+Tetra Tech
+is proud to be an Equal Opportunity Employer. Diversity, inclusion, and equity are among Tetra Tech’s core values. Throughout our history, the company has prioritized the equitable inclusion of all people. All qualified candidates will be considered without regard to race, color, religion, national origin, military or veteran status, gender, age, disabilities, sexual orientation, gender identity, pregnancy and pregnancy-related conditions, genetic information, and any other characteristics protected by the law. We invite resumes from all interested parties. Please visit our website at www.tetratech.com to see the array of diverse services and exciting projects we are currently working on.
+We thank all applicants for their interest, however, only those candidates selected for interviews will be contacted.
+Please, no phone calls or agencies."
+Software Developer 3 - Canada - Indeed.com,"Software Developer 3-21000YQI
+Applicants are required to read, write, and speak the following languages
+:
+English
+Preferred Qualifications
+The Company
+As the leader in modern marketing, Eloqua is now the centerpiece of the Oracle Marketing Cloud. Our innovative marketing automation solutions help modern marketers target the right buyers, easily execute campaigns, get the best leads to sales and deliver the highest return on their marketing investment.
+The Eloqua Group
+We're a collection of agile teams, mainly Toronto based, that feel and think like a startup, but with the benefits of being backed by one of the world's leading technology companies. We are proud of our accomplishments that have defined us as the founders and leader in our space. We design, build, test and ship powerful software, using the tools and techniques that are right for the job. We care passionately about our customers, celebrate their success, and stop at nothing to deliver the products and solutions that are going to make them rock stars in their roles.
+Our environment is casual, flexible, fun and hardworking, encouraging individuals - and teams - to step up to explore new ideas that drive change. We want you to bring forward your unique perspective and thrive.
+Whether you're engaged in a creative whiteboard session, cranking out code for the next feature, beefing up our automation suite or enjoying a game and drink at the end of a productive day, the Eloqua team will provide you with the challenges and opportunities to take your career to a higher level.
+The Development Team
+The team you will be joining is pioneering the marketing cloud's next gen solution for marketing automation. This application adopts a modern design approach and includes prescriptive features, driven by machine learning to deliver the most impactful user experience. The team consists of a diverse and distributed group of backend, UI, and full stack engineers, using cloud-based tools for collaboration.
+Required Skills and Experiences:
+Experience with statically typed languages (ideally C# or Java)
+Motivated self-starter with a desire to innovate
+Fast learner who can pick up new technologies quickly
+Solid communication skills (written and verbal)
+Drive for shipping quality products in a timely manner
+Nice-to-Have Skills and Experiences
+Experience developing enterprise level, cloud-based, and/or SaaS applications
+Experience writing or consuming REST APIs
+Experience working with large sets of data in an RDBMS like SQL Server or Oracle DB
+Experience with JavaScript and JavaScript UI frameworks
+Experience using Agile development methodologies (such as SCRUM)
+Familiarity with unit tests, integration tests or test-driven development (TDD)
+GitHub, Gitlab (or similar) profile with open-source contributions
+University Degree in Computer Science or related technical field
+Detailed Description and Job Requirements
+Design, develop, troubleshoot and debug software programs for databases, applications, tools, networks etc.
+As a member of the software engineering division, you will assist in defining and developing software for tasks associated with the developing, debugging or designing of software applications or operating systems. Provide technical leadership to other software developers. Specify, design and implement modest changes to existing software architecture to meet changing needs.
+Duties and tasks are varied and complex needing independent judgment. Fully competent in own area of expertise. May have project lead role and or supervise lower level personnel. BS or MS degree or equivalent experience relevant to functional area. 4 years of software engineering or related experience.
+Job
+:
+Product Development
+Location
+:
+Canada
+Other Locations
+:
+CA-CA,Canada-Toronto
+Job Type
+:
+Regular Employee Hire
+Organization
+:
+Oracle"
+"Postdoctoral Fellow in Medical Imaging Machine Learning (07052021-1) - Toronto, ON - Indeed.com","Postdoctoral Fellow in Medical Imaging Machine Learning
+Description:
+This position is funded by a 2-year academic/industry collaboration between Sunnybrook Research Institute and Siemens. The successful applicant will have the opportunity to be the machine learning technical lead on exciting academic and industry initiatives using a brand new state-of-the-art PET/CT scanner (Siemens Biograph Vision). The successful applicant will have an opportunity to build a strong relationship with Siemens while publishing impactful academic papers in the medical imaging AI space. The researcher will develop entire machine learning pipelines from data ingestion, cleaning, processing, and inference. The researcher will have access to nuclear medicine physicians, radiologists, PACS administrators, and computer scientists.
+Requirements: PhD in computer or biomedical engineering, computer science, medical physics, or a related field with a research focus on biomedical image processing/medical image computing, machine learning, and/or computer vision
+Demonstrated record of high-performance scientific programming with python and/or C++
+Demonstration of personal ownership and technical leadership
+Ability to work in small and large teams, highly adaptable to changing strategies and responsibilities
+Great interpersonal communication, creative thinking, and problem-solving ability
+Demonstrated record of high-quality publications in the field
+Demonstrated analytical, verbal, and scientific writing skills
+To Apply:
+Please send the following documents to alexander.bilbily@sunnybrook.ca:
+CV
+Cover letter
+Three references
+Technical paper
+We thank you in advance for your interest. Only those candidates selected for an interview will be contacted.
+In accordance with Canadian Employment and Immigration guidelines, applicants must be eligible to work in Canada. Sunnybrook Research Institute is committed to providing accessible employment practices that are in compliance with the Accessibility for Ontarians with Disabilities Act (AODA). If you require accommodation for disability during any stage of the recruitment process, please indicate this in your cover letter.
+Sunnybrook Research Institute is strongly committed to inclusion and diversity within its community and welcomes all applicants including but not limited to: visible minorities, all religions and ethnicities, persons with disabilities, 2SLGBTQ+ persons, and all others who may contribute to the further diversification of ideas.
+Sunnybrook Research Institute is committed to providing accessible employment practices that are in compliance with the Accessibility for Ontarians with Disabilities Act (AODA). If you require accommodation for disability during any stage of the recruitment process, please indicate this in your cover letter.
+Sunnybrook Research Institute is strongly committed to inclusion and diversity within its community and welcomes all applicants including but not limited to: visible minorities, all religions and ethnicities, persons with disabilities, LGBTQ persons, and all others who may contribute to the further diversification of ideas.
+Please be advised that in order to be eligible for employment at Sunnybrook, all new hires must have received the full series of a COVID-19 vaccine or combination of COVID-19 vaccines approved by Health Canada (e.g., two doses of a two-dose vaccine series, or one dose of a single-dose vaccine series);
+AND
+have received the final dose of the COVID-19 vaccine at least 14 days ago. Medical exemptions or any other kind of requested exemption based upon the Hospital’s obligations pursuant to the Ontario Human Rights Code will be considered on a case-by-case basis."
+"Service Engineer - Concord, ON - Indeed.com","Role
+You are an energetic, skilled, team-oriented individual who will join our Production Engineering team to commission a new generation of high speed, automated manufacturing equipment. You will be responsible for the commissioning of automated machinery while maintaining a high level of technical ability and driving towards quality and schedule.
+Responsibilities:
+· Manage new equipment installation, start up and hand over on-site.
+· Collaborate with project stakeholders (Customers, Contractors, Engineers, and Management) on an ongoing basis on design reviews, modifications or changes that would impact the overall equipment build and functionality
+· Generate functional test procedures, checklists, issues logs, and specifications.
+· Perform inspections and functional tests.
+· Perform system deficiency, root cause issues/deficiencies and participate in resolution analyses.
+· Identify potential risks during commissioning, and consequently develop solutions.
+· Train customer on equipment operation, machine setups and maintenance.
+· Prepare and deliver commissioning reports and documentation.
+· Apply company commissioning process guidelines as well as industry standards to ensure quality project delivery.
+Requirements:
+· A bachelor’s degree in engineering/science with 5 years of commissioning & qualification experience of automated machinery or equivalent an asset.
+· A degree in Mechanical or Electrical Engineering is preferred
+· Experience in a manufacturing environment required
+· Read & interpret engineering drawings and design documents required.
+· Excellent technical and communication skills in English.
+· A self-motivated individual looking for advancement opportunities.
+· Ability to travel.
+Work remotely:
+No
+About Pack-Smart
+We design, manufacture, sell and support the world’s most innovative performance-driven automation solutions for industrial, digital printing, pharmaceutical, financial and e-commerce markets, providing customers the opportunity to set higher standards while bringing products to life.
+Pack-Smart offers a safe, modern, dynamic and fast-paced environment where inclusion, learning and collaboration are key to successfully delivering exemplary solutions. You get the chance to work with innovative technology, advanced tools and software, in addition to the continuous training and development provided to help grow your skills and your career.
+Our teams operate with a non-conventional philosophy of inter-disciplinary collaboration. Each member of the team is expected to challenge and to be challenged, to create, and to innovate. We’re tackling the world’s most innovative automation projects and we wouldn’t succeed without our shared passion for making the world a more advanced place.
+Interested candidates please forward your resume through Indeed.
+Pack-Smart Inc. welcomes and encourages applications from people with disabilities. Accommodations are available on request for candidates during the hiring process.
+COVID-19 considerations:
+We have implemented extensive measures for Covid-19 workplace safety procedures including physical distancing, masks, increased cleaning/sanitizing frequency, glass partitions between desks, etc.
+Job Types: Full-time, Permanent
+Salary: $35.00-$45.00 per hour
+Additional pay:
+Bonus pay
+Benefits:
+Dental care
+Extended health care
+Life insurance
+Vision care
+Wellness program
+Schedule:
+Day shift
+Licence/Certification:
+Canadian 'citizenship' or 'PR/Work Permit with US Visa' (required)
+Work remotely:
+No"
+"Tenure-Track Faculty Position in Computer Science: Machine Learning - Montréal, QC - Indeed.com","Workday title: Tenure-Track Faculty Position in Computer Science: Machine Learning
+The School of Computer Science of McGill University, Montreal, invites applications for a tenure-track appointment at the rank of Assistant Professor. We are seeking candidates with a PhD and expertise in machine learning/artificial intelligence, having a strong publication record in top ML/AI conferences (e.g. NeurIPS, ICML, and ICLR), journals, and/or related publication venues. We are particularly interested in candidates with expertise in methodological development of innovative core machine learning approaches.
+The successful candidate will be expected to conduct high-quality research and secure competitive external funding, teach to a diverse and talented undergraduate and graduate student body and provide service to the University, the profession and society at large.
+Suitable candidates will be nominated to become affiliated to Mila (Quebec AI Institute). Outstanding candidates with specialization in core machine learning may be recommended to receive a CIFAR Chair in AI, subject to availability. The expected start date is August 1, 2022.
+A complete application package must include
+A cover letter
+A Curriculum Vitae including a list of publications
+A research statement
+A teaching statement
+The names and email addresses of three references
+For external applicants, a guide on the application process is available .
+For more information, contact apply@cs.mcgill.ca
+Candidates working on AI applications in engineering are referred to a separate search in the Dept. of Electrical and Computer Engineering: www.mcgill.ca/ece
+The selection process will begin December 15, 2021, and continue until the positions are filled. Depending on feasibility, interviews may either be conducted in person or remotely.
+Montreal is home to a very active AI community, including university-led institutes such as the Mila - Quebec AI Institute, which receives considerable government funding; industry-led AI research groups (Google, Facebook, Microsoft, Samsung, Borealis, Thales, and several more); as well as a thriving AI startup community. Montreal is a historic and cosmopolitan city, home to four universities, and is considered one of the top 3 cities for students in North America.
+McGill University is among the top research-intensive academic institutions in Canada and has consistently been ranked in the top universities worldwide. McGill offers a collegial environment
+with opportunities for interaction with world-class researchers in machine learning, robotics, social data science, bioinformatics, natural language processing, theory, big data systems, communications, microelectronics and computer systems, software engineering and systems and control.
+COMMITMENT TO EQUITY AND DIVERSITY
+McGill University is committed to equity and diversity within its community and values academic rigour and excellence. We welcome and encourage applications from racialized persons/visible minorities, women, Indigenous persons, persons with disabilities, ethnic minorities, and persons of minority sexual orientations and gender identities, as well as from all qualified candidates with the skills and knowledge to engage productively with diverse communities.
+At McGill, research that reflects diverse intellectual traditions, methodologies, and modes of dissemination and translation is valued and encouraged. Candidates are invited to demonstrate their research impact both within and across academic disciplines and in other sectors, such as government, communities, or industry.
+McGill further recognizes and fairly considers the impact of leaves (e.g., family care or health-related) that may contribute to career interruptions or slowdowns. Candidates are encouraged to signal any leave that affected productivity, or that may have had an effect on their career path. This information will be considered to ensure the equitable assessment of the candidate’s record.
+McGill implements an employment equity program and encourages members of designated equity groups to self-identify. It further seeks to ensure the equitable treatment and full inclusion of persons with disabilities by striving for the implementation of universal design principles transversally, across all facets of the University community, and through accommodation policies and procedures. Persons with disabilities who anticipate needing accommodations for any part of the application process may contact, in confidence, this email or phone at
+514-398-2477
+.
+All qualified applicants are encouraged to apply; however, in accordance with Canadian immigration requirements, Canadians and permanent residents will be given priority.
+McGill University is committed to equity and diversity within its community and values academic rigour and excellence. We welcome and encourage applications from racialized persons/visible minorities, women, Indigenous persons, persons with disabilities, ethnic minorities, and persons of minority sexual orientations and gender identities, as well as from all qualified candidates with the skills and knowledge to engage productively with diverse communities.
+At McGill, research that reflects diverse intellectual traditions, methodologies, and modes of dissemination and translation is valued and encouraged. Candidates are invited to demonstrate their research impact both within and across academic disciplines and in other sectors, such as government, communities, or industry.
+McGill further recognizes and fairly considers the impact of leaves (e.g., family care or health-related) that may contribute to career interruptions or slowdowns. Candidates are encouraged to signal any leave that affected productivity, or that may have had an effect on their career path. This information will be considered to ensure the equitable assessment of the candidate’s record.
+McGill implements an employment equity program and encourages members of designated equity groups to self-identify. It further seeks to ensure the equitable treatment and full inclusion of persons with disabilities by striving for the implementation of universal design principles transversally, across all facets of the University community, and through
+accommodation policies and procedures
+.
+Persons with disabilities who anticipate needing accommodations for any part of the application process may contact, in confidence,
+accessibilityrequest.hr@mcgill.ca
+.
+All qualified applicants are encouraged to apply; however, in accordance with Canadian immigration requirements, Canadians and permanent residents will be given priority."
+"Science Writer - Vancouver, BC - Indeed.com","Full-timeVancouver
+NOVEMBER 8, 2021
+Job ID:
+21033
+Working at the interface of computation, engineering, and biology, AbCellera is redefining the process of how drugs are discovered. Our full-stack AI-powered drug discovery platform searches, decodes, and analyzes natural immune systems to find antibodies that our partners can develop into drugs to prevent and treat disease.
+Our team includes scientists, engineers, software developers, data scientists and business professionals working on drug discovery programs with leading biotechnology companies, global health organizations, and many of the top 10 biopharmaceutical companies. We partner with drug developers of all sizes to empower them to move more quickly, reduce cost, and tackle some of the toughest problems in antibody discovery. The ultimate goal is to help bring new therapies to patients faster, and our work spans many diseases including oncology, inflammation, cardiovascular disease, pain, neurodegeneration, and more. Last year, AbCellera was named to Fierce Biotech’s Fierce 15 list, and received three Fast Company awards, including the Most Innovative Team of the Year for 2020.
+We’re seeking a Science Writer to join our agile Communications team in crafting narratives about what we do, how we do it, and why it is important. You will work side-by-side with our internal scientific, engineering, and business teams to cut through the jargon and create content that is clear, compelling, and insightful. You will use your love of language and learning to weave meaningful stories that take the shape of presentations, manuscripts for peer-reviewed journals, web copy, infographics, and much, much more.
+How you might spend your days:
+Collaborating closely with internal teams to create and deliver content plans
+Transforming ideas into understanding by writing and editing presentations, fact sheets, scientific manuscripts, program reports, case studies and other technical collateral
+Adapting scientific and technical material into web content, social media posts, blogs, and other digital content
+Collecting and analyzing scientific data
+Developing content management processes that foster efficiency and continuous innovation
+We'd love to hear from you if :
+You have 5 -7 years’ related work experience as a science communicator
+College or university degree in life science, marketing, advertising, or journalism
+You have experience publishing scientific manuscripts
+You are meticulous, organized, and have experience managing complex projects across cross-functional teams
+You are self-motivated and curious to learn about new scientific concepts
+You thrive in a fast-paced team environment
+You have experience working with the Microsoft and Google office suites, data analytics tools, and the Adobe Creative Suite.
+Expertise in immunology or protein engineering considered a bonus
+Offers & benefits:
+The opportunity to work with an inspired team on challenging problems that matter
+An attractive compensation package, including health and lifestyle benefits
+A minimum of 3 weeks’ vacation
+Opportunities for personal and professional development
+About AbCellera:
+At AbCellera, we’re solving tough problems and creating innovative solutions from the ground up - custom immunizations, microfluidics, high-throughput imaging, genomics, computation, machine learning and laboratory automation - revolutionizing how our scientists can mine natural immune systems to discover new antibody therapies, and the scale at which they can do it. This is life-changing research and you could be a part of it.
+You’ll join a diverse and multi-disciplinary team of accountants, administrators, biologists, biochemists, engineers, computer scientists, and physicists - all working together to bring better therapies to patients. We’re a growing company with a high-throughput tech stack and the drive to be the best in the industry. This isn’t just about having the best technology, it’s also about having efficient and seamless operations based on teamwork and cutting-edge tools. We know we need a world-class team of visionaries and innovators across the entire organization. We look for people with drive and energy. Idealists. People we love and people we trust. This may be unconventional, but it is the key to our success. We’re looking for someone like you to support, nurture, and organize our efforts along the way.
+#LI-MS"
+"Data Scientist - Toronto, ON - Indeed.com","Job description
+Dawn InfoTek Inc. is a professional IT consulting team that partners with major financial institutions, investment firms and government sectors. We have been dedicated to delivering cutting-edge consulting services and recruiting all levels of IT positions for our clients.
+We are currently seeking competent individuals to fulfill the role of
+Developer - Specialty / Niche
+to join our dynamic team for our client, one of the major
+banks
+.
+Job responsibilities
+End-to-end implementation and iterative enhancement of complex models to various lines of business
+Research and development of models using state-of-the-art
+artificial intelligence
+in a diverse and established finance data
+Exploratory data analysis and feature engineering on original data
+Structure and organize
+big data sets
+from a variety of noisy sources with the goal of discovering valuable and actionable insights
+Think strategically to architect new modeling approaches to complex problems
+Candidate Requirements/Must Have Skills:
+2-5 Years of experience with research, building and implementing
+machine learning models
+2+ years of experience with
+Python
+In-depth knowledge of deep learning, convolutional
+neural networks
+, natural language processing, and recurrent neural networks.
+Strong
+mathematics and statistical analysis background
+A keen interest in technology and continuous learning about emerging technologies
+Nice-To-Have Skills:
+Background experience in
+financial markets
+with experience in Risk, Finance, Planning and forecasting or other relevant fields is preferred
+Soft Skills:
+Ability to work as part of a team, as well as work independently or with minimal direction.
+Excellent presentation and data visualization skills
+Degrees or certifications:
+Master's
+in a technical discipline such as Engineering, Mathematics, Econometrics, Computers Science or Statistics. Relevant PhD preferred but not required
+We thank all applicants for their interest and referral. However, only qualified candidates selected for an interview will be contacted.
+For further information on our company, please visit: www.dawninfotek.com
+*** ONLY CANDIDATES WHO ARE CURRENTLY LOCATED IN CANADA WILL BE CONSIDERED***
+Contract length: 2.5 months
+Job Types: Full-time, Contract
+Salary: $35.00-$50.00 per hour
+Schedule:
+Monday to Friday
+Work remotely:
+Temporarily due to COVID-19"
+"Intern - Security Operations Analyst - Vancouver, BC - Indeed.com","Vancouver, CA, V6C 1W6
+Technology Office
+Sophos is a worldwide leader in next-generation cybersecurity, protecting more than 500,000 organizations and millions of consumers in more than 150 countries from today’s most advanced cyberthreats. Powered by threat intelligence, AI and machine learning from SophosLabs and SophosAI, Sophos delivers a broad portfolio of advanced products and services to secure users, networks and endpoints against ransomware, malware, exploits, phishing and the wide range of other cyberattacks. Sophos provides a single integrated cloud-based management console, Sophos Central – the centerpiece of an adaptive cybersecurity ecosystem that features a centralized data lake that leverages a rich set of open APIs available to customers, partners, developers, and other cybersecurity vendors. Sophos sells its products and services through reseller partners and managed service providers (MSPs) worldwide. Sophos has major hubs around the globe. More information is available at www.sophos.com
+Role Summary
+Sophos is a next-generation IT security vendor that has stayed at the forefront of the industry by understanding the threat landscape, changing business needs and customer challenges. We are constantly looking for ways to revolutionize how security technology interacts with the user; and have a penchant for solving complex and challenging technical problems in a creative and innovative manner.
+As a security company, Sophos takes its own security very importantly and has an internal IT Security team which focuses on protecting Sophos' own systems and infrastructure. This is a great opportunity to help secure a world-leading security company. As you'd expect, you'll be joining an organization that takes security seriously. You will get the opportunity to work with some world-leading experts from across the company in a fast-paced and exciting environment where security is the priority. As an added bonus, through our dogfooding programme, you can also contribute to improving our products.
+You'll need to be highly motivated, have an innovative mind-set and able to clearly articulate complex technical security issues to senior management.
+What You Will Do
+To succeed in this role, you’ll be passionate about Cybersecurity, and keen to use your incident response skills. Your innovative ideas and problem-solving talent to help the team build tools that help our Security Operations Team protect Sophos. You will be part of highly driven Global Security Operations Center securing a cyber security company.
+As part of this role you will need to:
+Monitor and Triage daily SIEM events, analyse and respond to phishing
+Perform daily handovers with global SOC team
+Perform security investigation using leading cybersecurity tools
+Perform threat intelligence activities using commercial and open source tools
+Configure and optimize security controls and policies for endpoint and network security tools
+Monitor system logs, SIEM tools and network traffic for unusual or suspicious activity
+Other duties and responsibilities as directed
+What You Will Bring
+Passion for cybersecurity
+Excellent Communication Skills – English
+Creativity and out of the box thinking
+Knowledge of Splunk is an asset
+Knowledge of SIEM/NGFW/EDR/Vulnerability Management Tooling is an asset
+Understanding of Incident Response lifecycle
+What’s Great About Sophos?
+Our people are what makes Sophos special – we demonstrate shared vision, talent, innovation, and creativity, all of which are accompanied by a great sense of fun and team spirit.
+Employee-led diversity and inclusion groups that build community within Sophos and provide internal education and advocacy (eg. Sophos Women in Tech group to improve gender parity, encourage gender-balanced leadership, and support career progression at Sophos)
+Sophos Environment Network and employee challenges to contribute to sustainability and reduce our environmental footprint
+Annual commitment to charity and fundraising across our global sites and volunteer days for employees to give back to local communities
+Global trivia competitions to keep our minds sharp
+Global Mental Health days off work for all Sophos to help employees relax and recharge
+Monthly employee wellbeing webinars and training to support employee health and wellbeing
+Employee rewards and thanks, such as our free annual subscription to Calm
+Our Commitment To You
+We’re proud of the diverse and inclusive environment we have at Sophos, and we’re committed to ensuring equality of opportunity. We believe that diversity, combined with excellence, builds a better Sophos, so we encourage applicants that can contribute to the diversity of our team. All applicants will be treated in a fair and equal
+manner and in accordance with the law regardless of gender, sex, gender reassignment, marital status, race, religion or belief, color, age, military veteran status, disability, pregnancy, maternity or sexual orientation. We want to give you every opportunity to show us your best self, so if there are any adjustments we could make to the recruitment and selection process to support you, please let us know.
+Data Protection
+If you choose to explore an opportunity, and subsequently share your CV or other personal details with Sophos, these details will be held by Sophos for 12 months in accordance with our Privacy Policy and used by our recruitment team to contact you regarding this or other relevant opportunites at Sophos. If you would like Sophos to delete or update your details at any time, please follow the steps set out in the Privacy Policy describing your individual rights. If you have any questions about Sophos' data protection practices, please contact dataprotection@sophos.com.
+At Sophos, we want every organization to be protected by innovative, next-generation IT security, even those who don't have a huge IT staff. We protect organizations of all sizes, all around the world by making enterprise-grade security that is simple to deploy, manage, and use. It is our passion, and something we are truly proud of.
+Job Types: Internship, Apprenticeship"
+"Medical Imaging Research Assistant - Montréal, QC - Indeed.com","Do you want to join a diverse and global team that is revolutionizing the cardiovascular healthcare industry? Circle CVI is hiring!
+About Circle Cardiovascular Imaging
+Circle Cardiovascular Imaging Inc. (Circle CVI) is revolutionizing the medical technology industry by developing world-class and advanced post-processing solutions for cardiovascular and neurovascular imaging. Headquartered in Calgary and with offices in Germany, the Netherlands, China, and the USA, Circle CVI is a global leader in serving over 1000 hospitals in over 50 countries.
+Founded in 2007, Circle CVI has partnered with some of the most respected bodies in the medical field to disrupt and innovate cardiovascular and neurovascular imaging using machine learning, big data, AI, and other technologies. Our proprietary technology successfully demonstrates our capabilities within the same range as expert human readers, improving cardiovascular health through excellence in imaging as an integral part of precision medicine.
+In early 2021, we have received a significant investment from the Canadian government’s Western Diversification Program (WDP) as recognition for our position “as the world leader in cardiovascular imaging.” With the highest priority in excellence, our products and services are truly changing the world, allowing healthcare providers to give more precise care to patients.
+Currently, Circle CVI is looking for a
+Medical Imaging Research Assistant
+to join our team in
+Berlin, Germany.
+Reporting to the Clinical Director, the Clinical Medical Imaging Research Assistant will be responsible for CMR data quality in the realm of clinical trials and artificial intelligence.
+About the Opportunity
+As our new
+Medical Imaging Research Assistant
+, you will:
+Coordinates with various departments and assists to prepare documentation for clinical trial activities and maintains accuracy in process.
+Works closely with sites, software developers, and managers to understand user scenarios, requirements, and typical usage workflows, technical issues, impact, and risk areas
+Collects, processes, and assists in the compilation and verification of research data, following strict protocol and detailed instructions.
+Assists with data analysis, as assigned.
+Assists with data verification and quality control, ensuring data integrity and consistency with prescribed study protocol.
+Assists in the setup and operation of research prototypes for CMR postprocessing
+Troubleshoots issues found during data review or preparation and assists in problem analysis
+Writes standard operation procedures and work instructions for internal and external processes.
+Assists with site recruitment and related administration
+About You
+Experience in MR imaging and/or postprocessing
+Knowledge in cardiac anatomy
+Familiar with quality management in clinical trials
+Strong analytical, critical thinking and problem-solving skills
+Good understanding of Mac, Windows and Windows Server operating systems
+Demonstrate strong written and verbal communication skills and ability to work in a team environment across multiple geographic locations and cultures
+Fluent in German and English
+Radiographer or Biomedical engineering degree or related
+Bachelor in medical or biomedical sciences
+Experience in CMR image acquisition and technology considered an asset
+Familiar with cardiac pathology and pathophysiology considered an asset
+Working knowledge of the validation process in a regulated environment considered an asset
+Keen interest in AI, biological sciences/medical/healthcare applications is a plus considered an asset
+Spatial reasoning skills, ability to visualize 3D objects from 2D images considered an asset
+About the Benefits
+Competitive compensation
+Comprehensive health benefits on day one
+Transportation allowance
+Flexible working arrangements
+Professional development and tuition reimbursement program
+Gratifying internal recognition/kudos programs
+Annual salary review – based on company and individual performance
+Fun, inclusive, ego-free environment where diversity and individual thoughts are encouraged and valued
+Company/team building events such as amusement park festivals, outdoor picnics, BBQs, etc.
+Upon joining Circle CVI, you will be welcomed into a collaborative and supportive company with uncompromising values on quality, innovation, culture, and customer service. Join us in changing the medical technology world and submit your application below!"
+Advanced Research and Development Intern - Oracle Labs - Canada - Indeed.com,"Advanced Research and Development Intern - Oracle Labs-21000VSO
+Applicants are required to read, write, and speak the following languages
+:
+English
+Preferred Qualifications
+The Program:
+Our future success depends on hiring world-class, early in career talent who are looking to power next-generation services and solutions. We are hiring graduate students with a strong set of skills and experiences for a
+3-12 month internship
+with our Oracle Labs team. Our program is intended to enhance your overall learning experience, help build your network, and accelerate your opportunity to make an impact. Create the future with us!
+The Team
+Oracle Labs is the advanced research and development arm of Oracle. We focus on the development of technologies that keep Oracle at the forefront of the computer industry. Oracle Labs researchers look for novel approaches and methodologies, often taking on projects with high risk or uncertainty, or that are difficult to tackle within a product-development organization. Oracle Labs’ research is focused on real-world outcomes: our researchers aim to develop technologies that will someday play a significant role in the evolution of technology and society.
+Our projects extend to different application domains like cyber security intelligence, compliance, fraud detection, NLP for graphs, recommender systems, enterprise graphs, database optimizations, and more. The following are a few examples of current projects in Oracle Labs:
+Oracle Parallel Graph AnalytiX (PGX)
+is a toolkit for graph analytics that supports graph algorithms, such as PageRank, graph queries with PGQL, and graph machine learning.
+Oracle Database Multilingual Engine (MLE)
+enables developers to work efficiently with DB-resident data in modern programming languages and development environments of their choice.
+Oracle
+AutoMLx
+combines a novel, iteration-free AutoML pipeline designed to quickly provide accurate models with easy-to-understand explanations, thereby making advanced machine learning accessible to any developer.
+Oracle Labs Data Studio
+is a multi-tenant, multi-server, scalable and secure arbitrary code execution engine with a notebook frontend for building data science applications.
+The Company
+Oracle is the world’s leading provider of business software. With a presence in over 175 countries, we are one of the biggest technology companies on the planet. We're using innovative emerging technologies to tackle real-world problems today. From advancing energy efficiency to reimagining online commerce, the work we do is not only redefining the world of business—it is helping advance governments, power nonprofits, and giving billions of people the tools, they need to outpace change. For more information about Oracle (NYSE:ORCL), visit us at oracle.com.
+Oracle’s commitment to R&D is a driving factor in the development of technologies that have kept Oracle at the forefront of the computer industry. If you are passionate about advanced development and working on the next-generation large-scale distributed systems for the most popular open source database in the world, which is optimized for the cloud providing the best performance, we would like to talk with you.
+What You’ll Do:
+Oracle Labs technology is now leveraged to boost the performance and functionality of various Oracle products and applications including the Oracle Autonomous Database. Our internship topics include, but are not limited to:
+Demonstrate latest AI and ML techniques to improve the performance of Oracle Autonomous Database
+Add or improve capabilities of the Oracle Autonomous Database such as: large scale graph processing support, execution of microservice logic closer to the data, etc
+Demonstrate code generation approaches and domain-specific languages to accelerate data-intensive workloads from graph, relational and machine-learning domains
+Explore how scalable graph machine learning algorithms can be implemented and used in various ML driven applications
+Implement new features, enhance existing functionality, measure, and improve performance of various web-based data science platforms and graph applications
+Improve AutoML and/or explainability for classification, regression, anomaly detection, and forecasting tasks;
+Explore AutoML and/or explainability support for federated learning, model bias reduction, unstructured (e.g., NLP) and semi-structured (e.g., video/audio/graph) data, or generic models including GNNs, DNNs and/or RNNs
+What You’ll Bring (Objective Minimum Qualifications):
+To be considered for a Developer Intern position, you must possess the Objective Minimum Qualifications (OMQs) below.
+Please ensure that your application clearly indicates that you meet these OMQs
+, either on your resume and/or by uploading additional documents such as a transcript.
+Are enrolled in a Master’s or PhD degree program in Computer Science, Computer Engineering, or an equivalent science/engineering field.
+Have no more than 12 months of professional full-time work experience in the technology field (excluding internships, research and/or teaching assistant roles, and military experience).
+Are proficient (i.e., able to complete coding projects with no assistance) in
+two or more
+of the following programming languages:
+Java, Python, C, C++
+Have completed coursework, projects, internships, and or research in
+three or more
+of the following technical areas:
+Algorithms
+Compilers
+Data Structures
+Database Architecture
+Deep Learning
+Distributed/Concurrent Programming
+Machine Learning
+Object Oriented Programming
+Have experience through coursework, projects, internships, and or research in
+at least one
+of the following:
+Python data libraries (NumPy, Pandas, scikit-learn, Tensorflow and/or PyTorch)
+RESTful Architecture
+Web server frameworks (e.g. Spring Boot)
+JS/HTML/CSS
+UI component frameworks (e.g., React)
+Have completed
+at least
+one
+internship, research assistantship, teaching assistantship, or equivalent practical experience working with the relevant technical areas noted above.
+Attend a university in Canada.
+Able to obtain work authorization in Canada in 2022.
+In addition to the OMQs above, all well-qualified Oracle Labs intern candidates should have excellent problem-solving and analytical skills.
+What We’ll Give You:
+High Impact Projects:
+High impact projects that can make a difference to Oracle and our customers.
+Fast-Paced Environment:
+A fast paced research and advanced development environment from project incubation to implementation
+Cutting Edge Technology:
+Work on cutting edge technology in enterprise cloud computing
+Collaborative Environment:
+A collaborative, cross-geographical, diverse team working towards common goals
+Life at Oracle:
+An Oracle career can span industries, roles, countries and cultures, giving you the opportunity to tackle new roles and challenges, while blending work and life. Oracle has thrived through 40+ years of change by innovating and operating with integrity while delivering for the top companies in almost every industry. To nurture the talent that makes this happen, we work hard to build a vibrant and inspiring workplace that celebrates diverse, hardworking teams where everyone can contribute. We take care of each other, and value giving back to the community. We have flexible work arrangements and offer benefits including generous paid parental leave and comprehensive premium medical insurance.
+We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform crucial job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.
+At Oracle, we don’t just respect differences—we celebrate them. We believe that innovation starts with inclusion and to create the future we need people with diverse backgrounds, perspectives, and abilities. That’s why we’re committed to creating a workplace where all kinds of people can do their best work. It’s when everyone’s voice is heard and valued that we’re inspired to go beyond what’s been done before. https://www.oracle.com/corporate/careers/diversity-inclusion/
+Detailed Description and Job Requirements
+This job code is utilized for the majority of our temporary hires. The individual is performing hourly job duties as defined under the Fair Labor Standards Act.
+Job
+:
+All Roles
+Location
+:
+Canada
+Job Type
+:
+Temporary Employee Hire
+Organization
+:
+Oracle"
+"Process Engineering Technologist - Tottenham, ON - Indeed.com","Overview:
+Flex-N-Gate is a leading manufacturer and supplier of components for the automotive industry, recently ranked 10th of the 150 Top North American Suppliers in “Automotive News.” A growing and vital company, Flex-N-Gate provides a great opportunity for hard-working and skilled individuals.
+Scope of the Position:
+The Process Engineering Technologist will manage the introduction of new products, processes, and technologies into production. He or She will also review existing processes and manage the transition of technologies and new processes for batch scale up.
+Responsibilities:
+Work to develop a marketing and product design teams to formulate a manufacturing process for the new product.
+Develop a cost-effective and working production process of the new product.
+Set detailed specifications and implement production plans.
+Conduct tests on systems for efficiency and accuracy till a quality and cost-effective production process is implemented successfully.
+Oversee process design projects and ensure the projects are completed on time.
+Ensure financial budgets are followed throughout the manufacturing process.
+Improve the present manufacturing production process to boost productivity, quality, and profitability for the company.Research and recommend new manufacturing technology, work in the collaboration with the engineering department to better production equipment functionality. Implement the transition of new technology to ensure production continues with success.
+Responsible for monitoring adherence to the company safety program by all (Company Name) employees and subcontractors.
+Perform additional assignments per supervisor’s direction.
+Advise on improvements in tracking and reporting procedures.
+Lead and/or participate on teams with safety, technical, management, and other team members.
+Periodically act as a team leader to special task forces or teams.
+Qualifications:
+Candidates will possess a degree in Engineering or a diploma as an Engineering Technologist in Mechanical or a similar manufacturing discipline
+3+ years of experience in a manufacturing environment is required.
+CAD experience drawing in 3D.
+Additional knowledge in any of the following would also be an asset: TS16949; ISO14001; PLC and HMI programming; vision systems; servo systems; robotics; paint systems; welding; machining; ergonomics; line balancing and MOST techniques; GD&T; PHSR/machine guarding; Six Sigma.
+Strong organizational skills.
+Strong communication skills (both verbal and written).
+Proficiency with database applications and administration systems, specifically Microsoft Office.
+Ability to work effectively alone and prioritize.
+Must be a highly motivated, service and team-oriented individual with an attention to detail.
+Enthusiasm for challenge and new initiatives are prerequisites.
+Strong analytical ability
+Supervisory and interpersonal skills are required
+Troubleshooting ability is required
+Strong decision making and problem solving skills
+Demonstrated good internal customer service skills
+Proven good presentation skills.
+Good presentation skills
+Ability to manage multiple projects.
+Detail oriented
+Good computer skills
+Benefits:
+Medical, dental, prescription, vision, life and disability insurance
+RRSP retirement savings plan
+Extensive safety training, new hire orientation, continuous learning and development programs and tuition reimbursement
+Paid holidays and vacation time
+What do our employees have to say?
+“It engages you professionally, and provides learning opportunities.”
+“Lots of growth opportunity.”
+“The company’s young enough to be exciting, but old enough to be stable.”
+Not just a job—a great place to work!
+Flex-N-Gate is an equal opportunity employer. Ontario Human Rights Code and AODA."
+"Research Scientist - Statistical Learning and Experimentation | Chercheur/chercheuse scientifique – Apprentissage et expérimentation statistiques - Vancouver, BC - Indeed.com","Our Statistics & Privacy team focuses on establishing step-change improvements to advance our long-term business growth. The team's expertise spans many domains including statistics, machine learning, economics, and cryptography. We develop methodologies, design and prototype solutions, and partner with our engineering colleagues to launch these solutions such that 3 billion people and 200 million businesses on our platform can benefit. Examples include internal and external experimentation platforms, ads delivery optimization for efficient causal outcomes, and the application of privacy enhancing technologies across our ads product stack.
+Facebook seeks industry-experienced Research Scientists to join Statistics & Privacy and serve as scientific leaders for cutting-edge applied research. Such work necessitates identification and evaluation of new research opportunities, and development of scientifically rigorous systems. Research scientists drive forward prototypes and methodologies, and build consensus with engineering stakeholders as to the scientific and strategic merit of our initiatives. This role will focus on ranking, delivery, and experimentation systems that power our advertising and commerce capabilities. This work is critical to our long-term product development, and we expect research scientists to provide both scientific expertise and creative solutions to accelerate their project area. -Notre équipe Statistiques et Vie Privée se concentre sur la mise en place d'améliorations radicales pour favoriser la croissance de nos activités à long terme. L'expertise de l'équipe couvre de nombreux domaines, notamment les statistiques, l'apprentissage automatique, l'économie et la cryptographie. Nous développons des méthodologies, concevons et prototypons des solutions, et nous nous associons à nos collègues ingénieurs pour lancer ces solutions afin que les 3 milliards de personnes et les 200 millions d'entreprises qui utilisent notre plateforme puissent en bénéficier. Nous pouvons citer en exemple les plateformes internes et externes d’expérimentation, l’optimisation de la mise en œuvre d’annonces pour des résultats causaux efficaces et l’application de technologies d’amélioration de la confidentialité sur nos produits de publicité.
+Facebook recherche des chercheurs/chercheuses scientifiques expérimenté(e)s dans l'industrie pour rejoindre l’équipe Statistiques et Vie Privée et servir de leadeurs scientifiques pour la recherche appliquée de pointe. Ce travail nécessite l'identification et l'évaluation de nouvelles opportunités de recherche, ainsi que le développement de systèmes scientifiquement rigoureux. Les chercheurs/chercheuses scientifiques font avancer les prototypes et les méthodologies, et établissent un consensus avec les parties prenantes de l'ingénierie quant à la valeur scientifique et stratégique de nos initiatives. Ce rôle se concentrera sur les systèmes de classement, de livraison et d'expérimentation qui alimentent nos capacités de publicité et de commerce. Ce travail est essentiel pour le développement de nos produits à long terme, et nous attendons des chercheurs/chercheuses qu'ils/qu'elles fournissent à la fois une expertise scientifique et des solutions créatives pour accélérer leur domaine de projet.
+Identify specific, high-impact opportunities to build new and improve existing advertising and commerce solutions | Identifier des opportunités spécifiques et à fort impact pour créer de nouvelles solutions de publicité et de commerce et améliorer les solutions existantes
+Design and prototype new algorithms, optimization methods, and system architectures with a focus on deep learning (retrieval, ranking, recommender systems), experimentation and inference systems | Concevoir et prototyper de nouveaux algorithmes, des méthodes d'optimisation et des architectures de système en mettant l'accent sur l'apprentissage profond (recherche, classement, systèmes de recommandation), l'expérimentation et les systèmes d'inférence
+Build cross-functional relationships to shape long-term roadmaps with a balance of scientific rigor and strategic considerations | Établir des relations interfonctionnelles afin de façonner des feuilles de route à long terme avec un équilibre entre la rigueur scientifique et les considérations stratégiques
+Learn new tools, systems and languages quickly as required by the particular project you are working on | Apprendre de nouveaux outils, systèmes et langues aussi rapidement que l'exige le projet.
+Develop patent applications, white papers, conference presentations, and publications that are broadly appealing and accessible beyond a core scientific audience | Développer des demandes de brevet, des livres blancs, des présentations de conférence et des publications qui sont largement attrayantes et accessibles au-delà d'un public scientifique de base
+PhD in a quantitative field such as statistics, computer science, physics, or computational social science, or MS/MA degree with 4+ additional years of relevant experience | Doctorat dans un domaine quantitatif tel que les statistiques, l'informatique, la physique ou les sciences sociales computationnelles, ou diplôme MS/MA avec 4+ années supplémentaires d'expérience pertinente
+First-author publications at peer-reviewed conferences (e.g. NeurIPS, ICML, JSM, KDD) or disciplinary journals | Publications en tant que premier auteur dans des conférences évaluées par des pairs (par exemple, NeurIPS, ICML, JSM, KDD) ou des revues spécialisées
+Expertise in statistics (particularly causal inference and Bayesian inference) or deep learning (particularly ranking, retrieval and recommender systems), including addressing challenges from incomplete, unrepresentative, and mislabeled data | Expertise en statistiques (en particulier l'inférence causale et l'inférence bayésienne) ou en apprentissage profond (en particulier les systèmes de classement, d'extraction et de recommandation), y compris la résolution des problèmes liés aux données incomplètes, non représentatives et mal étiquetées
+Proficiency designing and implementing analytical and/or algorithmic solutions, tailored to particular business needs and tested on large data sets | Compétences en matière de conception et de mise en œuvre de solutions analytiques et/ou algorithmiques, adaptées à des besoins commerciaux particuliers et testées sur de grands ensembles de données
+Expertise in Python, Julia, or R | Expertise en Python, Julia ou R
+Proficiency in communicating analyses and establishing confidence among audiences who do not share your disciplinary background or training | Compétences en matière de communication d'analyses et de mise en confiance de publics qui ne partagent pas votre formation ou vos antécédents disciplinaires
+Track record of product or systems innovation, and strategic focus | Antécédents en matière d'innovation de produits ou de systèmes, et orientation stratégique.
+Facebook's mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Facebook are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities - we're just getting started."
+"PHP Backend Developer at Binogi (e-learning, edtech) - Halifax, NS - Indeed.com","Binogi
+creates educational animated videos and interactive quizzes, tailored to the school curriculum in each country. Students, teachers, and parents can learn, play and be inspired through Binogi’s web and mobile apps.
+50% of all secondary schools in Sweden pay for Binogi, and we have just started with our global rollout, with some customers in Finland, Germany, Canada, UK etc.
+How we build products
+Binogi has three development teams:
+Core team with API’s and Admin tools (mainly in Stockholm, Sweden)
+Content creation team (mainly in Halifax, Canada)
+Mobile & Web frontends team (mainly in Ambala, India)
+with some employees working remotely.
+We do agile development with daily standups and retrospectives.
+We spend 20% of our time on how to proactively improve our developer experience; how to work smarter and faster. We also get 10% to spend on learning projects.
+Your role
+As a
+PHP Developer
+at Binogi, you will create and extend a robust API architecture, solving technical challenges and applying excellent engineering practices. You will be a key part of transforming our codebase into microservices and engineer our APIs to scale internationally, going from todays 300k users to 10M+.
+API microservice development.
+Establishing engineering practices, crucially including a high level of automation, clean code style, fast deployment and fail-early tests.
+Early engineering input on feature design, including exploration and API prototyping with UX/UI designers and our Product Owner.
+Mentoring junior team members.
+Technologies
+PHP 7.2-7.4, Laravel (with Eloquent), MySQL, AWS
+What we are looking for
+Experience
+of writing well structured and clean backend API code.
+Very familiar with
+PHP 7
+, both its features and quirks
+Well-versed in creating maintainable and testable
+code, structure and architecture.
+Comfortable and quick with
+Git
+and
+code reviews.
+Confident in writing
+SQL queries
+, in MySQL as well as using ORMs.
+Fluent in
+English
+Bonus: if you have an additional strong skill such as cloud infrastructure, database design, big data, machine learning.
+You need to be a resident of:
+Canada, Sweden, Germany, or Finland
+. Alternatively you can work as a contractor and invoice us (with VAT etc).
+Why work at Binogi
+Join our mission to
+educate the world
+!
+A startup
+on the cusp of becoming really big
+: we have built this wealth of content, now it’s time to launch it globally
+Hybrid workplace
+: work in office,
+remotely
+, or both
+International
+organization
+Small agile
+organization where you can take a big responsibility
+We take
+great care of our employees
+(this is a direct shareholder instruction):
+Pension package, health insurance, insurances, wellness allowance
+An
+agile work process
+(Scrum/Kanban)
+Spend 10% of your time on
+learning projects
+, 20% on proactively improving your
+developer experience
+About us
+""Hi Binogi! I just want to say that your films are really good and they helped me go from 5 F's to 0 Fs and 3 As. You are the best!!"" /Student
+""When you don't understand what the teacher just said, there's always beloved
+Binogi
+! "" /Student
+""“
+Binogi
+is the best thing there is, their videos are just soooo pedagogical!"" /14yo student
+""I was considering leaving teaching altogether but when i got
+Binogi
+I felt like I had a new superpower. I can reach even the hardest students [with your material]"" / Teacher of students with learning disorders
+""I used
+Binogi
+every day. It was an absolute must-have for teaching multi-lingual students. They felt included in the teaching and got material that was valuable to them. [...] With your content to back me up I felt I was a good teacher."" /Teacher of classes with diverse background
+Binogi is a vibrant Swedish edtech company and we would be thrilled to welcome you to our core team in Stockholm, Sweden! We have a good running business and ambitious plans for the international market, with offices in Canada and Germany. We are a creative company of skilled software developers, scriptwriters, animators and voice artists.
+Our e-learning platform is currently used by hundreds of thousands of students and your work will be right at the heart of it, using your years of engineering know-how to scale to millions of users and building new experiences. Your efforts will very concretely make students succeed.
+If you are
+a Senior PHP Developer
+with vision and experience we would love to welcome you to our product development team. You will be integral part of the team, remote during Covid but always welcome to our comfortable offices in central Stockholm."
+Senior Software Engineer - Remote - Indeed.com,"Company Description
+Headquartered in Chicago, Kora is the first consumer financing company focusing on college students. Here at Kora, you will have the opportunity to work with talented fintech enthusiasts to revolutionize the status quo of college student banking and credit life. We use our proprietary machine-learning risk engine to provide convenient budgeting and financing solutions to the underserved college students. We care about our customers' future and believe that we can make a difference in advancing their financial well-being. We are a non-hierarchical team with a strong focus on execution and delivery. Being part of an exponentially growing company, you will get exposure to all aspects of our business and generate impact proportionally to your ability. We are dedicated to becoming the one-stop financing platform for the underbanked and welcome all talents who share our dream of disrupting the traditional lending market with innovation.
+Job Description
+The senior software engineer position at Kora is a highly entrepreneurial role. The candidate has the opportunity to participate in the design, development, and optimization of various Fintech products using the latest technologies. On a regular basis, you will work with the Product, Marketing, and Growth teams to improve acquisition and onboarding strategies for new users, as well as ensure that existing users remain engaged with various features. Aside from your work as an engineer, you will also have high levels of exposure into the daily operations, business strategy, and other aspects of the business. The ideal candidate should be a skillful engineer with years of development experience and a strong entrepreneurial spirit. The competent candidate will also be entitled to an incentive stock option package.
+Job Responsibility
+Lead a small team to build and maintain products at Kora.
+Participate in restructuring Kora's next-generation software architecture and tech stack
+Manage API integration with 3rd party vendors
+Work on a cross-functional team of engineers, designers and product managers
+Participate in the design and development of Kora's next-generation products
+Building complex and scalable solutions
+Minimum Qualifications
+3+ years of work experience in Software Engineering
+Degree in Computer Science or related field from a top tier university
+Experience with React, ReactNative, GraphQL, Node.js, Microservices architecture, AWS.
+Strong analytical and communication skills
+An uncanny ability to design & develop intuitive modular code
+The ability to do deep problem solving and build elegant, maintainable solutions to complex problems
+Preferred Qualifications
+Good leadership and management skills
+Agile and scrum project management
+Experience with mobile SDKs, Expo SDK and tools
+Proficient in Ruby and Python
+Proficient in Apollo/GraphQL
+We're looking for developers who take pride in their code rather than the frameworks they know (although good Devs know the right frameworks).
+Those who don't settle. They are brave enough to dream big and work hard to achieve it.
+Incentives
+100K to 140K CAD/year
+Health spendings
+Potential stock options
+Work/Life Flexibility
+New MacBook Provided
+Education Credit
+Be part of a great mission!"
+"Data Engineer, Analytics and Data Management - Toronto, ON - Indeed.com","3+ years of experience as a Data Engineer or in a similar role
+Experience with data modeling, data warehousing, and building ETL pipelines
+Experience in SQL
+Job summary
+Amazon.com was recently voted #2 most admired company in the US, #1 most innovative, and # 1 in Customer Service. We are investing heavily in building an excellent advertising business, and are responsible for defining, and delivering a collection of self-service performance advertising products – “always-on analytics” that is fully scalable and reliable. Our products are strategically important to our leadership, finance, economists, analysts, and BI partners to drive long-term growth. We mine billions of ad impressions and millions of clicks daily and are breaking fresh ground to create world-class products. We are highly motivated, collaborative, and fun loving with an entrepreneurial spirit and bias for action. With a broad mandate to experiment and innovate, we are growing at an unprecedented rate with a seemingly endless range of new opportunities.
+The Advertising Analytics and Data Management team is looking for an exceptional Data Engineer who is passionate about data and the insights that large amounts of data can provide, who thinks/acts globally, and who has the ability to contribute to major novel innovations in the industry. The role will focus on working with a team of data engineers, business and tech savvy professionals to lay down scalable data architecture to ingest large amounts of structured and unstructured datasets and work with stakeholders to drive business decisions based on these datasets.
+The ideal candidate will possess both a data engineering background and a strong business acumen that enables him/her to think strategically and add value to the customer experience. He/She will experience a wide range of problem solving situations, requiring extensive use of data collection and analysis techniques such as data mining and machine learning.
+The successful candidate will work with multiple global site leaders, Business Analysts, Software Developers, Database Engineers, Product Management in addition to stakeholders in sales, finance, marketing and service teams to create a coherent customer view.
+Key job responsibilities
+They will:
+Develop and improve the current data architecture using AWS Redshift, AWS S3, AWS Aurora (Postgres) and Hadoop/EMR.
+Improve upon the data ingestion models, ETL jobs, and alarming to maintain data integrity and data availability.
+Stay up-to-date with advances in data persistence and big data technologies and run pilots to design the data architecture to scale with the increased data sets of advertiser experience.
+Partner with analysts across teams such as product management, operations, sales, finance, marketing and engineering to build and verify hypothesis to improve the business performance.
+Manage weekly business reports via dashboards and paper the analyses of daily, weekly, and monthly reporting of performance via Key Performance Indicators.
+AWS Experience
+Advertising domain knowledge is a plus
+#adptjobs
+#sspajobs
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, disability, age, or other legally protected status. If you would like to request an accommodation, please notify your Recruiter."

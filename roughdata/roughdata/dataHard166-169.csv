@@ -1,0 +1,1324 @@
+Title,Description
+"C++ Developer - Robotics - Montréal, QC - Indeed.com","Algolux is a globally recognized computer vision company addressing the critical issue of safety for advanced driver assistance systems and autonomous vehicles. Our machine-learning tools and embedded AI software products enable existing and new camera designs to achieve industry-leading performance across all driving conditions. Founded on groundbreaking research at the intersection of deep learning, computer vision, and computational imaging, Algolux has been repeatedly recognized at industry and academic conferences and has been named to the 2021 CB Insights AI 100 List of the world’s most innovative artificial intelligence startups.
+As a C++ Developer within the robotics team, you will contribute to the integration of autonomous driving modules within a robotics framework in a variety of hardware platforms, including test vehicles. The ideal candidate is a Software Engineer with a proven ability to write production-quality code and who is comfortable collaborating with an R&D team.
+Key responsibilities:
+Develop testing and continuous integration pipelines for the robotics codebase
+Build infrastructure for regression testing, performance validation, and system maintenance
+Test and deploy developed algorithms in simulation environments as well as on production vehicles
+Build a platform to scale, analyze, and visualize simulations
+Requirements:
+Experience with ROS to design, build, and operate robotic systems
+Experience with popular C++ testing frameworks
+Excellent C++ programming skills:
+Mastery of modern C++ standards (C++11 or more recent).
+Hands-on experience with object-oriented software design patterns, and their implementation in C++.
+Comfortable using language features like STL, smart pointers, move semantics, templates, etc.
+Experience with debugging and using tools such as gdb, lldb, valgrind, etc.
+Experienced with cross-platform build systems, like CMake.
+Multi-threading
+5+ years of experience as a software engineer
+Experience working in a collaborative work environment:
+Familiarity with agile development practices such as Scrum.
+Comfortable using collaborative development tools such as GitLab and Jira.
+Ability to adhere to company coding standards.
+Willingness to participate in code review processes.
+Bachelor or Master degree in Computer Science, Software Engineering (or in similar fields)
+Experienced and comfortable dealing with technical / project uncertainty.
+Pragmatic approach with a make it work attitude.
+Proven dedication for writing production-quality code that is robust, efficient, portable, maintainable, and bug-free.
+Nice To Have Skills:
+Experience with safety-critical, real-time mobile autonomous robotic vehicles
+GPGPU programming and CUDA framework"
+"Video HW Design Verification Engineer 2 - 120642 - Markham, ON - Indeed.com","What you do at AMD changes everything
+At AMD, we push the boundaries of what is possible. We believe in changing the world for the better by driving innovation in high-performance computing, graphics, and visualization technologies – building blocks for gaming, immersive platforms, and the data center.
+Developing great technology takes more than talent: it takes amazing people who understand collaboration, respect, and who will go the “extra mile” to achieve unthinkable results. It takes people who have the passion and desire to disrupt the status quo, push boundaries, deliver innovation, and change the world. If you have this type of passion, we invite you to take a look at the opportunities available to come join our team.
+ASIC/Silicon Design Verification Engineer 2 (New or Recent Graduate)
+THE ROLE:
+We are looking for a new graduate or recent graduate from university to fill this position. It is a fast paced environment with lots of room for growth.
+We, Video HW IP/Solution Group at AMD Markham site, are looking for an
+ASIC/Silicon Design Verification Engineer
+2 who will work in an established hardware (HW) IP team developing video encode & decode HW IP.
+The role will require the candidate to initially acquire background knowledge of VCN IP HW core, HW C-model, test suite, and verification methodology. Subsequently, the candidate will be responsible to assist in developing & debugging functional and performance tests for the HW, along with corresponding design verification (DV) activities, primarily for video encode, on both a HW model & the real HW design. You will learn the low-level details of how video encoding works, how to validate video codec algorithms and HW implementations, and how to prove that the HW functions properly. In addition, you will work with relevant firmware (FW) engineers to add support for testing all aspects of new HW functionality & complete HW IP solution validation. Finally, you will collaboratively consult, develop & debug with HW design teams on the final VCN HW IP solution.
+THE PERSON:
+An organized, enthusiastic self-motivated with a strong interest in how hardware works, how to test complex hardware designs, & verification methodologies.
+Ability to learn concepts quickly and apply what you learn in unique ways to new situations
+Be a self-starter in driving tasks to completion
+Strong problem-solving skills, and attention to detail
+Good interpersonal skills (verbal and written)
+Ability to work in a multi-discipline team and global setting as a solution enabler
+KEY RESPONSIBILITIES:
+Work with the verification leads & and other verification team members to explore new features, develop verification plans, execute implementation of these plans to thoroughly validate both functional & HW implementation aspects of new HW features
+Assist DV lead to develop detailed functional verification test plans & performance test plans for new Video HW IP features by gaining a detailed understanding of the features & the interactions between them and existing features & how they will be used in real-world usage scenarios
+Develop test cases and complete hands-on testing, debug, and validation of all functionality using these tests on both a HW model & the actual HW design
+Leverage or adapt test libraries, emulation models, and test cases from existing IP.
+Develop, adapt, and verify IP performance tests to ensure real-world performance usecase targets are met
+Work with the ASIC HW teams (Designers, FW and SW) to debug & solve test failures at block IP & end-to-end HW levels
+Automate and improve test suite efficiency
+Achieve goal of full functional coverage of testing the HW features
+PREFERRED EXPERIENCE:
+Strong understanding of hardware principles including verilog RTL, test bench and HW verification
+Strong C/C++ software development experience.
+Experience debugging challenging issues and root cause analysis
+Experience with HW simulation debug using waveforms and other design verification tools.
+Scripting experience on Linux (using python, perl, csh, awk, etc.).
+Strong understanding of video codecs such as H.264/AVC & H.265/HEVC, and AV1
+Hands-on design verification experience in HW ASIC product development would be a great asset
+Prior knowledge in low-level firmware or IP testing are an excellent asset
+ACADEMIC CREDENTIALS:
+Minimum BSc Electrical or Computer Engineering or equivalent degree
+LOCATION:
+Markham, Ontario, Canada
+#LI-CC2
+Requisition Number:
+120642
+Country:
+Canada
+Province:
+Ontario
+City:
+Markham
+Job Function:Design
+AMD is an inclusive employer dedicated to building a diverse workforce. We encourage applications from all qualified candidates and will accommodate applicants’ needs under the respective provincial human rights codes throughout all stages of the recruitment and selection process.
+Any applicant who requires accommodation should contact
+AskHR@amd.com
+.
+AMD does not accept unsolicited resumes from headhunters, recruitment agencies or fee based recruitment services."
+"Junior System Engineer - Markham, ON - Indeed.com","Pathway Group of Companies is a leading Canadian IT company offering full-spectrum, technology services to businesses across Canada and the United States. Our portfolio includes managed business connectivity, server colocation, cloud computing, telephony and outsourced IT and application management services.
+We’re looking to expand our team with a junior systems engineer out of our Markham, Ontario location. The ideal candidate for this role is passionate about technology, professional, courteous, and pragmatic.
+You’ll have a background in the basic ins and outs of Data Centre operations, specifically racking and stacking of storage, compute servers, and will be familiar with IT monitoring systems. You will be able to deploy and maintain high-availability storage and compute for virtualization solutions deployed from within our two Toronto area data centers.
+Reporting to the Engineering Supervisor, this role is based out of our Markham office and data centre. You will be expected to work closely with your colleagues in Operations.
+Duties and Responsibilities
+Maintain the availability, redundancy, and general health of all storage systems for all virtualized and cloud environments
+Identify and address all hardware, software, and system errors and incidents
+Identify and maintain all key metrics for storage systems within multiple redundant network monitoring systems and via on-site verification
+Purchase, configure, implement, and maintain physical infrastructure for storage systems
+General assistance with all aspects of data centre infrastructure maintenance including physical and logical maintenance and monitoring
+General assistance to data centre clients on a scheduled or as-needed basis to ensure compliance with industry and service SLAs
+Develop and maintain procedural documentation (SOPs) for the configuration, installation, maintenance, and monitoring of all applicable storage infrastructure within SLAs
+Develop and maintain inventory of data centre infrastructure in cooperation with related teams and team members
+Ensure the tracking and renewal of all applicable licenses to maintain availability and redundancy of data centre infrastructure with special emphasis on storage platforms
+Collaborate with other operational support divisions and in managing the cost structure and estimation to derive the best implementation strategies
+Support high visibility projects concurrently in a rapid application development environment and must be able to adapt to fast changing priorities.
+Establish and manage communication channels with vendors and clients, being the liaison to provide vendor and customer feedback to the Senior Management Team.
+Participate in the on-call rotation and be available for support as needed during non-business hours.
+Education, Experience &Skills
+Education/Certification
+College certificate in IT with an emphasis on hardware (or equivalent experience); College Bachelor of Science or equivalent in Computer Science or IT, Computer Engineering, or Electrical or Electronics Engineering
+Non-degree applicants with the necessary experience will be considered!
+VMware, AWS, or Azure certifications are nice to have
+Experience
+Experience working with storage and compute hardware: SAN/NAS and server hardware and component maintenance (CPU, RAM, disk)
+Experience in some type of Backup software (Veeam/Acronis etc.).
+Working experience in network and security monitoring tools
+Experience in vendor relationship management
+Experience in any one or more current cloud technology [VMWare, Azure, and AWS etc.].
+Experience in scripting languages such as Shell/Perl/PowerShell in Backup software is an asset.
+Skills
+Excellent verbal and written communication skills in English
+Have a passion for learning and using new technologies
+Must be having good team spirit.
+Demonstrated interpersonal skills including the ability to interact with colleagues at all technical levels
+Dynamic, energetic, motivated, positive outlook with the ability to multi-task and prioritize responsibilities
+Compensation commensurate with experience and skill.
+How to Apply
+Please e-mail your cover letter and resume to recruitment@pathcom.com
+(sub: “
+Junior System Engineer
+”).
+Please provide details of relevant education, training, work experience, expected compensation and why you feel you are a good candidate for this position. Also indicate, in your cover letter, where you found this position.
+The Pathway Group is an equal opportunity employer and is committed to providing equal treatment with respect to employment without discrimination because of race, ancestry, place of origin, citizenship, creed, sex, sexual orientation, age, marital status, family status, disability, colour or ethnic origin as required by the Ontario Human Rights Code. If accommodation is required, please email hrdept@pathcom.com.
+We thank all candidates, but only those selected for an interview will be contacted.
+Disclaimer
+:
+Please note that this document is intended to provide an overview of job accountabilities and does not necessarily list all tasks related to the job.
+j6hqYoOuSK"
+"Field Service Engineer Software-Quebec, Canada - Canada - Indeed.com","Together, we can beat cancer.
+At Varian, a Siemens Healthineers Company, we bring together the world's best talent to realize our vision of a world without fear of cancer. Together, we work passionately to develop and deliver easy-to-use, efficient oncology solutions. If you want to be part of this important mission, we want to hear from you.
+***Candidate must be bilingual in French and English***
+The Field Service Representative Software (FSR SW) is the primary contact for Varian Medical Systems (VMS) customers. The FSR SW is responsible for servicing and completing repairs needed to ensure that our customers’ equipment operates efficiently and optimally. The FSR SW is responsible for troubleshooting, repairs, installs, upgrades and performing preventative maintenance on all VMS equipment according to instructions and company guidelines. Each FSR operates as a primary SW representative in their assigned territory and is part of a larger service region.
+Duties and Responsibilities
+Troubleshoot, diagnose, and repair all VMS equipment within an assigned service territory.
+Complete software-related preventative maintenance processes on time per VMS guidelines.
+Install, modify, and complete necessary upgrades to software systems per VMS guidelines.
+Maintain a schedule to include preventative maintenance installations and upgrades as well as incoming customer calls.
+Be able to assess the urgency of the customer's request and follow-through to completion.
+Understand and recognize the need to escalate incidents when necessary or request additional assistance from more tenured representatives.
+Examine difficult customer issues, diagnose and resolve the issues, and meet established customer service levels.
+Be able to understand and utilize the escalation process to Regional Service Software Manager, FSR, District Manager, SDS, PSE, and/or Applications.
+Utilize appropriate internal assistance request processes and escalations
+Maintain effective territory management and expense control which includes timely completion and submission of field service reports and other required documentation compliant to VMS procedures.
+Develop and maintain strong customer relationships through excellent service with strong written and verbal communication skills.
+Conduct customer follow-up as needed and ensure customer inquiries and issues are resolved in a timely manner.
+Continues fluency in known product lines and proactively learns new product information with the goal of becoming fluent in speaking all Varian product language.
+Able to partner and collaborate with other VMS departments
+Completes all required and assigned training on time.
+Must be able to manage multiple and competing priorities
+Performs other duties as assigned
+Qualifications
+HS Degree or Equivalent Preferred: Associates degree, technical/vocational training or IT industry certification and/or 2+ years of related experience
+Sound knowledge of and professional experience with IT Networks including network analysis test equipment
+Knowledge of desktop computers, server hardware, and operating systems.
+Understanding and familiarity with service, installation, and customer-facing documentation.
+Familiarity with Varian Record and Verify and treatment private network systems is preferred
+Varian SW product certification preferred
+Microsoft Office Suite including Excel, Word, and PowerPoint
+Strong communication and interpersonal skills with aptitude in building relationships with professionals of all organizational levels.
+Exercise sound judgment and problem-solving skills
+Take responsibility and work independently, as well as coordinate team efforts
+Demonstrate patience, tact, and courtesy with a variety of customers and personalities.
+Able to handle difficult customer situations including troubleshooting in the presence of customers.
+Must be able to successfully meet and maintain all required vendor credentialing, criminal background checks, and drug screens unless prohibited by law.
+#LI-OS1
+Varian is required to comply with all local and applicable regulations that may be associated with vaccine requirements for certain roles.
+Fighting cancer calls for big ideas.
+We envision a world without fear of cancer. Achieving this vision takes dedication and commitment from all of us, every single day. That's why we celebrate and value the distinctly beautiful and intersectional identities of each of our employees. We are a mirror of our patient-base, which allows us to innovate. Big ideas come from everywhere, and the best ideas are fostered by our unique individual experiences. At Varian, we encourage you to bring your whole self to work and believe your bold and authentic perspective will help to power more victories over cancer.
+#TogetherWeFight"
+"Embedded Software Engineer (Boucherville) - Boucherville, QC - Indeed.com","Contribute to the development of Powertrain!
+Purpose as an Embedded Software Engineer, you are an active member of the SW development’s team.
+Your challenges
+Analyze, design, develop & testing of software components to ASPICE/ISO 26262/AGILE methodology & standards.
+Work closely with the electronics and hardware departments to ensure design of electronics and hardware can support the software requirements.
+Support Architecture design and development.
+Create details designs to link the software implementation to the requirements.
+Develop software code in C to implement the software design.
+Develop Software in MATLAB Simulink/Stateflow environment.
+Conduct unit test to validate the software implementation.
+Support issue analysis and corrective action definitions.
+Take part in various development in the software development life cycle.
+Your strengths
+Bachelor’s degree in Electronics Engineering, Computer Science or related discipline.
+Essential: Minimum of five (5+) years of relevant experience in embedded software development.
+Essential : Member of the OIQ (Ordre des Ingénieurs du Québec)
+Essential: Knowledge of Simulink Test (MIL/SIL)
+Essential: Knowledge of embedded systems testing with MIL, SIL, PIL.
+Essential : Knowledge of C/C++ embedded systems
+Knowledge of Python (an asset)
+Knowledge of ISO 26262 (an asset)
+Experience with SPI, CAN, CANFD, J1939, UDS, and XCP communication protocols
+Experience developing software in accordance with a formal V-based software development process (based on ASPICE).
+Professional experience required
+Expert in OS/BSP, device driver development such as Flash, ADC, EEPROM, LIN, CANFD, SPI, etc.
+Expert in design, implementation, testing and debugging of embedded software for automotive electronics module.
+Expert knowledge of real-time embedded software for 32-bit multicore microcontrollers.
+Expert knowledge of floating point computing development and methods.
+Knowledge of how to use and the utility of the software development team tools listed below:
+Requirements: Polarion
+MBD: Matlab/Simulink + Toolbox (Simulink Requirements, Simulink Tests, etc.)
+Software devOps tools: Jira, ,Azure Git, CMake, Artifactory, etc.
+Static code analysis tools: Polyspace, etc.
+Software unit testing and software integration testing: VectorCAST, etc.
+LauterBach debugger
+Automotive communication tools (Vector Canape, CANalyzer/CANoe, & CANdela)
+Ability to work with multidisciplinary teams
+Curious and autonomous
+Rigorous and strong ability to meet deadlines
+Commitment to the highest standards of ethical behavior in self and others; commitment to inclusion and diversity
+Good analytical skills
+Proven ability to be proactive and forward thinking.
+Hands-on person.
+You will work in an international and multicultural team.
+Why be part of our driving force?
+We are a dynamic and growing Quebec-based SME that promotes creativity, innovation and collaboration
+We stand out for the multidisciplinary and multicultural nature of our team
+We have flexible working hours and offer the possibility of summer hours
+We offer the Dana TM4 shuttle service from the Longueuil metro station
+Our social club organizes a multitude of activities: running club, Oktoberfest, barbecues, dessert club, 5@7, comedy night, etc."
+"Engineer II-Design (Semiconductor Design & Verification) - Mont-royal, QC - Indeed.com","Company Description
+Microchip Technology Inc. is a leading provider of embedded control applications. Our product portfolio comprises general purpose and specialized 8-bit, 16-bit, and 32-bit microcontrollers, 32-bit microprocessors, field-programmable gate array (FPGA) products, a broad spectrum of high-performance linear, mixed-signal, power management, thermal management, radio frequency (RF), timing, safety, security, wired connectivity and wireless connectivity devices, as well as serial Electrically Erasable Programmable Read Only Memory (EEPROM), Serial Flash memories, Parallel Flash memories, and serial Static Random Access Memory (SRAM). We also license Flash-IP solutions that are incorporated in a broad range of products.
+Job Description
+Microchip’s Communications Business Unit (CBU) is seeking to employ an
+Engineer II - Semiconductor Design & Verification Engineer
+. CBU develops leading edge semiconductor and software solutions that are used by world-wide communications service providers to build their networks which connect 5G mobile, high speed residential broadband and business enterprise services to the Cloud to deliver the real-time connectivity, collaboration and content sharing services that bring us together.
+The successful candidate who joins our Montreal team will help drive continued innovation of our semiconductor and software solutions. The products you design will be deployed in communications networks that enable the real-time services you rely on every day; online educational, work collaboration, global connectivity with family and friends via social media, online streaming of video, pictures, movies or gaming and online purchases and services.
+Junior experienced candidates will be offered immediate employment. Candidates may also include upcoming graduates with some work experience and will be offered employment following the Fall or Winter semester. Candidates of interest will have a background in hardware design, software development or hardware verification.
+Job responsibilities may include
+Work within an overall team dedicated to new product development but focus on a smaller team targeting the development of device subsystems. Subsystem teams carry out the specification, design, verification, implementation, and integration of device subsystems. Each subsystem is comprised of blocks which individual members are responsible for.
+Understanding functional specifications describing high-level functionality of design and/or testbench blocks to be coded. Junior Engineers may receive detailed implementation descriptions to focus on block coding immediately
+Design activities include Hardware Descriptive Language (HDL) coding and verification of functional blocks as well as the synthesizing of HDL to gates. Detailed activities may include contributing to verification plans, reviewing of synthesis results, design reviews and static timing analysis of the implemented code.
+Verification activities include the test planning, modeling, coding of testbench components and overall acceptance criteria of designs. Detailed activities may include contributing to design reviews, generation of test plans, functional modelling, simulation, debugging and functional coverage to ensuring designs satisfy specifications and requirements.
+Development teams are involved during the complete development cycle from feasibility to production and will be given the opportunity to participate in validation testing, software development, emulation, customer support or production teams.
+Job Requirements
+Qualifications:
+Bachelor’s or Graduate Degree Computer Sciences, Electrical, Software or Computer Engineering. Digital hardware, computer architecture or embedded firmware academic concentrations are desired.
+Experience with Hardware Descriptive Languages (HDL) such as System Verilog, Verilog or VHDL is required. Candidates are expected to know how HDL languages simulate and map to digital logic.
+Understand digital hardware architectures and logic (state-machines, RAM, registers, buses and etc) is required.
+ASIC or FPGA development experience with Synopsys, Cadence, Mentor, Xilinx or Intel (Altera) tool suites is an asset.
+While working at the abstract software/verification layer, must be able to understand digital hardware architectures and logic (State-machines, RAMs, Registers, Buses and etc).
+Knowledge of verification principles and methodologies such as UVM is an asset. Ability to work at a software or verification level of hardware abstraction is a requirement. Experience with software object-oriented programming is a requirement for more verification-oriented candidates.
+Knowledge of embedded processors (ARM/RISC-V) and bus architectures (AMBA) is an asset
+Experience with software development tools such as Jenkins or Code Collaborator is an asset
+Experience with control revision tool such as Subversion or Git is required
+Ability to work in a Linux shell environment and Linux scripting (CSH/TCL/Perl/Python) is required.
+Must be self-driven & proactive with a desire to understand, learn more, do more & make a difference.
+Excellent analytical and debugging skills with the ability to proactively solve issues is required."
+"Embedded Firmware Developer, Software Engineer - Vaughan, ON - Indeed.com","Embedded Firmware Developer, Software Engineer
+Founded in 1991, the Mircom Group of Companies is North America’s largest independent designer, manufacturer and distributor of intelligent building and life safety solutions. Reaching customers in over 100 countries worldwide, our portfolio includes: fire detection & alarm, communications & security, mass notification, nurse call, and building automation & smart technologies.
+Mircom’s mission is to save lives and protect property by providing a line-up of innovative and advanced solutions which are scalable to satisfy diverse user demands, from small buildings to the largest complexes. Our unwavering commitment to North American manufacturing enables us to offer the highest quality and best competitive value across our vast range of products and solutions.
+Mircom firmware engineers work on leading product brands including FlexNet, TX3, OpenGN and OpenBAS.
+Summary:
+Mircom designs, develops, and integrates highly sophisticated intelligent building system related command, control, and communications systems for the industrial, commercial, and residential markets. Our designs transform large amounts of complex data into useful information that is clearly and intuitively presented on our panels, enabling emergency response or facility maintenance staff to make informed decisions in real-time.
+Embedded software developers work in teams solving real problems brought to us by our customers. We design solutions end-to-end from the whiteboard to the white box. Our multi-talented integrated teams of electrical, mechanical, software, and application engineers design hardware, layout PCBs, operating systems, drivers, and application level software to support Mircom’s network connected systems. Being network connected allows Mircom’s Intelligent Building Systems the ability to quickly communicate with the property managers and first responders who rely on the real time information to save both lives and property.
+We are currently looking for developers and team leads to work on our growing portfolio of fire and life safety products based in our Vaughan (Toronto), ON, location.
+For more information about our products please visit:
+http://www.mircom.com/
+Key Responsibilities:
+Work with the product design team to document and implement requirements
+End to End systems verification testing
+Configure, design, and maintain existing application including bug fixes and feature enhancements
+Prioritize work activities and meet delivery schedule
+Code, build and test software
+Attend daily and weekly team meetings to ensure that project goals are met
+On occasion will be involved in customer support and/or presenting demos to internal teams and new customer prospects
+Requirements and Skills:
+3+ years of experience
+Degree in software engineering, electrical engineering, computer science or related field
+Candidates with technical certification or diplomas in related programs with existing application portfolio for demonstration available will be considered
+C Programming and O/S Fundamentals
+Experience working with device drivers and hardware
+Solid understanding of embedded systems and RTOS
+Experience with embedded development and processors and DSPs
+Experience in developing kernels and device drivers
+Systems software expertise in developing modular software for embedded software applications adhering to APIs
+Experience with hardware interfaces(GPIO, USB, I2C, UART)
+Experience designing software APIs, managing make files and build environment
+Ability to interact with technical support, applications engineering and customers utilizing professional communication and interpersonal skills
+Ability to document software requirements from interviews and focus groups
+Good written and verbal skills and capable of presenting technical concepts to audiences of various abilities
+Experience in communication protocols (ARCNet, BACNet, RS485, Ethernet/IP), networking, and system design desired
+Working knowledge of control systems is a plus
+What Mircom Offers:
+A great working environment with opportunities for advancement
+Competitive salary
+Group Insurance benefits
+Company RRSP program
+Interested applicants please forward a copy of your cover letter and resume to the HR Department. Applicants are encouraged to submit any project documentation research papers, web links or other relevant documents that showcase their past work. Please share this job to people whom you think would be interested in a great career in a leading technology firm.
+We would like to thank all applicants for their interest in this position however only those selected for interviews will be contacted.
+Mircom Group of Companies is an equal opportunity employer that considers all applicants regardless of cultural background, religion, marital status, sexual orientation, family status, disability or any other grounds as outlined in the Ontario Human Rights Code. In compliance with the Accessibility for Ontarians with Disabilities Act, Mircom is committed to providing a welcoming and inclusive work environment for all individuals with disabilities in a respectful and dignified manner. Accommodations will be made available, upon request, to applicants who have specialized needs throughout the recruitment process."
+"Software Development Engineer - Burlington, ON - Indeed.com","Scope:
+The Software Development Engineer is responsible for automating systems within the Evertz test and product infrastructure. Your initial project will be collaborating on the development of a test automation framework for a software-based broadcast video/audio/multimedia product, supporting automated test cases. You will be a key software developer on the test framework, and will directly contribute to the success of the product QA team goals for improving product quality and improving customer satisfaction.
+Be on the forefront of the latest cutting edge technologies in the broadcast space, by testing a product and core components used in traditional broadcast and broadcast SDN systems. Take pride in knowing that you have a pivotal role in advancing these technical fields and ensuring that customer expectations for quality are always met or exceeded.
+Main Job Purpose:
+Advance and enhance product automation through the development of automated frameworks.
+Integrate the automated test framework with existing tracking and reporting tools
+Collaborate with other teams on furthering automated systems throughout the organization as required
+Collaborate with development teams on product improvement
+Provide support for test case creation and test run tracking, and author automated test cases
+Work with subject matter experts within the company to increase subject knowledge and product expertise
+Responsibilities:
+Contribute to the product automation test framework, and successful execution of automated product test runs
+Develop knowledge of the product under test
+Build knowledge of broadcast standards and other industry knowledge
+Maintain understanding of customer needs and requirements of the product by working with subject matter experts within the team and in other departments
+Ensure all work contributes to a high quality software and overall contributing to team objectives and initiatives
+Author new specifications or test cases and enhance existing documentation if necessary
+Write issue reports to a high standard if necessary
+Work with team members based in Canada, India and the UK as necessary
+Qualifications:
+3-5+ years in a software development environment
+Previous experience with developing an automated test framework is desired
+Solid knowledge of Python and Unix/Linux shell scripting
+Experience with Git (preferred) or other version control software
+Experience with TestRail (preferred) or another test case management tool is nice-to-have
+Experience with Jenkins (preferred) or other CI tools is nice to have
+Post secondary education in computer science, software, engineering or equivalent experience
+Some knowledge of video/multimedia or broadcast standards could be beneficial, which could include professional, study or personal experience in one or more of:
+Knowledge of broadcast/multimedia standards (e.g. various SMPTE, SCTE, DVB standards)
+Software development using ffmpeg or demonstrated understanding of concepts
+Experience editing video/multimedia
+Some experience with supporting software development for video or networking products; familiarity with software defined IT (e.g. routing) is desired
+Skills/Attributes:
+Software design and development experience
+Willingness and ability to learn about a complex hardware-software product
+Ability to develop knowledge of broadcast video/audio
+Displays strong initiative and drive to complete tasks at hand
+MS Windows command shell and PowerShell (nice to have)
+Experience with agile/scrum methodologies
+Familiarity with software testing processes
+Time management and organisation skills
+Excellent verbal and written communication skills (English)
+sBWAz9hf4I"
+"QA Automation Test Engineer - Mississauga, ON - Indeed.com","Position Status:
+Regular, Full time
+Work location:
+Mississauga, Ontario
+Reporting to:
+Director of Quality Engineering
+What you’ll be doing:
+Are you interested in helping to secure and enable reliable operations of a nation’s critical infrastructure? iS5 Communications develops products and solutions that do just that. Utilizing the iS5 designed secure networking and edge computing platform for Industry 4.0 and Industrial IoT applications, iS5 is developing innovative cybersecurity, industrial communications, big data, and AI/machine learning solutions for Smart Grids, Intelligent Transportation Systems, and other critical infrastructure industries. iS5 is seeking individuals to help build the next generation solutions for iS5’s global customer base at our Corporate Headquarters in Mississauga, Ontario.
+iS5 Communication is currently looking for a creative and experienced Automation Test Developer with a great can-do attitude and passion for development automatic testing solution for network equipment. The QA Automation Developer will be a part of our QA team and will participate in the QA automation development activities such as development and maintenance of automation framework, design and develop automatic test cases for functional, system level tests and regression testing. Along with the iS5 QA team the candidate will be interacting with testing and development teams in multiple locations.
+Responsibilities:
+The role will include understanding iS5 customer requirements & product solutions, forming knowledge and opinions about system level test coverage, being a writer and/or a key reviewer for system test plans & coverage, and providing technical knowledge sharing inside the company.
+The primary responsibilities of the role will be:
+Participate in design and developing testing automation framework/tools that can support component-level testing automation for new functionalities and regression testing suite for system-level end to end services and Web UI for network equipment and applications.
+Investigate and recommend innovative automated test approaches and processes for existing and coming new software and hardware products that in QA’s testing scope.
+Continuously improve automated testing methodologies to maximize test coverage of networking products.
+Review functional and technical documentation to identify requirements for the new function implementation in order to supporting new features test automation
+Execute automated testing scripts and generate testing result report
+Based on automated testing result report, work with QA test lead and Developers to ensure all functionalities have been tested, defects have been identified and documented, impacts have been assessed, and resolutions provided.
+Position Requirements:
+Degree in computer engineering or equivalent areas.
+Strong programming skills in Python and TCL (minimum 5 year).
+Experience in test automation development for Network equipment (switches/routers) required asset.
+Experience of automation implementation of Network Simulator/Analyzers like Spirent/Ixia/Perf/Wireshark and etc… required asset.
+Strong analytical skills, creativity, and detail oriented.
+Must be self-motivated and able to meet deadlines.
+Ability to work in a development team with a co-operative attitude.
+Excellent verbal and written communication skills.
+Cisco CCNA certification (advantage).
+Excellent verbal and written communication skills.
+To fit in our growing and diverse team, you must be
+Critical thinker and problem solver
+Proactive and energetic, creative and self-starter
+Team-oriented and collaborator who is committed to the organization and its vision.
+What iS5Com offers:
+At iS5 Communications Inc. our team is everything! You will have an opportunity to join a talented, fast-paced, and collaborative team. Some of the perks our team members have are:
+Medical, Dental and Vision care benefits
+Access to public transportation
+Flexible work hours
+Casual Friday dress code all week long!
+Employee Referral Programs
+And more!
+Interested In Joining our Team?
+To apply for this position or view other career opportunities please submit your cover letter and resume to
+careers@is5com.com"
+"Field Service Technician II - Vancouver Island/Victoria - Victoria, BC - Indeed.com","About NCR
+NCR Corporation (NYSE: NCR) is a leading software- and services-led enterprise provider in the financial, retail and hospitality industries. NCR is headquartered in Atlanta, Georgia, with 36,000 employees globally. NCR is a trademark of NCR Corporation in the United States and other countries.
+TITLE
+:
+Field Service Technician II
+LOCATION: Vancouver Island/Victoria, BC
+YOU ARE:
+Exceptional at communicating with customers (by maintaining strong relationships, handling problems before they start, and making sure customers have what they need when they need it). In fact, that’s your
+specialty
+. Oh, and you have some great formal training (or considerable experience) in tech systems and know the ins and outs of products like large servers, mainframe computers, and imaging software.
+Sounds familiar (and exciting!)? You’d be an excellent fit as our newest Customer Engineer Representative II (CE II). In this role, you’ll work on a wide range of high-level procedures and activities, applying attention to detail and keen accuracy while resolving various uncommon problems, knowing when and who to turn to for support. And when things must get done, you’ll always lend your manual skills to resolve technical problems.
+What makes this more exciting? Knowing that it’s all to help make life easier for people all over the world, through more than 550 million transactions every day. Our clients are restaurants, shops, banks, and airports. They come to us for software, hardware, and services. Your skills make sure we can assist them in the ways they need it the most.
+YOU CAN EXPECT TO:
+Service electromechanical equipment like ATMs and self-checkout systems within an assigned territory—with the goal of keeping our customers completely assured and satisfied.
+Perform hardware maintenance, installation, network management, multi-vendor maintenance, and software support.
+Unleash your manual skills on products like peripherals, large system printers, , small and enterprise level servers, communications equipment, networks, and item processing sorters.
+Build great working relationships among colleagues and customers based on our customer Service Level Agreements (SLAs). When issues come up, your job is to respond them by either handling them, or by pulling in the proper associate, team member, or territory manager who can.
+Perform maintenance repair and system overhauls as a matter of routine (like modular swaps and unit replacements). You’ll surely always be on the lookout for preventative measures you can take to correct any and all technical problems before they happen.
+Capture customer information so that we can complete any invoicing, as well as stay in contact to ensure we’re providing the best possible service.
+PEOPLE DESCRIBE YOU AS:
+A fantastic communicator who does everything in your power to meet customers’ needs—someone who follows up to make sure you did the work right.
+A stickler for record-keeping. Which comes in handy when you’re asked to log all customer calls and activity, plus track all expenses incurred in the delivery of services (like phone calls or driving).
+Someone looking to tackle an intense but rewarding role. You like responsibility and are outstanding at managing everything and are motivated self-starter who can be depended upon to work efficiently and with little supervision.
+YOU HAVE
+High School diploma or equivalent
+A valid provincial license (not learners permit) and a clean driver’s record
+Canadian citizen or permanent resident – company sponsorship is not available
+Must have valid passport to travel to the US for training.
+Up to three years of related experience (but more than that is always a plus).
+A+ Certification, PC skills, basic electronic skills, and some specific hardware and operating system familiarity.
+Working knowledge of Microsoft Office Suite and current Windows operating systems.
+Knowledge of systems architecture, database management systems, and network and systems management systems.
+Amazing flexibility and a positive attitude. No. Matter. What. (We’re talking some nights, weekends, overtime, flex shifts, and being on call to keep our customers happy.)
+A strong back. This position must require prolonged travel, rotating shifts, carrying and lifting tools and parts weighting up to 50 lbs., and bending, squatting, walking, standing and/or sitting for prolonged periods of time.
+P.S.:
+A CE II may be dispatched daily on a call-by-call basis. Also, this position conducts work at customer site(s) and local NCR offices.
+Offers of employment are conditional upon passage of screening criteria applicable to the job.
+EEO Statement
+Integrated into our shared values is NCR's commitment to diversity and equal employment opportunity. All qualified applicants will receive consideration for employment without regard to sex, age, race, color, creed, religion, national origin, disability, sexual orientation, gender identity, veteran status, military service, genetic information, or any other characteristic or conduct protected by law. NCR is committed to being a globally inclusive company where all people are treated fairly, recognized for their individuality, promoted based on performance and encouraged to strive to reach their full potential. We believe in understanding and respecting differences among all people. Every individual at NCR has an ongoing responsibility to respect and support a globally diverse environment.
+Statement to Third Party Agencies
+To ALL recruitment agencies: NCR only accepts resumes from agencies on the NCR preferred supplier list. Please do not forward resumes to our applicant tracking system, NCR employees, or any NCR facility. NCR is not responsible for any fees or charges associated with unsolicited resumes."
+"Research Scientist Intern, Human-Computer Interaction (PhD) | Chercheur stagiaire, Interaction homme-machine (niveau doctoral) - Toronto, ON - Indeed.com","At Reality Labs, our goal is to invent the user interface technologies that will drive the next generation of augmented-reality experiences. Our aim is to unleash human potential by erasing the bottlenecks between intent and action. As a Research Intern, you will focus on developing novel interactions and interfaces for augmented reality glasses and wearable devices.We are looking for PhD candidates to work alongside experts researchers, designers, and software engineers. We are open to candidates from a broad scope of relevant backgrounds such as:*Human-computer interaction*Computer science*Software engineering & related engineering fields*Psychology, cognitive science, neuroscience*Design*Game development*Ergonomics & kinesiology *Statistics & machine learningMore specifically, we are looking for candidates with background in one or more of the following areas:Human-computer interaction*Input and interaction techniques*Multi-modal input*Adaptive user interfaces & personalization*Mixed-initiative interfaces*Collaborative interactions and multi-user systems*Gesture input and gesture learningHaptics*Experience design, feedback and guidance*Perception*Haptic hardware prototyping*Wearable hapticsVisual interfaces in AR/VR*3D user interaction & hybrid interfaces*Immersion, presence & agency*Locomotion & navigation*360 environments & videosSoftware engineering*Software architecture and design patterns*Application frameworks*Desktop, mobile and web platform development*Game developmentAccessibility in AR/VR*Assistive pointing techniques and technology*Assistive technologies such as screen readers, mobility aids, or braille interfaces*Fitness technology and/or exergaming*Game BalancingSensors and hardware*Prototyping*Wearables*Eye tracking*Graphics and audioUser-centered machine learning*Predictive modeling*Intent modeling*Computational interaction*Computer visionOur internships are sixteen (16) to twenty four (24) weeks long and we have various start dates throughout the year. This position is based in Toronto, Canada.-Chez Reality Labs, nous voulons inventer les technologies d'interface utilisateur qui seront à l'origine de la prochaine génération d'expériences de réalité augmentée. Nous avons pour but de libérer le potentiel humain en supprimant les goulots d’étranglement entre l’intention et l’action. En tant que chercheur stagiaire, vous vous concentrerez sur le développement de nouvelles interactions et interfaces pour les lunettes de réalité augmentée et les dispositifs portables.Nous recherchons des doctorants pour travailler aux côtés de chercheurs experts, de concepteurs et d’ingénieurs logiciels. Nous sommes ouverts aux doctorants disposant de toutes sortes d'expériences pertinentes en la matière, par exemple :* Interaction homme-machine* Informatique* Ingénierie logicielle et domaines d'ingénierie connexes* Psychologie, sciences cognitives, neurosciences* Conception* Développement de jeux* Ergonomie et kinésiologie * Statistiques et apprentissage automatiquePlus précisément, nous recherchons des doctorants ayant une expérience dans un ou plusieurs des domaines suivants :Interaction homme-machine* Techniques des données et de l'interaction* Programmation multimodale* Interfaces utilisateur adaptatives et personnalisation* Interfaces à initiative mixte* Interactions collaboratives et systèmes multi-utilisateurs* Saisie gestuelle et apprentissage des gestesHaptique* Conception de l'expérience, retour d'information et conseils* Perception* Prototypage de matériel haptique* Haptique portableInterfaces visuelles en RA/RV* Interaction utilisateur 3D et interfaces hybrides* Immersion, présence et agence* Locomotion et navigation* Environnements et vidéos à 360°Ingénierie logicielle* Architecture logicielle et modèles de conception* Cadres d’application* Développement de plateformes de bureau, mobiles et web* Développement de jeuxAccessibilité en RA/RV* Techniques et technologies d’aide au pointage* Technologies d’assistance telles que lecteurs d’écran, aides à la mobilité ou interfaces en braille* Technologie du fitness et/ou exergaming* Calibrage du jeuCapteurs et matériel* Prototypage* Vêtements* Traçage oculaire* Graphiques et audioApprentissage automatique centré sur l’utilisateur* Modélisation prédictive* Modélisation de l’intention* Interaction informatique* Vision par ordinateurNos stages sont d’une durée de seize(16) à vingt-quatre(24) semaines et nous avons plusieurs dates de début tout au long de l’année. Ce poste est basé à Toronto, au Canada.
+Plan and execute cutting-edge research to advance human-computer interaction research. | Planifiez et exécutez des recherches de pointe pour faire progresser la recherche sur l’interaction homme-machine.
+Collaborate with dynamic teams of engineers, designers and researchers. | Collaborez avec des équipes dynamiques d’ingénieurs, de concepteurs et de chercheurs.
+Organize and lead research activities such as designing and building prototypes, experimental design as well as data collection and analysis. | Organisez et dirigez des activités de recherche telles que la conception et la construction de prototypes, la conception expérimentale ainsi que la collecte et l’analyse de données.
+Write and publish high quality scientific articles. | Rédigez et publiez des articles scientifiques de haute qualité.
+Communicate research activities and findings to collaborators across a variety of disciplines. | Communiquez vos activités de recherche et résultats à vos collaborateurs issus de diverses disciplines.
+Currently has, or is in the process of obtaining, a PhD. | Actuellement doctorant.e ou titulaire d'un doctorat.
+3+ years of experience with programming languages such as Python, R, C++, C#, Matlab. | Au moins trois ans d’expérience avec des langages de programmation tels que Python, R, C++, C#, Matlab.
+1+ years of experience in experimental design of user studies and statistical analysis to interpret results. | Au moins un an d’expérience en conception expérimentale d’études sur les utilisateurs et en analyse statistique pour interpréter les résultats.
+Interpersonal skills: cross-group collaboration and cross-culture collaboration. | Compétences interpersonnelles : collaboration transversale et collaboration interculturelle
+Must obtain work authorization in the country of employment at the time of hire and maintain ongoing work authorization during employment. | Doit obtenir un permis de travail dans le pays où se trouve l’emploi à la date d’embauche et maintenir ce permis pendant la durée de l’emploi.
+Familiarity with the HCI field. | Familiarité avec le domaine des IHM.
+Familiarity with AR/VR technologies and literature. | Bonne connaissance des technologies et de la littérature en matière de réalité augmentée ou virtuelle.
+Familiarity with Unity game engine. | Une aisance avec le moteur de jeu Unity.
+Proven track record of achieving research results and innovation as demonstrated by minimum 2 patents or first-authored peer-reviewed publications in relevant venues such as ACM CHI, ACM UIST, ACM IMWUT, IEEE ISMAR or IEEE VR. | Une expérience avérée dans l’obtention de résultats de recherche et l’innovation, comme en témoignent au moins deux brevets ou des publications rédigées en tant qu'auteur principal, évaluées par les pairs et parues dans des revues pertinentes comme ACM CHI, ACM UIST, ACM IMWUT, IEEE ISMAR ou IEEE VR.
+Intent to return to degree-program after the completion of the internship/co-op. | Intention de retourner au programme d’études après l’achèvement du stage ou du programme coopératif
+Facebook's mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Facebook are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities - we're just getting started."
+"Embedded Firmware Engineer - Vancouver, BC - Indeed.com","Embedded Firmware Engineer
+Looking to build a greenfield project built on completed, custom, tested hardware? This position's for you.
+About the Company:
+Fobi is a location-based marketing intelligence platform, which facilitates connections between consumers, brands, and retailers, providing insights into consumer behaviour and the customer purchase journey. As we continue to grow, our team in Vancouver is looking to add ambitious, eager to learn, intelligent and talented individuals to the technical team. We are looking for someone that:
+Wants to be a part of something big – an emerging new global brand
+Is interested in marketing, consumer behaviour, and cutting edge technology
+Can thrive in a fast paced, rapidly changing work environment
+Is eager to work with and learn from a team of experts
+Is ready to expand their career and realize their full potential
+Has the aptitude to embrace change and welcome new approaches in an exceedingly evolving environment of new technology
+We are looking for individuals who desire the excitement and learning opportunities that come with working with us. What we do is challenging, exciting, has amazing potential, and we’d like for you to share in that experience!
+About the Tech:
+Our product is a plug-and-play platform, enabling retailers to leverage modern analytics and marketing technology without replacing their existing IT infrastructure.
+Entirely hosted in AWS. We mainly use ECS/EC2, S3, IoT core, API Gateway, and DocumentDB.
+There are a few main components to our platform.
+The IoT device collects raw data and transmits it to the cloud
+The cloud-based data structuring / processing system turns raw data from the device into useful, structured, tabulated data
+The presentation component in the form of dashboards, an interactive portal, and user management interfaces to display the processed data
+Our promotions engine, which pushes marketing material back to the customer through various channels
+Your Main Duties:
+Working at Fobi, you will be developing firmware in C, on ARM microcontrollers, in a RTOS programming environment. This position is for a greenfield development project for one of our new products.
+The firmware you develop will interact with various other microcontrollers and FPGAs on one PCB, as well as some off-PCB peripherals. You will implement protocol drivers and business logic, utilize and monitor networking libraries, and define the data structures used to communicate with our AWS cloud.
+As a firmware developer at Fobi, you will have the opportunity to define the direction of this product, in collaboration with other Fobi hardware and firmware engineers. We are happy to share more with you about this project in an interview - We'd love to speak with you.
+Requirements:
+Bachelor’s degree in Computer Science, Software Engineering, or equivalent practical experience
+3+ years of firmware development experience, or 1 year with a relevant advanced degree
+Experience with embedded systems design and development in C
+Experience working with embedded devices
+Experience with RTOS development on microcontrollers or embedded processors (FreeRTOS preferred)
+Experience reading PCB schematics, and developing firmware that closely matches that schematic
+Demonstrated experience with digital control interfaces such as SPI, I2C, UART, USB, etc.
+Experience with Jira/Confluence and Git
+Location:
+Our head office is in Vancouver, so you need to be a Canadian resident or have the right to work for any employer, located in western Canada (BC or Alberta)
+Benefits & Compensation:
+We offer a competitive salary and benefits package."
+"Enterprise Solutions Engineer, Greater Toronto Area - Toronto, ON - Indeed.com","Who We Are
+Verkada is the leading physical security platform to protect people, assets and privacy. Designed with simplicity in mind, Verkada’s five product lines - video security cameras, access control, environmental sensors, alarms and visitor management - provide seamless visibility through an integrated secure cloud-based software platform. Over 8,700 organizations worldwide trust Verkada as their physical security layer for easier management, frictionless scalability and cutting-edge innovation.
+Job Description
+Verkada is seeking an Enterprise Field Solution Engineer in the Greater Toronto area with expert experience in Cloud Security, IoT Systems, Networking, Linux systems, Security Surveillance and Access Control. This individual will partner directly with their territory account executives to expand the Verkada footprint upmarket into Fortune 500 companies. Responsibilities include directly interfacing with customers/partners throughout the sales process, overcoming technical objections, assisting customers in designing deployments with Verkada Products and providing technical assistance to territory account reps. The ideal candidate will be highly motivated, able to learn quickly and work independently while making impactful results for the company remotely.
+Responsibilities
+Be the subject matter authority on the full Verkada suite of products and offerings and articulate the value added benefits to customers throughout the sales process.
+Act as a trusted advisor for Verkada Customers and overcome objections while securing the technical win for Verkada.
+Effectively present the Verkada solution to all levels of customer, from C-level executives to loss prevention managers and directors of IT.
+Work directly with your Account Managers to develop territory strategy for Verkada.
+Design Verkada solutions that range from: Network Security recommendations/bandwidth requirements, choosing proper Verkada products for Physical Security and deployment. Cloud Security RFP's/Documents, LTE deployments.
+Stay up to date on the security and IoT industry by attending and presenting at strategic conferences and providing thought leadership within the market
+Be a Product Technical Evangelist in training/educating partners, customers, and internal employees on the latest Verkada product offerings.
+Write White Papers and Knowledge Base articles about Verkada Products, features, and integrations.
+25% Travel may be required
+Requirements
+Entrepreneurial and positive attitude with a strong desire to learn.
+5+ years of experience as a Sales Engineer, with a proven track record of working with Fortune 500 companies.
+Bachelor's degree in Computer Science, Computer Engineering, Information Technology, Information and Computer Technology, Networking, IT Security from an accredited university.
+Strong background in Networking: Experience with HTTPS/SSL, VLANs, TCP/IP, DNS, NAT devices, DHCP servers, Firewalls and software systems.
+Outstanding written and verbal English communication skills in order to clearly and efficiently articulate technical matters with customers and partners.
+Able to work and adapt to an ever evolving workplace and company.
+Genuine excitement for software/hardware products, Cloud Security and IoT devices and can speak to how they work.
+Industry certifications are a plus: AWS, CCNA, CCDA, CCNP, MCSE, CEH, Security+, A+, Network+, Microsoft Azure, CISSP, CSP.
+Experience working with API's, Python, and other coding languages is a plus.
+Experience working with Linux systems are a plus.
+Bonus points if you have previous startup experience.
+Verkada is an equal opportunity employer. We strive to be a welcoming place for everyone, and we do our best to make sure all people feel supported and connected at work. A big part of that effort is support for members and allies of our internal communities like Women at Verkada, Pride at Verkada, Multicultural at Verkada and Parents at Verkada."
+"Firmware Engineering Manager - Edmonton, AB - Indeed.com","You will lead a team of firmware engineers responsible for the new product development and continuous improvement and maintenance of our Thermal Management Segment’s embedded and Windows based applications. The firmware team is responsible for the development, testing, deployment, and technical aspects for commercialization of new products and support of legacy products, including hardware, firmware, test systems, and demonstration. You will also lead and participate in NPI planning & strategy, performance management, and continuous improvement enablement.
+In this position, you will get to:
+Lead an embedded firmware and software application team in developing new and sustaining legacy products.
+Work with global technology, product management and other cross functional organization in implementing company vision and direction.
+Translate technology roadmap and product requirement documents into actionable plans
+Lead change and drive organizational capability improvement through improvements in tools, process, and technical development of the teams
+Leverage past experiences in designing and building highly reliable, highly scalable, and high performance embedded and Windows based applications.
+As a technical expert in embedded design domain, provide technical consulting to address technical issues, provide guidance and drive development and verification activities, perform code reviews and analysis
+Analyze highly complex designs and independently formulate solutions through applying engineering or mathematical methods.
+Ensure software engineering best practice methodologies are applied throughout the software development lifecycle
+Evaluate design alternatives, perform cost benefit analysis, and guide staff in implementing improvements
+Work in concert with 3rd party offshore software development organization integrating seamlessly with the on-site team
+Manage and lead project development teams using Agile Scrum methodology across several large software projects simultaneously with both on site and offshore teams
+Use project management and bug tracking tools like JIRA and Redmine or equivalent.
+Track project progress, mitigate risks and resolve dependencies for multiple projects
+Provide mentoring and guidance creating environment for open collaboration and career growth for team members through strong leadership.
+Develop relationships with all engineering leads and individual contributors, both with the electronics technology and digitals organizations building a cohesive development environment built on open collaboration and trust.
+You have:
+BS or equivalent degree in Computer Science or Electronics with emphasis on software and firmware development
+MS or PhD degree desirable
+Ideally 7 years of relevant firmware and software engineering management experience
+Experience with embedded and Windows applications development
+Working knowledge and experience working with both Real Time Operating Systems (RTOS) and Linux
+Development experience and managing teams using C, C++ or other higher languages
+Development experience and managing teams using JSON, XML and other data exchange formats.
+Development experience and managing teams using Python, Perl, BASH, PowerShell or JavaScript scripting languages
+Development experience and managing teams using MySQL, MongoDB or other database technologies
+Development experience and managing teams using MQTT standard messaging protocol for IoT.
+Development on experience and working knowledge with TCP/IP, Ethernet and TLS protocols
+Experience working with industrial and commercial Modbus and TCP/IP, and CANBUS and BACNET is desirable.
+Exposure to Bluetooth and other Wireless Technologies
+Strong verbal and written communication skills
+Excellent project management skills to efficiently organize, plan, and track project activities
+We have:
+A dynamic global reach with diverse operations around the world that that will stretch your abilities, provide plentiful career opportunities, and allow you to make an impact every day
+We are a $2.1 billion, high-performance electrical company with a dedicated team of 9,000 people, across more than 80 global locations
+We have a robust portfolio of product brands dating back more than 100 years and including: nVent CADDY, ERICO, HOFFMAN, RAYCHEM, SCHROFF and TRACER
+Commitment to strengthen communities where our employees live and work
+We encourage and support the philanthropic activities of our employees worldwide
+Through our nVent in Action matching program, we provide funds to nonprofit and educational organizations where our employees volunteer or donate money
+Core values that shape our culture and drive us to deliver the best for our employees and our customers. We’re known for being:
+Innovative & adaptable
+Dedicated to absolute integrity
+Focused on the customer first
+Respectful and team oriented
+Optimistic and energizing
+Accountable for performance
+Benefits to support the lives of our employees
+At nVent, we connect and protect our customers with inventive electrical solutions. People are our most valuable asset. Inclusion and diversity means that we celebrate and encourage each other’s authenticity because we understand that uniqueness sparks growth."
+Product Manager - Operating Systems (Facebook Reality Labs) | Chef de produit – Systèmes d'exploitation (Laboratoires de réalité de Facebook) - Remote - Indeed.com,"Facebook Reality Labs (FRL) focuses on delivering Facebook's vision through Virtual Reality (VR) and Augmented Reality (AR). AR/VR technologies and voice-interfaces are becoming a meaningful consumer reality. The Facebook Reality Labs team builds forward-looking, foundational AI technologies and core capabilities for future technology platforms. The Operating Systems PMs are responsible for building operating systems and platform solutions for FRL devices and enabling developers to create novel consumer experiences and workplace/productivity solutions.As a Product Manager, you'll lead development of the FRL technology products and platforms.You will drive product vision, work closely with world-class cross-functional teams to define product requirements for our VR and wearable computing platforms, from low-level systems up through to the developer experience.Excitement for innovating on emerging technologies and security/privacy to deliver into the hands of consumers is a must. We’re looking for entrepreneurial product managers who have a strong interest in AR/VR technologies, can think big and execute on that vision, and excel in ambiguity and 0 to 1 efforts.-Les laboratoires de réalité Facebook s’attachent à concrétiser la vision de Facebook grâce à la réalité augmentée (RA) et à la réalité virtuelle (RV). Les technologies RA/RV et les interfaces vocales sont en train de devenir une réalité concrète pour les consommateurs. L'équipe des laboratoires de réalité de Facebook développe des technologies d'IA fondamentales et tournées vers l'avenir, ainsi que des capacités essentielles pour les futures plateformes technologiques. Les responsables des systèmes d'exploitation sont chargés de mettre au point des systèmes d'exploitation et des solutions de plate-forme pour les appareils des LRF et de permettre aux développeurs de créer de nouvelles expériences de consommation et des solutions de productivité/de travail.En tant que gestionnaire de produits, vous dirigerez le développement des produits et des plateformes technologiques des LRF.Vous serez responsable de la vision du produit et travaillerez en étroite collaboration avec des équipes interfonctionnelles de classe mondiale afin de définir les exigences du produit pour nos plateformes RV et informatiques portables, depuis les systèmes de bas niveau jusqu'à l'expérience du développeur.L'enthousiasme pour l'innovation dans le domaine des technologies émergentes et de la sécurité/protection de la vie privée afin de mettre les produits entre les mains des consommateurs est indispensable. Nous recherchons des chefs de produit entreprenants qui ont un intérêt marqué pour les technologies RA/RV, qui sont capables de voir grand et d'exécuter cette vision, et qui excellent dans l'ambiguïté et les efforts 0 à 1.
+Lead the ideation, technical development, and launch of innovative tools, platforms and products for AR/VR | Diriger l'idéation, le développement technique et le lancement d'outils, de plates-formes et de produits innovants pour la RA/RV
+Drive product development with multiple teams of world-class engineers, designers, and product specialists | Diriger le développement des produits avec plusieurs équipes d'ingénieurs, de concepteurs et de spécialistes des produits de classe mondiale
+Integrate usability studies, research market analysis into product requirements to improve engineer productivity & product satisfaction | Intégrer des études d'utilisabilité, des analyses de marché dans les exigences du produit afin d'améliorer la productivité des ingénieurs et la satisfaction du produit
+Define and analyze metrics that inform the success of products | Définir et analyser les métriques qui renseignent sur le succès des produits
+Maximize efficiency in a constantly evolving environment where the process is fluid and creative solutions are the norm | Maximiser l'efficacité dans un environnement en constante évolution où le processus est fluide et où les solutions créatives sont la norme
+4+ years product management experience with 2+ years of experience on software and/or developer platforms | Au moins quatre ans d'expérience en gestion de produits, dont au moins deux ans d'expérience dans le domaine des logiciels et/ou des plateformes de développement
+Experience managing delivery of at least 1 hardware/software product | Expérience de la gestion de la livraison d'au moins un produit matériel/logiciel
+Experience managing and overseeing multiple on-going initiatives simultaneously | Expérience de la gestion et de la supervision de plusieurs initiatives en cours simultanément
+Cross-functional communication and collaboration experience | Expérience de la communication et de la collaboration inter-fonctionnelles
+Experience working on a successful developer and/or OS platform | Expérience de travail sur un développeur et/ou une plateforme OS à succès
+Degree in Computer Science or related field, and 2+ years experience as a software engineer | Diplôme en informatique ou dans un domaine connexe, et au moins deux ans d'expérience en tant qu'ingénieur logiciel
+Experience working on platform software for multimedia and/or connectivity | Expérience de travail sur des logiciels de plateforme pour le multimédia et/ou la connectivité
+Experience working on developer-focused SDKs, APIs, services, and toolchains | Expérience de travail sur des SDK, API, services et chaînes d'outils axés sur les développeurs
+Experience delivering products with new technology introduction | Expérience de la livraison de produits avec l'introduction de nouvelles technologies
+Experience working in growing computing ecosystems | Expérience de travail dans des écosystèmes informatiques en pleine croissance
+Facebook's mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Facebook are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities - we're just getting started."
+"System Software Engineer - Deep Learning MIGraphX Performance Developer - 126821 - Markham, ON - Indeed.com","What you do at AMD changes everything
+At AMD, we push the boundaries of what is possible. We believe in changing the world for the better by driving innovation in high-performance computing, graphics, and visualization technologies – building blocks for gaming, immersive platforms, and the data center.
+Developing great technology takes more than talent: it takes amazing people who understand collaboration, respect, and who will go the “extra mile” to achieve unthinkable results. It takes people who have the passion and desire to disrupt the status quo, push boundaries, deliver innovation, and change the world. If you have this type of passion, we invite you to take a look at the opportunities available to come join our team.
+System Software Engineer – Deep Learning MIGraphX Performance Developer
+The Role:
+In this role we are seeking a software development engineer to join a development team building and optimizing Machine Learning system software for AMD GPU compute platforms. The individual will be part of a development team and open-source community which analyzes, develops, tests, and deploys improvements to make AMD the best platform for machine learning applications.
+The Person:
+The ideal person has strong technical and analytical skills in C++ development in a Linux environment. They must have the ability to work as a member of a team, while also being able to work independently, define goals, scope, and lead their own development effort.
+Key Responsibilities:
+Build solutions for machine learning inference for AMD GPUs.
+Design and develop lower level system software that works with underlying libraries, runtime systems and hardware.
+Analyze and optimize solutions to achieve the highest performance.
+Test and deploy these solutions.
+Work with cutting-edge compiler technologies.
+Apply one's knowledge of software engineering best practices.
+Preferred Experience:
+Excellent C/C++ programming and software design skills including debugging, performance analysis, and test design.
+Experience developing software in Linux environment including commonly used tools.
+Basic understanding of Deep Learning.
+Academic Credentials:
+Bachelor's, Master's, or PhD or equivalent experience in Computer Science, Computer Engineering, or related field.
+Location:
+Markham, Ontario, Canada
+#LI-JG1
+Requisition Number:
+126821
+Country:
+Canada
+Province:
+Ontario
+City:
+Markham
+Job Function:Design
+AMD is an inclusive employer dedicated to building a diverse workforce. We encourage applications from all qualified candidates and will accommodate applicants’ needs under the respective provincial human rights codes throughout all stages of the recruitment and selection process.
+Any applicant who requires accommodation should contact
+AskHR@amd.com
+.
+AMD does not accept unsolicited resumes from headhunters, recruitment agencies or fee based recruitment services."
+"Manager - DevOps - Vancouver, BC - Indeed.com","About DDS Wireless
+DDS Wireless International is a 32-year-old company which is a leading provider of transportation industry solutions. We are an innovative developer of software as a service (SaaS) products and services and wireless hardware devices for the Transit and Taxi market segments. We have a global presence with offices in Vancouver, BC, Canada; Redmond, Washington; Oxford & Cambridge, United Kingdom; Stockholm, Sweden; and Tampere, Finland
+About the role
+DDS Wireless International is urgently seeking a DevOps Manager to improve our abilities to deploy, maintain, and monitor our SaaS / AWS production systems while incorporating and maintaining secure practices throughout the DevOps.
+This is a managerial role, we are looking for a dynamic and self- driven person with a balanced approach of managerial skills and knowledge of development process.
+The DevOps manager would utilize their many years of experience in the deployment of well-architected systems within AWS and recommend best-practices and strategies required to deploy more secure, and reliable solutions. You will be responsible for deployment automation, continuous integration / continuous deployment pipelines, and the overall management and reliability of AWS and Production systems.
+Key Responsibilities of this role
+*
+We are looking for a self driven leader who will lead and develop an effective DevOps team by building a team right from hiring, training the new hires, and mentor to build as per the vision for the Dev ops team
+Ensure successful delivery of deployment automation, and deployment projects across multiple product lines, technologies, and geographic regions
+Collaborate with product managers, developers, security analysts, to effectively prioritize product delivery and deployment requirements.
+Maintain a deployment roadmap, to ensure on-time delivery of external and internal projects
+Continuously improve deployment automation, though application of new technologies, and new solutions, to improve reliability, availability, and security
+Deploy and maintain CI/CD pipelines across multiple systems, including AWS, and Hybrid cloud systems
+Manage reliability and SLA for production systems and SaaS products, leading initiatives to detect and resolve issues before there is any impact to critical customer operations.
+Develop disaster recovery, business continuity and redundancy plans, for internal and external facing AWS instances.
+Keep track of utilization metrics and monitor costs, identify the improvement area and recommend changes as needed
+Key Qualifications
+Minimum 7 years experience with AWS technologies (including RDS, EC2, Lambda, Glue, ElasticSearch, Redis)
+Minimum 2-3 years experience in a leadership role (eg manager, team lead, architect)
+Proven leadership and project management experience, ability to successfully deliver multiple parallel projects, while responding to risks and critical issues
+Experience with complex, highly available and highly scalable AWS / production systems.
+Bachelor’s degree in computer science or equivalent experience.
+Hands on experience developing infrastructure as code (IaC) platforms, such as Terraform
+Hands on experience with deployment automation tools including Jenkins, SAM, CodeDeploy, Helm
+Experience with microservices, and container architectures, including Kubernetes, Docker
+Proven track record in the adoption and promotion of DevOps culture, DevOps tools and practices
+*Preferred skills and certifications for this role
+Experience with monitoring platforms: Prometheus, Grafana, EFK / ELK, DataDog, New Relic
+Hybrid Cloud systems, including Windows, Hyper-V, Remote Desktop Services
+Ability to maintain operational budgets, ensure cloud solutions are designed, deployed, and operated to remain cost effective, and meet cost projection targets
+Experience with Terraform and the Atlassian suite of tools is an asset
+Familiar with SDLC, Agile, Scrum
+The following certifications would be an asset
+AWS Certified DevOps Engineer Professional
+AWS Certified Solution Architect Professional
+AWS Certified Advanced Networking Specialist
+AWS Certified Security Specialist
+If you are a team player that enjoys a challenge and has excellent communication skills and are excited about the variety, challenge, and scope of this role as well as about the opportunity to advance your career within the DDS group of companies, we want to hear from you.
+DDS Wireless offers a competitive salary and comprehensive benefits package, combined with variety, challenge and scope to develop your career.
+This role has hybrid working, we encourage remote work and office work for employee to have a balanced work life.
+We thank all who apply, however, we will only be in contact with those considered for an interview. No phone calls, please.
+Job Type: Full-time"
+"Director of Engineering - Toronto, ON - Indeed.com","At Blockthrough, our mission is to bring about an Internet where publishers and advertisers can build flourishing, sustainable businesses by delivering advertising experiences that respect the user’s choice.
+Through our close-knit culture, transparent leadership, competitive compensation, flexibility to work remotely, and a focus on optimal work-life balance, we're proud to be a ""Great Place to Work"" certified employer, Canada's 11th fastest growing company ranked by the Globe and Mail, and recipient of the 2021 Deloitte Companies-to-Watch award.
+We work with some of the biggest publishers in the world, we’re backed by some of the brightest minds in the industry, and we’re looking for curious and analytical team players who like to win!
+Our Product
+Our product restores publishers’ existing website monetization technologies for adblock users who consent to it, while making sure that all ads adhere to the lighter, stricter Acceptable Ads standard, a happy middle ground for users and publishers. Users also have the ability to opt out if they prefer no ads at all.
+Through a complex cloud-based system, we use sophisticated algorithms and real-time analysis to determine which ads qualify for an optimal user experience, all in the time it takes for a website to load. We process vast numbers of requests, processing tens of billions of ad impressions per month.
+What you'll be doing
+Directly manage Engineering Managers and Team Leads across the organization.
+Architect our systems to be scalable and for high availability.
+Identify bottlenecks and improve efficiencies across the technology stack.
+Perform regular 1-on-1 meetings with team members, coaching and mentoring.
+Work with our CTO, other Engineering Leaders and Product Manager to execute on the product vision.
+Assist teams at leveling up their skillset and progression in the career track.
+Periodically review processes and help support new initiatives.
+Participate in code review sessions and work with other engineers to build optimal solutions.
+Assess hiring needs and build out a hiring roadmap.
+What you'll need
+At least 8 years of experience developing enterprise level software applications.
+4+ years of experience leading a team of Engineers.
+Fullstack experience and designing end to end solutions for web based applications.
+Experience with deploying to the cloud and cloud based development (GCP, AWS, Azure).
+BS in Computer Science, Engineering, or other related technical field or equivalent work experience.
+Bonus if you have
+Understanding of the ad tech ecosystem and/or ad tech experience.
+Building out greenfield projects and engineering teams.
+Experience managing remote teams.
+Why you’ll love working at Blockthrough:
+Close-knit and collaborative culture with transparent leadership that cares
+Competitive compensation (including health benefits) and stock options at a fast-growing startup
+4 weeks vacation
+Top-of -the-line hardware
+Optimal work-life balance
+Up to $1k home office reimbursement
+Professional Development Compensation
+100% remote or the opportunity to work out of our central downtown Toronto office, surrounded by some of Toronto’s hottest scaleups
+We value inclusiveness, diversity and are an equal opportunity employer. We do not discriminate based on race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status."
+"ITV Specialist - Senior (Platforms) - Toronto, ON - Indeed.com","Location: Toronto, Canada
+Thales people architect solutions that support 85 million mainline and suburban passenger journeys, worldwide, every day. Our Rail Signalling and Communication systems are used on metro lines across major cities, and 72,000 kms of route, 52,000 trains per day in 16 countries are controlled by our Traffic Management Systems. Together We deployed the first-ever nationwide ticketing system which processes over 50 million ticketing transactions in 100 cities daily.
+Thales provides world-leading Communications-Based Train Control (CBTC) and interlocking for mass rail transit applications globally. The Centre of Competence for Urban Rail Signalling is located right before you at mid-town Toronto. As the largest office in Canada, we house a department for every step of the Software Development Lifecycle (SDLC)! This includes Software, Hardware, Systems Design, Verification & Validation, Operations, etc. The supporting corporate shared services teams in Finance, Human Resources and IT is also located at the office. Our office space was designed to provide a sustainable, healthy workplace that expresses TRSS’s brand while increasing collaboration. Features include Greenguard furniture, EnergyStar appliances, low-emitting adhesives, sealants, and sliding glass doors on internal offices provide daylight and views to the outside. Come join the big Transport family, here in Toronto!
+The Senior IVVQ Specialist participates in the Integrated Design Team to ensure the requirements are properly defined and can be verified and validated. They will also define the methods of verification and validation of the technical requirements and defines the test objectives for the testable requirements. You will be preparing integration and test plans, procedures and reports to integrate, verify and validate the system. Performing integration and testing in-plant and at project sites in accordance with these test plans and procedures. Preparing test automation scripts.
+Key Responsibilities:
+Perform the analysis of system, subsystem and software requirements, defines the verification and validation methods and the applicable test objectives
+Perform requirements traceability analyses
+Plan and perform integration activities in-house and at project sites to mitigate the key project acceptance and commissioning risks
+Plan the project verification and validation work, including the preparation of the test plans
+Plan and develop operational and stress / bust-it testing
+Prepare Integration and Test Procedures in accordance with the plans
+Prepare test automation scripts
+Investigate integration anomalies through review of data files, design documentation and through interaction with the development teams
+Coordinate the analysis of the integration issues and follow up on the rectification of anomalies
+Execute formal tests within the laboratory environment
+Prepare problem reports in the defect tracking system describing test failures and defects
+Conduct initial review of the test results through the observed system responses and the analysis of the collected data
+Perform independent review of the test results
+Prepare integration and test reports which record the pass/ fail status of planned tests and identify problems detected during the tests
+Prepare trip reports upon completion of field assignments
+Develop product knowledge through active participation in formal and on the job training, as well as self-study
+Directs, supervises and reviews the work of the more junior staff performing IVVQ work
+Trains and develops the skills of the more junior staff
+Assists in the development of IVVQ schedules and the associated progress reporting
+Assists in the development of IVVQ processes and tools
+Adheres to the company’s processes
+Skills and Experience:
+Bachelor's degree in Computer Science, Software Engineering, System Engineering, Electrical Engineering or a closely related field
+Over 5 years of relevant working experience
+Knowledge of railway signaling techniques, including SelTrac CBTC
+Able to handle technical leadership of a small to medium test team
+Able to quickly integrate with the team and provide mentoring and coaching
+Experience in working within a team using Agile Methodologies
+Experience in task planning, including estimation, performance tracking and reporting
+Practical experience in using typical programs which are part of Microsoft Office Suite
+Practical experience with requirements management and problems tracking tools (e.g. Jira, ClearQuest, Doors, etc.)
+Understanding of the roles and activities of other departments that are related to IVVQ
+Understanding of basic engineering management practices for supporting project planning and scheduling
+Solid knowledge of in-house and field integration methods and procedures
+Good analysis skills, with the ability to diagnose issues based on test logs and correlate events to failures
+Solid knowledge of data communication systems
+Solid knowledge of simulation systems
+Solid knowledge of troubleshooting techniques
+Experience in testing real time embedded mission critical systems
+Solid knowledge of in-house and field testing techniques
+Experience in developing scripts for test automation
+Solid knowledge of System Engineering principles, life cycle models and requirements analysis
+Solid knowledge of requirements compliance mapping
+Solid knowledge of software verification and validation processes
+Professional Engineer certification would be an asset
+Thales is an equal opportunity employer which values diversity and inclusivity in the workplace. Thales is committed to providing accommodations in all parts of the interview process. Applicants selected for an interview who require accommodation are asked to advise accordingly upon the invitation for an interview. We will work with you to meet your needs. All accommodation information provided will be treated as confidential and used only for the purpose of providing an accessible candidate experience."
+"AWS Application Security Engineer - Toronto, ON - Indeed.com","BS in Computer Science or related field, or equivalent work experience.
+Minimum of 2 years of experience with any combination of the following: threat modeling experience, secure coding, identity management and authentication, software development, cryptography, system administration and network security.
+Minimum of 2 years of experience with security engineering, system and network security, authentication and security protocols, cryptography, or application security.
+Help us protect not only the Amazon Web Services (AWS) cloud computing environment but all of our customers as well! Since 2006, our great team at AWS has been enabling our customers to bring great ideas to life in ways that aren’t possible in traditional IT environments. With AWS you can flexibly harness compute, storage, security, and other services from across the globe as your business demands them.
+AWS Security is on the cutting edge of many security issues for a wide variety of platforms and technologies including cloud services, Internet of things (IoT), identity and access management, mobile devices, virtualization and custom hardware, all operating at massive scale. Similarly, our highly collaborative team is committed to each team member’s growth as our business grows.
+AWS Security is looking for an Application Security Engineer to help validate that our services, applications, and websites are designed and implemented to the highest security standards. You will be responsible for analyzing the security of applications and services, discovering and addressing security issues, building security automation, and quickly reacting to new threat scenarios. You will have the opportunity to learn from, and be mentored by, those who are building and securing our cutting-edge services.
+You are expected to be strong in multiple domains and provide significant contributions to the AWS IT Security team and to multiple groups throughout Amazon. You are expected to develop elegant solutions to complex business problems and apply appropriate technologies while following security engineering best practices. You are also expected to mentor more junior engineers and be a security thought leader for the organization.
+You will foster constructive dialogue and seek resolution when confronted with discordant views. Engineers in this role are expected to participate fully in the planning of the AWS IT Security team's work and constantly seek opportunities for process improvement. You should also have a deep understanding of at least one specialty for which they are a sought out resource (both within AWS Security and by groups throughout Amazon), while having an understanding of the application of information security in a broad range of technical areas.
+You will need a combination of troubleshooting, technical, and communication skills, as well as the ability to handle a mix of disparate tasks which may include project and software development work. This role will provide career growth opportunities as you gain new security skills in the course of your duties.
+Responsibilities:
+Application security reviews
+Mobile security reviews
+Secure architecture design
+Threat modeling
+Projects and research work as needed
+Security training and outreach to internal development teams
+Security guidance documentation
+Security tool development
+Security metrics delivery and improvements
+Assistance with recruiting activities and administrative work
+Our team also puts a high value on work-life balance. Striking a healthy balance between your personal and professional life is crucial to your happiness and success here, which is why we aren’t focused on how many hours you spend at work or online. Instead, we’re happy to offer a flexible schedule so you can have a more productive and well-balanced life—both in and outside of work.
+Our team is dedicated to supporting new members. We have a broad mix of experience levels and tenures, and we’re building an environment that celebrates knowledge sharing and mentorship. We care about your career growth and strive to assign projects based on what will help each team member develop into a better-rounded engineer and enable them to take on more complex tasks in the future.
+Here at AWS, we embrace our differences. We are committed to furthering our culture of inclusion. We have ten employee-led affinity groups, reaching 40,000 employees in over 190 chapters globally. We have innovative benefit offerings, and we host annual and ongoing learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences. Amazon’s culture of inclusion is reinforced within our 14 Leadership Principles, which remind team members to seek diverse perspectives, learn and be curious, and earn trust.
+Meets/exceeds Amazon’s leadership principles requirements for this role
+Meets/exceeds Amazon’s functional/technical depth and complexity for this role
+Experience implementing security solutions at the business division level
+An understanding of network and web related protocols (such as, TCP/IP, UDP, IPSEC, HTTP, HTTPS, routing protocols)
+An understanding of web services
+Experience with multiple programming languages (such as, Java, C++, Ruby, Python, Perl, etc.)
+Excellent written and verbal communication skills
+Demonstrable teamwork skills and resourcefulness
+Possess self-drive to keep moving things forward even in the face of ambiguity and imperfect knowledge (avoid “analysis paralysis”)
+Strong sense of ownership, urgency, and drive
+Sharp analytical abilities and proven design skills
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, disability, age, or other legally protected status. If you would like to request an accommodation, please notify your Recruiter.
+#AppSec"
+"Level 2 IT Mac Engineer - Winnipeg, MB - Indeed.com","Looking for a local computer geek/genius, eager to kick their IT career into hyperdrive with an award-winning and fast-growing IT firm.
+This Level 2 role is a chance for you to ‘Level Up’ and hone your skills and expertise in technology, problem-solving, cybersecurity and customer service. The position will have you talking with people all day, therefore candidates must be great on the headset and capable of holding a helpful and friendly conversation with other humans with no geek speak.
+We are looking specifically for an Apple-centric tech lover to join our team. We need you to support our MAC business user's technical infrastructure, networking and end-user needs. Former 'Geniuses' and Members of the Apple Consultants Network are encouraged to apply.
+Work-life balance is cultivated on our team, and benefits are plenty; including the assistance to continue your technical training and certifications with a lot of room to grow internally to ‘expert’ ranking.
+If you are interested, please respond and make sure to include the quote, “Stay Hungry, stay foolish” on your cover letter. If you are chosen for an interview – you will be required to complete a technical assessment and a fulfilling conversation full of humour and water cooler chatter with our COO.
+Qualifications
+At least 2+ years’ experience in an IT support role as a Tier 2 Technician
+College diploma or university degree in the field of computer science
+High level experience with desktop and server operating systems in Small Business environments
+Apple Certified Support Professional (ACSP)
+Configuration and troubleshooting of Microsoft 365 issues including integration with other services.
+Proven experience for monitoring of system reliability and improving performance.
+Thorough knowledge of Active Directory, management and troubleshooting.
+Knowledge of common network protocols (DNS, DHCP, NTP, SSH) and TCP/IP
+Experience with the configuration of networking infrastructure such as VLANs, VPNs and firewalls.
+Experience configuring and troubleshooting VPN connections and other remote access solutions.
+Ability to troubleshoot high level issues with Windows7 through 11
+Virtualization.
+CompTIA A+ level of computer hardware knowledge and familiarity.
+Strong documentation skills.
+Strong English communication skills – written and oral.
+French language skills. (an asset)
+Desired Personal Attributes
+Highly self-motivated and directed.
+Takes ownership.
+Keen attention to detail.
+Proven analytical and problem-solving abilities.
+Ability to effectively prioritize and multitask in a high-pressure environment.
+Exceptional customer service orientation. Including a calm, clear, welcoming phone speaking voice and professional demeanour.
+Exceptional interpersonal skills, with a focus on rapport-building, listening and questioning.
+Experience working in a team-oriented, collaborative environment.
+Security and Safety:
+Criminal record check.
+Not a remote position. On site work is required. PPE provided.
+Social distancing and masks required.
+Transportation/Travel Information:
+Own transportation, Willing to travel regularly, Valid driver's licence, travel expenses paid by employer."
+"Software Developer - Pointe-Claire, QC - Indeed.com","Mircom designs, develops, and integrates highly sophisticated intelligent building system related command, control, and communications systems for the industrial, commercial, and residential markets. Our designs transform large amounts of complex data into useful information that is clearly and intuitively presented on our panels, enabling emergency response or facility maintenance staff to make informed decisions in real-time.
+Software developers work in teams solving real problems brought to us by our customers. We design solutions end-to-end from the whiteboard to the white-box. Our multi-talented integrated teams of electrical, mechanical, software, and application engineers design hardware, layout PCBs, operating systems, drivers, and application level software to support Mircom’s network connected systems. Primarily you will be coding, building and testing software. We hold daily scrums and weekly team meetings to help keep us on track. On occasion you will be involved in customer support and or presenting demos to internal teams and new customer prospects.
+Mircom is looking for candidates with degrees in software engineering, electrical engineering, computer science or related field. We are happy to consider candidates with technical certification or diplomas in related programs with existing application portfolio for demonstration available. Feel free to submit any project documentation or weblinks for other work you’ve created in addition to your traditional resume and cover letter. We want to learn about your experiences and your passions.
+Key Responsibilities:
+Work with the product design team to document and implement requirements
+End to End systems verification testing
+Configure, design and maintain existing application including bug fixes and feature enhancements
+Prioritize work activities and meet delivery schedule
+Design, develop and test solutions using C, C++, Multi-Threaded, Shell Scripting.
+Conduct peer reviews of the Design and Source Code (C, C++, and Shell Scripts).
+Support System Testing, Acceptance (UAT) Testing and Production changes. Debugging and Troubleshooting production issues.
+Responsible for Development/Enhancement, bug fixing as well as Production Support
+Attend daily and weekly team meetings to ensure that project goals are met
+On occasion will be involved in customer support and/or presenting demos to internal teams and new customer prospects
+Requirements and Skills:
+3+ years of experience
+Degree in software engineering, electrical engineering, computer science or related field
+Candidates with technical certification or diplomas in related programs with existing application portfolio for demonstration available will be considered
+C Programming and O/S Fundamentals
+Experience working with device drivers and hardware
+Solid understanding of embedded systems and RTOS is a plus
+Good understanding of Object-Oriented software design, data structures, network programming and algorithms.
+Systems software expertise in developing modular software for embedded software applications
+Experience in C, C++, STL, Visual C++, Visual Studio Suit, Platform Builder 7, eVC++ 4.0 and MFC, Win32 APIs.
+Knowledge of advanced level programming in C/C++: Standard Template Library (STL), Boost Library and TCP/IP.
+Experience designing software APIs, managing make files and build environment
+Fluent with version control systems like Git.
+Basic knowledge of SQL
+Experience with embedded development and processors is a plus
+Ability to interact with customers with good interpersonal skills
+Ability to create software requirements from customer’s needs
+Good written and verbal skills and is capable of presenting technical concepts to audiences of various technical abilities
+Experience in communication protocols (ARCNet, BACNet, RS485, Ethernet/IP), networking, and system design desired
+Working knowledge of control systems is a plus
+Experience working on a team, local and remote is a plus
+Previous experience writing software from the beginning to end is a plus
+What Mircom Offers:
+A great working environment with opportunities for advancement
+Competitive salary
+Group Insurance benefits
+Company RRSP program"
+"Manager, Capital Projects Electrical - Windsor, ON - Indeed.com","Manager, Capital Projects (Electrical)
+File# CHC 46 21
+Salary Range $66,340 - $95,000/annum
+Permanent Full Time Position
+Windsor Essex CHC provides well-maintained, safe and affordable community housing in a respectful and fair manner. We are leaders in the housing sector and contribute to the development and support of strong communities in the City of Windsor and County of Essex.
+The ideal candidate will be confident, professional,
+optimistic, and energetic, must be customer service focused and be committed to our organization and values. The Manager, Capital Projects (Electrical) must exercise tact and diplomacy when dealing with CHC customers and represent CHC in a positive manner.
+Reporting to the Senior Manager, Systems, or designate, the Capital Projects Manager (Electrical) will assist in preserving the integrity, safety, and habitability of CHC owned housing stock and the Regeneration of CHC’s Portfolio, including both new and existing stock.
+The ideal candidate will be confident, professional, must be committed to our organization, our values, and can motivate others. Management experience in a large Property Management or Human Services environment or in Facility Management would be an asset.
+Primary Duties and Responsibilities:
+Ensure delivery of assigned contracted corporate projects on time, within budget, in accordance with specifications and within applicable regulatory, accreditation and Municipal requirements. Perform the critical tasks throughout each project's lifecycle, including the efficient delivery of project deliverables, effective quality control, clear communication of expectations to stakeholders, and upward reporting to senior management.
+Prepare and review technical drawings, specifications of newly installed systems, and topographical maps, and monitor the operation of existing systems to ensure that installation and operations conform to standards and CHC requirements – systems include but not limited to Fire Alarm, Security, Building Automation, Heat Management, Solar, Elevator, Generator, Interphone, Electrical, Controls and Telecommunication Systems.
+Investigate service requests, determine nature and extent of problem, recommend remedial measures, and provide oversight to ensure that all building Life Safety Systems are inspected, operational and repaired as needed within a timely manner to ensure ongoing compliance with all codes and regulations; liaise with the Fire Department, Electrical Safety Authority (ESA), and Technical Standards and Safety Authority (TSSA), as required.
+Participate in the planning, organizing, implementation and review of the goals and objectives of the department in consultation with the Senior Manager, Systems.
+Research and prepare public, invitational and short-form tender documentation as assigned, including specifications and drawings; review contracts and cost estimates for Projects, general conditions, and various appendices, in accordance with accepted standards and CHC policies, and applicable Code, by-law and legislative requirements.
+Provide direct supervision to assigned staff and Interns; work collaboratively with administrative staff and assist with supervision of other students in the Asset Management department.
+Provide consultation and technical expertise in identifying building requirements, developing an overall portfolio plan for capital improvement requirements and a strategy for the overall preservation of asset.
+Liaise with other departments to assist in analyzing problems and issues related to area of expertise; provide technical advice and expertise to other departments in a resource capacity.
+Develop effective relationships with other departments.
+Meet corporate targets regarding service quality, cost efficiency, and responsiveness to residents, district offices and asset management staff.
+Develop Project programs for new equipment and major repairs and construction.
+Develop Project budgets, including estimates for labour, material, and construction costs.
+Review project documents and processes to propose cost saving measures and reduce overall project costs.
+Coordinate with internal stakeholders for pre-, during, and post-project activities.
+As directed, assist with the management of outside consultants, contractors, building officials and others to successfully guide the project to completion.
+Participate in the improvement of project management, procurement, and other processes at CHC as related to the position.
+Work in preparation and maintenance of a risk register; manage risk such that it is reduced where possible.
+Represent CHC at tenant, community or public meetings, as required.
+Actively participate in or facilitate committees relating to risk or asset management safety, corporate legislation compliance and quality improvement.
+Collect data relating to commercial and residential development, population, and power system interconnection to determine operating efficiency of electrical systems, and plan layout of electric power generating plants and distribution lines and stations by conducting field surveys; study maps, graphs, diagrams, and other data to identify and correct power system problems.
+As assigned, oversee the design of project quality processes, implement processes, and ensure they are followed, and address all quality concerns and issues, and review designs and specifications ensuring they meet CHC’s standards and overall goals and objectives.
+Work in organizing and conducting meetings and preparing action planning documents.
+Coordinate change requests in a way that optimizes impact to scope, budget, schedule, and quality.
+As directed, perform inspections, and observe operations to ensure compliance with design, installation and equipment specifications and safety standards.
+Cover, on a rotational basis, “after hours” calls by remaining available on an on-call basis after normal work hours (including weekends and holidays) to address after hour’s maintenance emergencies.
+Other related duties as assigned from time to time.
+Minimum Requirements
+:
+University degree, in Electrical Engineering required.
+Progressive project management and administrative experience in a large organization required.
+Good knowledge of design techniques and tools, and able to read Single Line Diagrams (SLD), Schematic Wiring Diagrams (SWD), Blueprints, and layout for Instrumentation and Power Systems, and ability to interpret all building component blueprint drawings e.g., electrical, mechanical, structural drawings and specifications.
+Knowledge of Circuit Boards, Processors, Chips, Electronic Equipment, and Computer Hardware and Software, including applications and programming.
+A comprehensive working knowledge of contract administration and specification coordination and demonstrated ability to read, understand and apply standard documents affecting projects, including contracts, project charters, surveys, construction, and other technical documentation.
+Good knowledge of Planned Maintenance and Safety Administration, Building Code and Associated by-law's, Fire Code, Health and Safety Act, WHMIS, and the Collective Agreement. Ability to communicate with architects and professional engineers.
+Demonstrated knowledge of residential and high-rise building maintenance and construction procedures including safety and energy conservation items.
+Strong attention to detail and problem-solving skills and demonstrated initiative that improves service or business results.
+Ability to recognize special problems that could lead to or affect structure and determine appropriate solutions to a wide range of technical problems.
+Excellent communication, presentation, and interpersonal skills to deal effectively with staff, political representatives, Board of Directors, consultants, contractors, residents, and the public.
+Strong communication and negotiation skills to direct staff, contractors, and consultants.
+Demonstrated ability in developing and maintaining positive working relationships with internal and external stakeholders at all levels.
+Strong analytical and quantitative skills with proven experience in developing strategic solutions that have a direct impact on project success.
+Strong organizational skills, and ability to work well under pressure and meet strict deadlines.
+Proficient in Microsoft Programs, and the ability to utilize in house software.
+Working knowledge of AutoCAD.
+Possession of a valid Ontario Driver’s License class “G”, current valid insurance, and the use of a personal vehicle for work purposes.
+Registered with Professional Engineers Ontario (PEO) as Professional Engineer (P.Eng.) or Engineer In Training (EIT) considered an asset.
+PMP Certification considered an asset
+CHC is an equal opportunity employer servicing our diverse communities. Although we appreciate all applications, only those selected for an interview will be contacted. The successful candidate will be required to supply a current satisfactory criminal reference check, before work can commence, if applicable. CHC has implemented a mandated COVID-19 vaccination policy whereas all employees are required to be fully vaccinated (14 days after second dose) by November 26, 2021.
+Accessibility
+CHC is committed to meeting it obligations under the Ontario Human Rights Code and the Accessibility for Ontarians with Disabilities Act. If you require disability related accommodation to participate in our recruitment process, please contact Human Resources. Accommodation may be provided in all steps of the recruitment process.
+To apply for this position, you must use the link provided on our website at www.wechc.com (Corporate),
+In the Employment Opportunities section.
+Applications must be received by 11:59 p.m., Sunday December 12, 2021"
+"Open Source Developer - Markham, ON - Indeed.com","Introduction
+Software Developers at IBM are the backbone of our strategic initiatives to design, code, test, and provide industry-leading solutions that make the world run today – planes and trains take off on time, bank transactions complete in the blink of an eye and the world remains safe because of the work our software developers do. Whether you are working on projects internally or for a client, software development is critical to the success of IBM and our clients worldwide. At IBM, you will use the latest software development tools, techniques and approaches and work with leading minds in the industry to build solutions you can be proud of.
+Your Role and Responsibilities
+The Linux on Z ecosystem team works closely with the open-source community as well as many ISV’s to grow software availability on LinuxONE.
+The team is currently looking to hire an Open Source Developer to help us advance Red Hat Enterprise software on the platform. In this role, you will work closely with the ecosystem team and Red Hat engineers to port Red Hat software to LinuxONE by developing and testing software patches, expanding the existing CI/CD environment as well as performance tune the software to the s390x architecture. Given Red Hat software is built on open source, written in a wide range of programming languages and covers a wide range of areas preference will be given to those candidates that are familiar with the open source development process and verse in multiple different application areas. Some of these areas include runtimes, middleware, development tools as well as the most modern cloud enablement software.
+*This role will involve working with technology that is covered by embargo Export Regulations. If you are a Foreign National from any of the following embargoed countries (Cuba, Iran, North Korea, Sudan, Syria) on a work permit you are not eligible for employment in this position. *
+Eligibility
+New/Recent graduated students and upcoming graduated students are welcome to apply
+Must be eligible to work in Canada without sponsorship
+Required Technical and Professional Expertise
+2+ years of experience in developing, testing, and performance tuning C and C++ applications on Linux
+Proven development proficiency in C, C++, JAVA and GO on Linux
+Working knowledge of computer architecture (x86, IBM Z or POWER instruction set)
+proven problem-solving skills
+Effective communication skills
+Ability to collaborate effectively across multiple teams
+Self-motivated
+Aptitude to learn and apply knowledge quickly
+Preferred Technical and Professional Expertise
+IBM Z software and hardware background/experience
+Must have the ability to work in Canada without sponsorship.
+Key Job Details
+Country/Region:CA
+State:ONTARIO
+City:Markham
+Category:Software Development & Support
+Required Education:Bachelor's Degree
+Position Type:Professional
+Employment Type:Full-Time
+Contract Type:Regular
+Company:(0026) IBM Canada Limited – IBM Canada Limitee
+Req ID:487775BR
+Travel Required:No Travel"
+"Data Scientist – Aviation/AI company – Remote position - Toronto, ON - Indeed.com","This company specializes in using data science and AI to help train pilots. They have systems that collect data from flight training devices installed at aviation training centers, push this data up to our cloud-based analytics platform running on top of Amazon Web Services, and serve these results via web applications. They’ve written custom user interfaces to flight training hardware and a local agent that behaves much like an IoT device to push live data to AWS. They use Amazon Kinesis streams to capture streaming data, a system of serverless microservices to perform on-the-fly data analysis, Django REST Framework for the web backend, PostgreSQL to store their structured data, and frontend dashboard written in ReactJS with data visualizations written in Plotly. Data analysis is performed in Python, making use of various libraries for machine learning.
+Job Summary
+The experienced Data Scientist should be able to analyze large amounts of raw time- series data and build real-time and offline machine learning models. They are looking for candidates with demonstrated leadership experience handling complex projects involving multiple other data scientists or data engineers. Your goal will be to build upon a patent-pending system for extracting metrics of proficiency and competency from data streams captured from either aircraft or flight simulators. Their goal is to build adaptive training tools to train the next generation of pilots and make aviation safer, more accessible, and more sustainable.?
+Title:
+Data Scientist
+Location:
+100% Remote position. Office located in Montreal, QC if you’d like to come once awhile
+Position status:
+Full time permanent
+Salary:
+Very open + Benefits + stock option + 4 weeks’ Vacation + 3% matching RRSP or TFSA.
+Principal Responsibilities
+Undertake preprocessing of structured and unstructured data
+Build predictive models and machine-learning algorithms
+Present information using data visualization techniques
+Propose solutions and strategies to business challenges
+Collaborate with engineering and product development teams
+Proven experience as a Data Scientist or Data Analyst
+Experience in data mining, time series analysis, neural networks
+Knowledge Python (and relevant libraries) and SQL; familiarity with C++ or JavaScript an asset
+Strong math skills (e.g. statistics, algebra)
+Excellent verbal and written communication and presentation skills
+BSc/BA in Computer Science, Engineering, Mathematics, Physics or relevant quantitative field; graduate degree is preferred
+Canadian citizen or permanent resident.
+Experience working with AWS data science services (e.g. SageMaker) a plus
+Experience as a data science professional may be demonstrated through a GitHub or Kaggle portfolio, startup experience, or strong resume with reference checks
+Benefits
+Competitive base salary, with annual conditional bonuses
+Employee stock option plan
+Fully remote work, but if you're in Montreal, option to work in our hybrid office
+Assistance purchasing work-from-home equipment (e.g. desk, office chair, computer peripherals, webcam, etc.)
+Company laptop
+Paid time off benefits
+Extended medical and dental insurance coverage
+Matched employer contributions to a personal RRSP or TFSA, up to 3% of base salary
+Travel opportunities
+Ongoing training and development?"
+"Verification and Validation Engineer - Montréal, QC - Indeed.com","We are currently seeking a Verification and Validation Engineer to join our team in Montreal, QC. In this position, the incumbent plays a crucial role in the product development process and contributes to bringing product quality upstream to ensure releases are meeting specifications. He or she is responsible for designing and executing test cases and will also develop automation tests to help improve the test stations.
+RESPONSIBILITIES:
+Interact with the system, software, and hardware development teams, product owners and other stakeholders to develop a strong understanding of the product and the testing objectives.
+Participate in design reviews and ensure design requirements are testable.
+Design and document test cases covering low to complex systems.
+Design and maintain the testing environment.
+Develop and run automated scripts for both functionality and performance testing of the product(s), and to help the development teams in their efforts.
+Troubleshoot test failures and analyze root causes.
+Communicate and document critical issues and status updates in a timely manner.
+SKILLS & QUALIFICATIONS
+Bachelor’s Degree in Networking, Telecommunication, Electronics, Computer, or IT engineering
+Minimum of 3 years’ experience in verification and validation role.
+Strong Lab R&D with equipment Integration capabilities.
+Familiar with R&D concepts and capable of working with test tools and in the lab environment.
+Self-motivated, Self-trained, and enthusiastic for research and the invention, who can work with minimal supervision.
+Good interpersonal and communication skills in English, strong command of French is a definite asset.
+Familiar with working in an agile environment and with software project management tools (Jira).
+Solid development skills in common languages (Python, Lua, JavaScript, Bash, XML, JSON, etc.)
+Solid experience in test automation and continuous integration.
+Solid experience in functional and performance testing.
+Various IP networking aspects (network/transport protocols, Quality of Service, etc).
+Network technologies such as TCP/IP, Routing (RIP, OSPF, BGP), MPLS, GRE, IPSec, VoIP (SIP, H323), 802.1PQ, STP, Cisco devices, and firmware.
+Experience with network management systems and database manipulation.
+Well versed in a Linux OS environment.
+Familiarity with satellite communication systems at the physical layer (transmission/reception, antennas, modulation/coding, propagation, etc.), and link layer (resource management/control, address resolution, signaling). Knowledge of DVB-RCS/RCS2, DVB-S2/S2X standards is a definite asset."
+"Software Tool Development Engineer - Toronto, ON - Indeed.com","Location: Toronto, Canada
+Thales people architect solutions that support 85 million mainline and suburban passenger journeys, worldwide, every day. Our Rail Signalling and Communication systems are used on metro lines across major cities, and 72,000 kms of route, 52,000 trains per day in 16 countries are controlled by our Traffic Management Systems. Together We deployed the first-ever nationwide ticketing system which processes over 50 million ticketing transactions in 100 cities daily.
+Thales provides world-leading Communications-Based Train Control (CBTC) and interlocking for mass rail transit applications globally. The Centre of Competence for Urban Rail Signalling is located right before you at mid-town Toronto. As the largest office in Canada, we house a department for every step of the Software Development Lifecycle (SDLC)! This includes Software, Hardware, Systems Design, Verification & Validation, Operations, etc. The supporting corporate shared services teams in Finance, Human Resources and IT is also located at the office. Our office space was designed to provide a sustainable, healthy workplace that expresses TRSS’s brand while increasing collaboration. Features include Greenguard furniture, EnergyStar appliances, low-emitting adhesives, sealants, and sliding glass doors on internal offices provide daylight and views to the outside. Come join the big Transport family, here in Toronto!
+Position Summary
+To support Thales Canada, Transportation Solutions platforms software development team with selection of activities:
+Automation of collection key KPIs of development process
+Create Log Analysis tool (following development process; specification, implementation, testing)
+Improve test automation for TOP MCU SW (define tests scenarios, create test scripts, validate tests)
+In this position, you will be able to see the processes utilized when developing products in an engineering environment, which will vastly improve your understanding of development process. Your technical development skills will help us to improve collection of metrics and improve our testing/support tools.
+Essential Functions / Key Areas of Responsibility
+Understands and follows the company’s processes and procedures for developing vital software/hardware.
+Produces and automate collection of software metrics required by project.
+Reviews metrics and provide analysis.
+Assists staff with preparation of reports.
+Liaise with other engineering departments to further mature processes, metrics collection, and management system and tools standardization efforts.
+Develop log analysis tool – to understand possible root causes of FW/CSF halts
+Develop automated tests to maximize level of testing for TOP MCU
+Minimum Requirements: Skills, Experience, Education, Technical/Specialized Knowledge, Certifications, Language
+The successful candidate should be working towards B. Sc., in Electrical Engineering, Computer Engineering. Computer Science or equivalent.
+Some knowledge of Windows/Linux programming preferred. C,C++,C#
+Good analysis skills, able to diagnose issues based on logs and correlate events to failures.
+Good organizational abilities. Good interpersonal skills, writing and verbal skills.
+Able to quickly integrate with the team and work independently.
+Some Knowledge of software development environment (Windows, Linux, desktop simulator, target simulator, etc)
+Able to use Microsoft office tools.
+Preferred Qualifications
+Knowledge of SELTRAC signaling system and software architecture preferred.
+Knowledgeable of the software development process preferred.
+Good command of the scripting language. VBA and Perl preferred.
+Special Position Requirements
+Regular; 40 hrs per week employment,
+Expected for candidate to be in office at least twice a week
+Recruitment Process
+Please note that our requisitions will be closing by the last week of October
+All applications have to be in no later than the 1st of November
+Thales is an equal opportunity employer which values diversity and inclusivity in the workplace. Thales is committed to providing accommodations in all parts of the interview process. Applicants selected for an interview who require accommodation are asked to advise accordingly upon the invitation for an interview. We will work with you to meet your needs. All accommodation information provided will be treated as confidential and used only for the purpose of providing an accessible candidate experience."
+"DevOps/Cloud Manager - Montréal, QC - Indeed.com","Videri is the first digital transformation platform of its kind and is reinventing the digital signage world as we know it. Through an innovate combination of software, hardware, and product vision, we are changing how the world views digital marketing, digital communications and digital out of home (DOOH).
+Videri North is seeking a Development Operations Architect to join our team in our Montreal office reporting to the Director of Development. Working with the technical leadership team, the DevOps / Cloud manager will drive the DevOps architectural vision and lead a team of engineers within the organization to support the software engineering and cloud operations practices. This role will be tasked with solving complex challenges to deliver cloud-based solutions at scale within the AWS environment. While contributing to of the overall cloud platform operations, the DevOps manager will also guide and influence other team members to ensure adherence to DevOps and Cloud operations best practices.
+What
+you’ll
+do:
+Own the quality of DevOps architecture and design
+Lead and contribute to the overall system vision alongside other technical leads
+Functionally decompose complex problems into simple, straight-forward solutions
+Fully and completely understand system inter-dependencies and limitations
+Assist in the career development of others, actively mentoring Developers and DevOps Engineers on advanced technical issues
+Exert technical influence over the development team, increasing their productivity and effectiveness by sharing your deep knowledge and experience
+Serve as a thought leader and SME for DevOps industry trends, new and existing technology offerings, and architectural concepts
+Work with cloud vendors and liasse with managed service providers for optimal cloud environment health/performace. Monitoring, tickets, escalations SLA adherence.
+Skills
+and Qualifications
+:
+Extensive experience in software development or application engineering in languages such as Python, Ruby, Go, Swift, Java, .Net, C++ or similar object-oriented language
+Experience architecting, designing and developing applications on the AWS platform
+Experience with architecting and automating cloud native technologies, deploying applications, and provisioning infrastructure
+Experience with Infrastructure as Code, using CloudFormation, Terraform, or other tools
+Experience architecting cloud native CI/CD workflows and tools, such as Jenkins, Bamboo, TeamCity, Code Deploy (AWS) and/or GitLab
+Experience architecting highly available systems that utilize load balancing and horizontal scalability
+Architectural leadership experience with microservices and distributed applications, such as containers, Kubernetes, and/or serverless technology
+Experience with the full software development lifecycle and delivery using Agile practices
+Experince with 3rd party vendors / managed service providers that run AWS cloud environments, monitoring, ticketing, escallations, cost management, deployments, upgrades and maintenance.
+Outstanding communication, facilitation, negotiation, and coaching skills
+Strong team spirit, flexibility, problem solving and time management skills
+Computer Science, Engineering background or relevant diploma
+AWS certifications a plus
+What you'll get:
+Competitive salary depending on experience
+Medical, Dental and Vision coverage
+Three weeks’ vacation, five personal days, six sick days
+Be part of a great office culture that encourages a positive environment
+Flexible work from home policy"
+"Product Design Engineering Lead, Augmented Reality - Waterloo, ON - Indeed.com","Minimum qualifications:
+Bachelor's degree in Electrical Engineering, Computer Engineering, Physics, a related field, or equivalent practical experience.
+6 years of experience in product design for consumer electronics.
+Experience working with overseas/global contract manufacturers on joint development manufacturing projects.
+Experience working with external consulting firms.
+Preferred qualifications:
+3 years of experience managing a team.
+Optomechanical experience.
+Augmented Reality/Virtual Reality and devices and services experience.
+Advanced skills working cross-functionally with Electrical Engineering/Product Management/Industrial Design/Operations, etc.
+About the job
+Our computational challenges are so big and unique we can't just buy our hardware, we've got to make it ourselves. Our Platforms Team designs and builds the hardware, software and networking technologies that power all of Google's services. As a Mechanical Engineer you design and evaluate our data center systems, identifying product requirements and contributing to research and project planning. From the chip to chiller, you are responsible for designing and optimizing an architecture that will scale with Google's continued growth.
+With your technical expertise, you lead and manage projects, develop product and process improvements, provide consultation to others and help facilitate training and development.
+As a leading member of the Augmented Reality Product Design team, you’ll lead and oversee projects. You’ll work cross-functionally to incorporate new technologies into our designs, working with partners to build product-like development vehicles to test and showcase these technologies. You will also oversee accessory products through the design process to mass production and launch. You’ll manage resources and may manage a small team of internal contributors.
+The Google Augmented Reality and Virtual Reality team is a group of engineers, designers, and research scientists tasked with building the foundations for great immersive computing and prototyping helpful, delightful user experiences. We're focused on making immersive computing accessible to billions of people through mobile devices, and our scope continues to grow and evolve.
+Responsibilities
+Familiarize yourself with cutting-edge technologies in our area, and help envision product-like development vehicles that test and showcase these technologies.
+Work cross-functionally to develop designs that take into consideration the needs of many stakeholders.
+Take responsibility for executing on these designs with our Joint Design Manufacturing (JDM) partners.
+Ensure good outcomes by diving into the details, contributing to troubleshooting, planning testing, and validation.
+Build and manage a small team to support this effort.
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form."
+Product Manager - Operating Systems (Facebook Reality Labs) | Chef de produit – Systèmes d'exploitation (Laboratoires de réalité de Facebook) - Remote - Indeed.com,"Facebook Reality Labs (FRL) focuses on delivering Facebook's vision through Virtual Reality (VR) and Augmented Reality (AR). AR/VR technologies and voice-interfaces are becoming a meaningful consumer reality. The Facebook Reality Labs team builds forward-looking, foundational AI technologies and core capabilities for future technology platforms. The Operating Systems PMs are responsible for building operating systems and platform solutions for FRL devices and enabling developers to create novel consumer experiences and workplace/productivity solutions.As a Product Manager, you'll lead development of the FRL technology products and platforms.You will drive product vision, work closely with world-class cross-functional teams to define product requirements for our VR and wearable computing platforms, from low-level systems up through to the developer experience.Excitement for innovating on emerging technologies and security/privacy to deliver into the hands of consumers is a must. We’re looking for entrepreneurial product managers who have a strong interest in AR/VR technologies, can think big and execute on that vision, and excel in ambiguity and 0 to 1 efforts.-Les laboratoires de réalité Facebook s’attachent à concrétiser la vision de Facebook grâce à la réalité augmentée (RA) et à la réalité virtuelle (RV). Les technologies RA/RV et les interfaces vocales sont en train de devenir une réalité concrète pour les consommateurs. L'équipe des laboratoires de réalité de Facebook développe des technologies d'IA fondamentales et tournées vers l'avenir, ainsi que des capacités essentielles pour les futures plateformes technologiques. Les responsables des systèmes d'exploitation sont chargés de mettre au point des systèmes d'exploitation et des solutions de plate-forme pour les appareils des LRF et de permettre aux développeurs de créer de nouvelles expériences de consommation et des solutions de productivité/de travail.En tant que gestionnaire de produits, vous dirigerez le développement des produits et des plateformes technologiques des LRF.Vous serez responsable de la vision du produit et travaillerez en étroite collaboration avec des équipes interfonctionnelles de classe mondiale afin de définir les exigences du produit pour nos plateformes RV et informatiques portables, depuis les systèmes de bas niveau jusqu'à l'expérience du développeur.L'enthousiasme pour l'innovation dans le domaine des technologies émergentes et de la sécurité/protection de la vie privée afin de mettre les produits entre les mains des consommateurs est indispensable. Nous recherchons des chefs de produit entreprenants qui ont un intérêt marqué pour les technologies RA/RV, qui sont capables de voir grand et d'exécuter cette vision, et qui excellent dans l'ambiguïté et les efforts 0 à 1.
+Lead the ideation, technical development, and launch of innovative tools, platforms and products for AR/VR | Diriger l'idéation, le développement technique et le lancement d'outils, de plates-formes et de produits innovants pour la RA/RV
+Drive product development with multiple teams of world-class engineers, designers, and product specialists | Diriger le développement des produits avec plusieurs équipes d'ingénieurs, de concepteurs et de spécialistes des produits de classe mondiale
+Integrate usability studies, research market analysis into product requirements to improve engineer productivity & product satisfaction | Intégrer des études d'utilisabilité, des analyses de marché dans les exigences du produit afin d'améliorer la productivité des ingénieurs et la satisfaction du produit
+Define and analyze metrics that inform the success of products | Définir et analyser les métriques qui renseignent sur le succès des produits
+Maximize efficiency in a constantly evolving environment where the process is fluid and creative solutions are the norm | Maximiser l'efficacité dans un environnement en constante évolution où le processus est fluide et où les solutions créatives sont la norme
+4+ years product management experience with 2+ years of experience on software and/or developer platforms | Au moins quatre ans d'expérience en gestion de produits, dont au moins deux ans d'expérience dans le domaine des logiciels et/ou des plateformes de développement
+Experience managing delivery of at least 1 hardware/software product | Expérience de la gestion de la livraison d'au moins un produit matériel/logiciel
+Experience managing and overseeing multiple on-going initiatives simultaneously | Expérience de la gestion et de la supervision de plusieurs initiatives en cours simultanément
+Cross-functional communication and collaboration experience | Expérience de la communication et de la collaboration inter-fonctionnelles
+Experience working on a successful developer and/or OS platform | Expérience de travail sur un développeur et/ou une plateforme OS à succès
+Degree in Computer Science or related field, and 2+ years experience as a software engineer | Diplôme en informatique ou dans un domaine connexe, et au moins deux ans d'expérience en tant qu'ingénieur logiciel
+Experience working on platform software for multimedia and/or connectivity | Expérience de travail sur des logiciels de plateforme pour le multimédia et/ou la connectivité
+Experience working on developer-focused SDKs, APIs, services, and toolchains | Expérience de travail sur des SDK, API, services et chaînes d'outils axés sur les développeurs
+Experience delivering products with new technology introduction | Expérience de la livraison de produits avec l'introduction de nouvelles technologies
+Experience working in growing computing ecosystems | Expérience de travail dans des écosystèmes informatiques en pleine croissance
+Facebook's mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Facebook are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities - we're just getting started."
+"System Software Engineer - Deep Learning MIGraphX Performance Developer - 126821 - Markham, ON - Indeed.com","What you do at AMD changes everything
+At AMD, we push the boundaries of what is possible. We believe in changing the world for the better by driving innovation in high-performance computing, graphics, and visualization technologies – building blocks for gaming, immersive platforms, and the data center.
+Developing great technology takes more than talent: it takes amazing people who understand collaboration, respect, and who will go the “extra mile” to achieve unthinkable results. It takes people who have the passion and desire to disrupt the status quo, push boundaries, deliver innovation, and change the world. If you have this type of passion, we invite you to take a look at the opportunities available to come join our team.
+System Software Engineer – Deep Learning MIGraphX Performance Developer
+The Role:
+In this role we are seeking a software development engineer to join a development team building and optimizing Machine Learning system software for AMD GPU compute platforms. The individual will be part of a development team and open-source community which analyzes, develops, tests, and deploys improvements to make AMD the best platform for machine learning applications.
+The Person:
+The ideal person has strong technical and analytical skills in C++ development in a Linux environment. They must have the ability to work as a member of a team, while also being able to work independently, define goals, scope, and lead their own development effort.
+Key Responsibilities:
+Build solutions for machine learning inference for AMD GPUs.
+Design and develop lower level system software that works with underlying libraries, runtime systems and hardware.
+Analyze and optimize solutions to achieve the highest performance.
+Test and deploy these solutions.
+Work with cutting-edge compiler technologies.
+Apply one's knowledge of software engineering best practices.
+Preferred Experience:
+Excellent C/C++ programming and software design skills including debugging, performance analysis, and test design.
+Experience developing software in Linux environment including commonly used tools.
+Basic understanding of Deep Learning.
+Academic Credentials:
+Bachelor's, Master's, or PhD or equivalent experience in Computer Science, Computer Engineering, or related field.
+Location:
+Markham, Ontario, Canada
+#LI-JG1
+Requisition Number:
+126821
+Country:
+Canada
+Province:
+Ontario
+City:
+Markham
+Job Function:Design
+AMD is an inclusive employer dedicated to building a diverse workforce. We encourage applications from all qualified candidates and will accommodate applicants’ needs under the respective provincial human rights codes throughout all stages of the recruitment and selection process.
+Any applicant who requires accommodation should contact
+AskHR@amd.com
+.
+AMD does not accept unsolicited resumes from headhunters, recruitment agencies or fee based recruitment services."
+"Manager - DevOps - Vancouver, BC - Indeed.com","About DDS Wireless
+DDS Wireless International is a 32-year-old company which is a leading provider of transportation industry solutions. We are an innovative developer of software as a service (SaaS) products and services and wireless hardware devices for the Transit and Taxi market segments. We have a global presence with offices in Vancouver, BC, Canada; Redmond, Washington; Oxford & Cambridge, United Kingdom; Stockholm, Sweden; and Tampere, Finland
+About the role
+DDS Wireless International is urgently seeking a DevOps Manager to improve our abilities to deploy, maintain, and monitor our SaaS / AWS production systems while incorporating and maintaining secure practices throughout the DevOps.
+This is a managerial role, we are looking for a dynamic and self- driven person with a balanced approach of managerial skills and knowledge of development process.
+The DevOps manager would utilize their many years of experience in the deployment of well-architected systems within AWS and recommend best-practices and strategies required to deploy more secure, and reliable solutions. You will be responsible for deployment automation, continuous integration / continuous deployment pipelines, and the overall management and reliability of AWS and Production systems.
+Key Responsibilities of this role
+*
+We are looking for a self driven leader who will lead and develop an effective DevOps team by building a team right from hiring, training the new hires, and mentor to build as per the vision for the Dev ops team
+Ensure successful delivery of deployment automation, and deployment projects across multiple product lines, technologies, and geographic regions
+Collaborate with product managers, developers, security analysts, to effectively prioritize product delivery and deployment requirements.
+Maintain a deployment roadmap, to ensure on-time delivery of external and internal projects
+Continuously improve deployment automation, though application of new technologies, and new solutions, to improve reliability, availability, and security
+Deploy and maintain CI/CD pipelines across multiple systems, including AWS, and Hybrid cloud systems
+Manage reliability and SLA for production systems and SaaS products, leading initiatives to detect and resolve issues before there is any impact to critical customer operations.
+Develop disaster recovery, business continuity and redundancy plans, for internal and external facing AWS instances.
+Keep track of utilization metrics and monitor costs, identify the improvement area and recommend changes as needed
+Key Qualifications
+Minimum 7 years experience with AWS technologies (including RDS, EC2, Lambda, Glue, ElasticSearch, Redis)
+Minimum 2-3 years experience in a leadership role (eg manager, team lead, architect)
+Proven leadership and project management experience, ability to successfully deliver multiple parallel projects, while responding to risks and critical issues
+Experience with complex, highly available and highly scalable AWS / production systems.
+Bachelor’s degree in computer science or equivalent experience.
+Hands on experience developing infrastructure as code (IaC) platforms, such as Terraform
+Hands on experience with deployment automation tools including Jenkins, SAM, CodeDeploy, Helm
+Experience with microservices, and container architectures, including Kubernetes, Docker
+Proven track record in the adoption and promotion of DevOps culture, DevOps tools and practices
+*Preferred skills and certifications for this role
+Experience with monitoring platforms: Prometheus, Grafana, EFK / ELK, DataDog, New Relic
+Hybrid Cloud systems, including Windows, Hyper-V, Remote Desktop Services
+Ability to maintain operational budgets, ensure cloud solutions are designed, deployed, and operated to remain cost effective, and meet cost projection targets
+Experience with Terraform and the Atlassian suite of tools is an asset
+Familiar with SDLC, Agile, Scrum
+The following certifications would be an asset
+AWS Certified DevOps Engineer Professional
+AWS Certified Solution Architect Professional
+AWS Certified Advanced Networking Specialist
+AWS Certified Security Specialist
+If you are a team player that enjoys a challenge and has excellent communication skills and are excited about the variety, challenge, and scope of this role as well as about the opportunity to advance your career within the DDS group of companies, we want to hear from you.
+DDS Wireless offers a competitive salary and comprehensive benefits package, combined with variety, challenge and scope to develop your career.
+This role has hybrid working, we encourage remote work and office work for employee to have a balanced work life.
+We thank all who apply, however, we will only be in contact with those considered for an interview. No phone calls, please.
+Job Type: Full-time"
+"Director of Engineering - Toronto, ON - Indeed.com","At Blockthrough, our mission is to bring about an Internet where publishers and advertisers can build flourishing, sustainable businesses by delivering advertising experiences that respect the user’s choice.
+Through our close-knit culture, transparent leadership, competitive compensation, flexibility to work remotely, and a focus on optimal work-life balance, we're proud to be a ""Great Place to Work"" certified employer, Canada's 11th fastest growing company ranked by the Globe and Mail, and recipient of the 2021 Deloitte Companies-to-Watch award.
+We work with some of the biggest publishers in the world, we’re backed by some of the brightest minds in the industry, and we’re looking for curious and analytical team players who like to win!
+Our Product
+Our product restores publishers’ existing website monetization technologies for adblock users who consent to it, while making sure that all ads adhere to the lighter, stricter Acceptable Ads standard, a happy middle ground for users and publishers. Users also have the ability to opt out if they prefer no ads at all.
+Through a complex cloud-based system, we use sophisticated algorithms and real-time analysis to determine which ads qualify for an optimal user experience, all in the time it takes for a website to load. We process vast numbers of requests, processing tens of billions of ad impressions per month.
+What you'll be doing
+Directly manage Engineering Managers and Team Leads across the organization.
+Architect our systems to be scalable and for high availability.
+Identify bottlenecks and improve efficiencies across the technology stack.
+Perform regular 1-on-1 meetings with team members, coaching and mentoring.
+Work with our CTO, other Engineering Leaders and Product Manager to execute on the product vision.
+Assist teams at leveling up their skillset and progression in the career track.
+Periodically review processes and help support new initiatives.
+Participate in code review sessions and work with other engineers to build optimal solutions.
+Assess hiring needs and build out a hiring roadmap.
+What you'll need
+At least 8 years of experience developing enterprise level software applications.
+4+ years of experience leading a team of Engineers.
+Fullstack experience and designing end to end solutions for web based applications.
+Experience with deploying to the cloud and cloud based development (GCP, AWS, Azure).
+BS in Computer Science, Engineering, or other related technical field or equivalent work experience.
+Bonus if you have
+Understanding of the ad tech ecosystem and/or ad tech experience.
+Building out greenfield projects and engineering teams.
+Experience managing remote teams.
+Why you’ll love working at Blockthrough:
+Close-knit and collaborative culture with transparent leadership that cares
+Competitive compensation (including health benefits) and stock options at a fast-growing startup
+4 weeks vacation
+Top-of -the-line hardware
+Optimal work-life balance
+Up to $1k home office reimbursement
+Professional Development Compensation
+100% remote or the opportunity to work out of our central downtown Toronto office, surrounded by some of Toronto’s hottest scaleups
+We value inclusiveness, diversity and are an equal opportunity employer. We do not discriminate based on race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status."
+"ITV Specialist - Senior (Platforms) - Toronto, ON - Indeed.com","Location: Toronto, Canada
+Thales people architect solutions that support 85 million mainline and suburban passenger journeys, worldwide, every day. Our Rail Signalling and Communication systems are used on metro lines across major cities, and 72,000 kms of route, 52,000 trains per day in 16 countries are controlled by our Traffic Management Systems. Together We deployed the first-ever nationwide ticketing system which processes over 50 million ticketing transactions in 100 cities daily.
+Thales provides world-leading Communications-Based Train Control (CBTC) and interlocking for mass rail transit applications globally. The Centre of Competence for Urban Rail Signalling is located right before you at mid-town Toronto. As the largest office in Canada, we house a department for every step of the Software Development Lifecycle (SDLC)! This includes Software, Hardware, Systems Design, Verification & Validation, Operations, etc. The supporting corporate shared services teams in Finance, Human Resources and IT is also located at the office. Our office space was designed to provide a sustainable, healthy workplace that expresses TRSS’s brand while increasing collaboration. Features include Greenguard furniture, EnergyStar appliances, low-emitting adhesives, sealants, and sliding glass doors on internal offices provide daylight and views to the outside. Come join the big Transport family, here in Toronto!
+The Senior IVVQ Specialist participates in the Integrated Design Team to ensure the requirements are properly defined and can be verified and validated. They will also define the methods of verification and validation of the technical requirements and defines the test objectives for the testable requirements. You will be preparing integration and test plans, procedures and reports to integrate, verify and validate the system. Performing integration and testing in-plant and at project sites in accordance with these test plans and procedures. Preparing test automation scripts.
+Key Responsibilities:
+Perform the analysis of system, subsystem and software requirements, defines the verification and validation methods and the applicable test objectives
+Perform requirements traceability analyses
+Plan and perform integration activities in-house and at project sites to mitigate the key project acceptance and commissioning risks
+Plan the project verification and validation work, including the preparation of the test plans
+Plan and develop operational and stress / bust-it testing
+Prepare Integration and Test Procedures in accordance with the plans
+Prepare test automation scripts
+Investigate integration anomalies through review of data files, design documentation and through interaction with the development teams
+Coordinate the analysis of the integration issues and follow up on the rectification of anomalies
+Execute formal tests within the laboratory environment
+Prepare problem reports in the defect tracking system describing test failures and defects
+Conduct initial review of the test results through the observed system responses and the analysis of the collected data
+Perform independent review of the test results
+Prepare integration and test reports which record the pass/ fail status of planned tests and identify problems detected during the tests
+Prepare trip reports upon completion of field assignments
+Develop product knowledge through active participation in formal and on the job training, as well as self-study
+Directs, supervises and reviews the work of the more junior staff performing IVVQ work
+Trains and develops the skills of the more junior staff
+Assists in the development of IVVQ schedules and the associated progress reporting
+Assists in the development of IVVQ processes and tools
+Adheres to the company’s processes
+Skills and Experience:
+Bachelor's degree in Computer Science, Software Engineering, System Engineering, Electrical Engineering or a closely related field
+Over 5 years of relevant working experience
+Knowledge of railway signaling techniques, including SelTrac CBTC
+Able to handle technical leadership of a small to medium test team
+Able to quickly integrate with the team and provide mentoring and coaching
+Experience in working within a team using Agile Methodologies
+Experience in task planning, including estimation, performance tracking and reporting
+Practical experience in using typical programs which are part of Microsoft Office Suite
+Practical experience with requirements management and problems tracking tools (e.g. Jira, ClearQuest, Doors, etc.)
+Understanding of the roles and activities of other departments that are related to IVVQ
+Understanding of basic engineering management practices for supporting project planning and scheduling
+Solid knowledge of in-house and field integration methods and procedures
+Good analysis skills, with the ability to diagnose issues based on test logs and correlate events to failures
+Solid knowledge of data communication systems
+Solid knowledge of simulation systems
+Solid knowledge of troubleshooting techniques
+Experience in testing real time embedded mission critical systems
+Solid knowledge of in-house and field testing techniques
+Experience in developing scripts for test automation
+Solid knowledge of System Engineering principles, life cycle models and requirements analysis
+Solid knowledge of requirements compliance mapping
+Solid knowledge of software verification and validation processes
+Professional Engineer certification would be an asset
+Thales is an equal opportunity employer which values diversity and inclusivity in the workplace. Thales is committed to providing accommodations in all parts of the interview process. Applicants selected for an interview who require accommodation are asked to advise accordingly upon the invitation for an interview. We will work with you to meet your needs. All accommodation information provided will be treated as confidential and used only for the purpose of providing an accessible candidate experience."
+"AWS Application Security Engineer - Toronto, ON - Indeed.com","BS in Computer Science or related field, or equivalent work experience.
+Minimum of 2 years of experience with any combination of the following: threat modeling experience, secure coding, identity management and authentication, software development, cryptography, system administration and network security.
+Minimum of 2 years of experience with security engineering, system and network security, authentication and security protocols, cryptography, or application security.
+Help us protect not only the Amazon Web Services (AWS) cloud computing environment but all of our customers as well! Since 2006, our great team at AWS has been enabling our customers to bring great ideas to life in ways that aren’t possible in traditional IT environments. With AWS you can flexibly harness compute, storage, security, and other services from across the globe as your business demands them.
+AWS Security is on the cutting edge of many security issues for a wide variety of platforms and technologies including cloud services, Internet of things (IoT), identity and access management, mobile devices, virtualization and custom hardware, all operating at massive scale. Similarly, our highly collaborative team is committed to each team member’s growth as our business grows.
+AWS Security is looking for an Application Security Engineer to help validate that our services, applications, and websites are designed and implemented to the highest security standards. You will be responsible for analyzing the security of applications and services, discovering and addressing security issues, building security automation, and quickly reacting to new threat scenarios. You will have the opportunity to learn from, and be mentored by, those who are building and securing our cutting-edge services.
+You are expected to be strong in multiple domains and provide significant contributions to the AWS IT Security team and to multiple groups throughout Amazon. You are expected to develop elegant solutions to complex business problems and apply appropriate technologies while following security engineering best practices. You are also expected to mentor more junior engineers and be a security thought leader for the organization.
+You will foster constructive dialogue and seek resolution when confronted with discordant views. Engineers in this role are expected to participate fully in the planning of the AWS IT Security team's work and constantly seek opportunities for process improvement. You should also have a deep understanding of at least one specialty for which they are a sought out resource (both within AWS Security and by groups throughout Amazon), while having an understanding of the application of information security in a broad range of technical areas.
+You will need a combination of troubleshooting, technical, and communication skills, as well as the ability to handle a mix of disparate tasks which may include project and software development work. This role will provide career growth opportunities as you gain new security skills in the course of your duties.
+Responsibilities:
+Application security reviews
+Mobile security reviews
+Secure architecture design
+Threat modeling
+Projects and research work as needed
+Security training and outreach to internal development teams
+Security guidance documentation
+Security tool development
+Security metrics delivery and improvements
+Assistance with recruiting activities and administrative work
+Our team also puts a high value on work-life balance. Striking a healthy balance between your personal and professional life is crucial to your happiness and success here, which is why we aren’t focused on how many hours you spend at work or online. Instead, we’re happy to offer a flexible schedule so you can have a more productive and well-balanced life—both in and outside of work.
+Our team is dedicated to supporting new members. We have a broad mix of experience levels and tenures, and we’re building an environment that celebrates knowledge sharing and mentorship. We care about your career growth and strive to assign projects based on what will help each team member develop into a better-rounded engineer and enable them to take on more complex tasks in the future.
+Here at AWS, we embrace our differences. We are committed to furthering our culture of inclusion. We have ten employee-led affinity groups, reaching 40,000 employees in over 190 chapters globally. We have innovative benefit offerings, and we host annual and ongoing learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences. Amazon’s culture of inclusion is reinforced within our 14 Leadership Principles, which remind team members to seek diverse perspectives, learn and be curious, and earn trust.
+Meets/exceeds Amazon’s leadership principles requirements for this role
+Meets/exceeds Amazon’s functional/technical depth and complexity for this role
+Experience implementing security solutions at the business division level
+An understanding of network and web related protocols (such as, TCP/IP, UDP, IPSEC, HTTP, HTTPS, routing protocols)
+An understanding of web services
+Experience with multiple programming languages (such as, Java, C++, Ruby, Python, Perl, etc.)
+Excellent written and verbal communication skills
+Demonstrable teamwork skills and resourcefulness
+Possess self-drive to keep moving things forward even in the face of ambiguity and imperfect knowledge (avoid “analysis paralysis”)
+Strong sense of ownership, urgency, and drive
+Sharp analytical abilities and proven design skills
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, disability, age, or other legally protected status. If you would like to request an accommodation, please notify your Recruiter.
+#AppSec"

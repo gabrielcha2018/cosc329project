@@ -1,0 +1,718 @@
+Title,Description
+"Cloud Delivery Lead Engineer, ITS Global - Toronto, ON - Indeed.com","Overview:
+KPMG International is the coordinating entity for the overall benefit of the KPMG network of Member Firms.
+As a member of KPMG International, you’ll work alongside some of our profession’s most skilled practitioners on rewarding programs and initiatives that are changing the way business operates, delivering value to our clients, and driving positive change in the communities we serve.
+You’ll help champion new ways of working, using cutting edge technology and working together with our member firms located in nearly 150 countries to help us achieve our ambition to become the most trusted and trustworthy professional services firm.
+And through your work, you’ll build a global network and unlock opportunities that you may not have thought possible with access to great support, vast resources, and an inclusive, supportive environment to help you reach your full potential.
+Backed by a worldwide partnership of professional services firms, KPMG plays a leading role in a rapidly advancing digital transformation. As the importance and demand of secure technology platforms and consistency ever increases, KPMG has a clear focus on leveraging cloud technologies provided through a Global Technology Platform (“One Platform”) which itself is a tailored and secured implementation of Microsoft Azure. The One Platform will evolve into a multi Cloud environment.
+The Platform Enablement team is the initial point of contact for KPMG Functions and Member Firms for their One Platform hosting needs. The team is responsible for the total customer demand chain, advisory and delivery ensuring an enhanced customer experience in their cloud transformation to One Platform.
+We assist Member Firms, Global Functions with their envisioned digital transformation. We share our best practices and introduce technology that enables our customers to scale, collaborate, and increase productivity to deliver the desired business outcome.
+KPMG is looking for an Lead Engineer who can engineer and build solutions in public cloud platforms (Azure). The Cloud Delivery Lead Engineer plays a role in migrations of KPMG and KPMG customer applications from private hosted infrastructure to cloud or hybrid solutions, working closely with diverse teams within the organization with the aim for highest customer satisfaction. The role will take active participation and lead engineer team in global and local projects ensuring delivery of Azure components with highest levels of availability, performance, and security.
+What you will do:
+Act as a subject matter expert at KPMG One Platform Enablement Delivery team for Azure Delivery;
+Act as the lead engineer in Cloud Delivery aspects
+Being the gatekeeper for transition of new released products and capabilities from Product teams to be used by the delivery team
+Setting delivery standards, processes and policies to ensure executional excellence on cloud delivery
+Standardizing tools, methods and systems to enable efficiency, best-practice sharing and effectiveness in cloud delivery portfolios and projects
+Working closely with virtual teams, KPMG DevOps teams, Operations teams to ensure approved delivery standards, tools, processes and policies are used by each team. Monitoring mis-usage or exceptions and working closely with other teams to ensure standards are followed.
+Staying abreast of industry trends and best practices, conduct research, tests, and execute new techniques which could be reused and applied to the DevOps projects
+Working actively on One Platform customer projects, investments and maturity programs;
+Participating as the Lead Engineer in project requirements gathering workshops with intake, advisory and product teams when needed
+Planning and leading the execution of large-scale migrations of systems from private infrastructure to public cloud platforms
+Building scalable enterprise solutions using Azure offerings
+Designing Azure foundational elements like VM’s, VNET, Blob storage, instances, functions, networking etc.
+Commissioning PaaS services like Azure App Service, SQL Database, Application gateway, Azure Identity Management, IOT etc.
+Providing technical administrative and configuration support for Microsoft Azure platform
+Ensuring the build of secure environments running in Azure using KPMG security and compliancy standards and making sure engineer team follows the standards
+Support One Platform Delivery Manager for ensuring timely readiness of flexible workforce capacity to support all One Platform customers with their portfolios and demands;
+Working with project managers making sure correct people are assigned to correct tasks
+Tracking flexible engineering resource capacity and skills
+Working with vendors to upscale and/or downscale capacities on a timely and efficient manner
+Working with vendors for continuous training and certification of resources
+What you bring to this role:
+Hands-on and extensive experience with cloud environments like Microsoft Azure, Amazon Web Services or Google Cloud platform
+Excellent knowledge and extensive experience of automation for Azure solution architecture, best practices, IaaS, PaaS and SaaS services
+Excellent knowledge and extensive experience in Cloud infrastructure/services and delivery models, storage concepts, networking basics, etc.
+Excellent knowledge and extensive experience of commonly used Azure PaaS Services (SQL PaaS, Azure Functions, Web Jobs, Bots, Redis, Service Bus, Cosmos etc.)
+Experienced with multiple programming languages such as PowerShell, SP.NET, Python, Shell scripting, Terraform, JSON, XML or similar scripting language
+Experienced with Cloud Automation concept and best practices, automation tools and cloud development
+Strong Hands-on experience working on CICD pipeline on Cloud management platforms
+Knowledge and experience of reporting tools (Power BI, Excel)
+Excellent presentation, documentation and communication skills.
+Bachelor’s or Master’s Degree in a relevant field of study: Computer Science, Management Information Systems, etc., or equivalent experience.
+The following certifications are a plus: AZ-300/AZ 303 Microsoft Azure Architect Technologies, AZ-301/AZ 304 Microsoft Azure Architect Design, AZ 400 Designing and Implementing Microsoft DevOps Solutions
+Agile/Scrum certification is a plus
+5+ years of experience in IT services
+3+ years of experience in Cloud Technologies (preferably on Microsoft Azure)
+3+ years of experience in DevOps
+Ability to lead people/teams in multiple projects by building rapport and relationships, particularly leading and working with virtual teams that are geographically dispersed
+Our Values, The KPMG Way:
+Integrity
+, we do what is right |
+Excellence
+, we never stop learning and improving |
+Courage
+, we think and act boldly |
+Together
+, we respect each other and draw strength from our differences |
+For Better
+, we do what matters
+KPMG is committed to the health and safety of our people, clients and communities. With this commitment in mind, KPMG complies with all public health mandates (provincially and/or federally, as applicable) and has implemented various safety measures, including a COVID-19 Vaccination Policy. KPMG's COVID 19 Vaccination Policy requires all employees to be fully vaccinated if they wish to or are required to attend a KPMG office and/or other congregate settings in the course of their duties (such as client sites or third-party venues).
+As this role requires occasional or consistent attendance at a KPMG office and/or congregate setting, the successful candidate must be fully vaccinated (i.e. have received all doses that are recommended by Health Canada, including any boosters) and must provide KPMG with proof of vaccination. KPMG will provide reasonable accommodation if the successful candidate cannot be vaccinated due to grounds protected by human rights legislation in their province of employment.
+KPMG in Canada is a proud equal opportunities employer and we are committed to creating a respectful, inclusive and barrier-free workplace that allows all of our people to reach their full potential. A diverse workforce is key to our success and we believe in bringing your whole self to work. We welcome all qualified candidates to apply and hope you will choose KPMG in Canada as your employer of choice.
+For general recruitment-related inquiries, please contact the HR Delivery Centre at cafmcdnhrsthotline@kpmg.ca.
+If you have a question about accessible employment at KPMG, or to begin a confidential conversation about your individual accessibility or accommodation needs through the recruitment process, we encourage you to contact us at cafmcdnhrsthotline@kpmg.ca or phone:
+416-777-8002
+or toll free 1-888-466-4778."
+"Senior Specialist, Cyber Security - Mississauga, ON - Indeed.com","Req Id: 323394
+At Bell, we do more than build world-class networks, develop innovative services and create original multiplatform media content – we advance how Canadians connect with each other and the world.
+If you’re ready to bring game-changing ideas to life and join a community that values, professional growth and employee wellness, we want you on the Bell team.
+The Bell IT team uses emerging technologies, Agile and DevOps to design and build innovative solutions that enable Bell’s communications services for businesses and consumers. We’re looking for creative problem-solvers who are curious, collaborative and ready to be on the leading edge of technological transformation.
+Position Description:
+The IT Field, Security & Network Delivery team is a fast-paced and dynamic team within the Information Technology organization. The team’s mandate is to work with Bell stakeholders and technology partners to deliver solutions that leverage Bell’s significant investment in its IT platforms and architecture.
+We are looking for a Senior Specialist, Cyber Security reporting to the Director of IT Delivery to assess, and influence the security posture of Bell’s critical IT & Field systems, platforms and data.
+The role requires a self governing, creative, and regimented performer who will work with our team of Project Managers, Business Analysts and Security professionals that focus primarily on solutions for our critical IT & Field delivery platforms as well as, new and emerging IT technologies.
+Job Duties/Accountabilities:
+Analysis & Response
+Develop program strategies to inventory and assess risk on a portfolio of key applications.
+Influence delivery teams to align to Bells security directives and provide guidance and strategies to integrate into the delivery lifecycle.
+Develop enterprise level remediation efforts and consult on security solutions with technical teams.
+Work with and provide guidance to technical architects and security teams, within both Bell and external to Bell, as they perform infrastructure, application and code scans as well as PEN tests in order to uncover vulnerabilities within IT systems topology.
+Analyse vulnerabilities found through VA scans and PEN tests and propose remediation strategies.
+Monitor/respond to security issues in the IT Field & Network domain.
+Document all security incidents and assess their actual or potential risk.
+Work with the Systems Security team to document the “lessons learned” and implement improvements to existing processes/procedures/best practices or the creation of new processes/procedures/best practices if they do not already exist.
+Cyber Security Solutions Delivery
+Develop and implement solutions to alleviate risks and enhance system security and support teams as a technical expert for the project, system or solution they are working on.
+Implement network, server, website, application, and Data/Information security improvements for cloud, hosted, and on/off premise solutions, by assessing current situation; evaluating trends; anticipating requirements and making recommendations.
+Play a critical, collaborative role in setting the strategy and goals for delivery teams, with a focus on project impact, product quality, and engineering efficiency.
+Ensure site and data security and provide consultation on security issues staying abreast of potential internet security threats.
+Assist in the development of secure architecture, designs, and provides training on security solutions.
+Support project manager as a subject matter expert.
+Assess and develop mitigation measures to ensure that appropriate mitigation is applied.
+IT Systems Solutions Delivery
+Gathering and documenting the security vulnerability and business requirements and then ensuring that the deliverables produced by the development effort conform to the business requirements.
+Consult on design and development deliverables, including interface specifications, integration requirements, Blueprint documentation, as well as the business’s implementation and conversion strategies and plans.
+Prevention
+Review the results of internal PEN tests and VA Scans and define mitigation/remediation strategies.
+Assess the latest internal and external security bulletins and propose a plan to remediate any threats that are applicable to IT & Field Systems.
+Qualifications/Competencies:
+5+ years of experience in the Security space.
+7+ years in an IT Business Analysis, or IT Infrastructure role in large scale IT Systems projects, with leadership experience defining requirements and solutions.
+Excellent verbal and written communication skills including the preparation and presentation of senior management reporting packages
+Bachelor's degree in Computer Science, Computer Engineering, Information Technology Systems Security or related field. Master's degree in Information Security is an asset.
+The following accreditations are desired: CISSP, CEH, CCSP, CRISC, CISM, CHFI
+Knowledge of GRC Information Security is an asset.
+Must possess a thorough understanding of all aspects of data, computer and network security, including such areas as firewall administration, encryption technologies and network protocols.
+Highly experienced with data securitization and able to solution for data at rest, in motion, and database encryption
+Experience with Application/Data Security and Vulnerability Management programs that leverage SAST (Static application security testing), DAST (Dynamic application security testing), PEN Testing, network vulnerability scanners, etc.
+Familiar with Privileged Access Management (PAM) policies and procedures.
+Confidently able to be a contributing editor to IT Security standards and policies.
+Understanding of security frameworks (e.g. NIST Cybersecurity framework, ISO, PCI, SoX) and risk management methodologies.
+Well-developed research, analysis and problem-solving skills to identify risks and propose appropriate mitigation strategies, where required.
+#tech
+#indeed
+#cybersec
+#LI-JW1
+Bilingualism is an asset (English and French); adequate knowledge of French is required for positions in Quebec.
+Additional Information:
+Position Type:
+Management
+Job Status:
+Regular - Full Time
+Job Location:
+Canada : Ontario : Mississauga || Canada : Ontario : Ottawa || Canada : Ontario : Toronto || Canada : Quebec : Montreal || Canada : Quebec : Verdun
+Flexible work profile:
+Mobile
+Application Deadline:
+12/12/2021
+Please apply directly online to be considered for this role. Applications through email will not be accepted.
+At Bell, we don’t just accept difference - we celebrate it. We’re committed to fostering an inclusive, equitable, and accessible workplace where every team member feels valued, respected, and supported, and has the opportunity to reach their full potential. We welcome and encourage applications from people with disabilities.
+Accommodations are available on request for candidates taking part in all aspects of the selection process. For a confidential inquiry, simply email your recruiter directly or recruitment@bell.ca to make arrangements. If you have questions regarding accessible employment at Bell please email our Diversity & Inclusion Team at inclusion@bell.ca.
+Created: Canada, ON, Mississauga
+Bell, one of
+Canada's Top 100 Employers."
+"AWS Big Data Technical Leader - Montreal, QC - Montréal, QC - Indeed.com","Company presentation
+A world leader in gases, technologies and services for Industry and Health, Air Liquide is present in 78 countries with approximately 64,500 employees and serves more than 3.8 million customers and patients. Oxygen, nitrogen and hydrogen are essential small molecules for life, matter and energy. They embody Air Liquide’s scientific territory and have been at the core of the company’s activities since its creation in 1902.
+Entity and activity description
+Air Liquide’s ambition is to be a leader in its industry, deliver long term performance and contribute to sustainability - with a strong commitment to climate change and energy transition at the heart of its strategy. The company’s customer-centric transformation strategy aims at profitable, regular and responsible growth over the long term. It relies on operational excellence, selective investments, open innovation and a network organization implemented by the Group worldwide. Through the commitment and inventiveness of its people, Air Liquide leverages energy and environment transition, changes in healthcare and digitization, and delivers greater value to all its stakeholders.
+Air Liquide’s revenue amounted to more than 20 billion euros in 2020. Air Liquide is listed on the Euronext Paris stock exchange (compartment A) and belongs to the CAC 40, EURO STOXX 50 and FTSE4Good indexes
+Missions and Responsibilities
+Within Americas Hub Data & BI Team, and reporting to the Data & BI Product Manager, the AWS Big Data Technical Leader designs, develops and industrializes “Big Data” Cloud-based solutions, highly distributed which fuels strategic business decisions across the organisation. They act as design authority for Big Data developments on the data lake, and play an active role in engineering data pipelines, integrations, transformation workflows and managing data lake infrastructure and related toolings. They define technological roadmap, and fosters Agile and DevOps methodologies. They contribute in successful delivery of ongoing and future projects, contribute in scale, run and maintenance of existing and future products, continuous improvement and automation of the Americas Data Platform.
+Responsibilities
+Work with product manager in defining the strategy and implementation of the data lake, ETL, ingestion tools and big data solutions that fuels strategic business decisions across the organization
+Assists in the execution of the Digital and IT roadmap
+Play an active role in in defining technologies to be used for new Data & BI applications and improvements to existing applications
+Creates and implements a technical strategy to enable the infrastructure to scale to larger projects and teams
+Contributes to architecting complex big data solutions. Own the execution of the data lake engineering team, oversee process and delivery timelines to keep projects on schedule. Provide support for the data processing.
+Establish best practices for naming, governing, managing, modeling, cleansing, transforming,
+moving, storing, and searching all data. Define local norms for local purposes according to group recommendations
+Participates in selection of Big Data Engineers, trains and lead their developments on project, run and maintenance of products
+Leads a team of Big Data engineers who build data pipelines, integrations, transformation workflows and manage data lake/warehouse infrastructure and related tooling
+Ensure high levels of data quality across the related business areas. Establish SLAs for all data and processes. Develop data quality checks for source and target data sets.
+Establish SLAs for all data and processes.
+Anticipate challenges by maintaining existing codebases and system infrastructures, as well as enhancing the development, staging, and production environments of our applications. Scale, maintain and improve the existing products.
+Hand in code reviews before product roll-out aligned with data & BI standards, as well as in project planning and management, participate, contribute actively and provide input for the ongoing improvement of engineering practices and procedures. Design, implement, optimize , with data architects and devops, the data processing pipelines allowing data applications to be fed from various data sources
+Foster an agile / devops methodology
+Work Closely with Air Liquide Data & BI teams around the globe: for centralized support ( security, etc...), and alignment in terms of architecture and product orientation, to propose new features for the core product
+Design and implement visualization and analysis tools, and automations, to facilitate the work of data developers, data scientists and data analysts
+Works with his/her team as well as with cross-functional teams to continuously improve work processes. Continuously analyses the functioning of the activity, identifies causes of dysfunctions and proposes corrective measures accordingly.
+Competencies and Profile
+Required Qualifications
+Bachelors in Computer Sciences or Information Technology
+4+ years of experience in Hadoop, Spark (PySpark, Scala), Python for data engineering and SQL
+4 years of experience in Git development workflow, DevOps/CI-CD tools: JIRA, GitLab, GitLab CI, NEXUS, SonarQube
+4+ years of experience in CloudFormation, IAM, Lambda, SQS, Athena, Airflow, EMR,
+Glue, S3, Unix
+4+ years of experience in AWS DevOps
+3+ years of experience with Docker and REST APIs
+Required Certifications
+AWS Certified Big Data - Specialty
+AWS Certified Solutions Architect - Associate
+AWS Certified Developer - Associate
+Agreeing to disclose your COVID-19 vaccination status, as a condition of employment.
+Agreeing to be fully vaccinated against COVID-19 and to maintain such fully vaccinated status, as a condition of employment.
+Preferred
+AWS Certified SysOps Administrator - Associate
+Experience in AI
+Experience with Azure (Azure Data Warehouse, SQL database,..) or time series databases
+(InfluxDB,TimescaleDB, Prometheus,...)
+Experience in selecting and implementing Machine Learning libraries and standard algorithms and metrics
+Additional information
+Looking for a job? Instead, find a career!
+We capitalize on the professional development of our employees by offering several training programs and encouraging internal career paths. In Quebec or internationally (Air Liquide is present in 78 countries!), take the opportunity to build a career that matches your ambitions!
+Why our employees love working for Air Liquide
+Collaborative work team
+Competitive compensation (base + bonus)
+Very advantageous pension plan
+Comprehensive benefits
+Free remote medical consultation service for the whole family
+Recognition programs
+Health and wellness program
+Shares option
+Employee discounts at several partner companies and on our products
+Ultra safe work environment
+*** Thank you for your interest in Air Liquide. Please note that only shortlisted candidates will be contacted. For more information on our company, visit us online at
+www.airliquide.ca
+We value the health and safety of our customers, patients and employees. As such, we strongly encourage everyone to get vaccinated against COVID-19 and all future employees will be required to be fully vaccinated against COVID-19 and to maintain such fully vaccinated status.
+Job Reference: CA04011"
+"Senior Software Developer - Toronto, ON - Indeed.com","This is a flexible position and has the option of working in our Toronto office full time, hybrid throughout the week or working entirely remotely.
+Who we are
+At Vena Solutions, we believe finance and data analytics should be fun - for everyone! We do data differently transforming businesses by pairing our interface with the best parts of Excel and the power of a full finance-led planning solution. Our integrated planning ecosystem streamlines workflows, automates time-consuming tasks, and frees up more time to uncover insights and build a better business.
+Founded in 2011, and with over $350 million raised in funding, we offer a cloud-native, corporate performance management platform that empowers finance, operations, and business leaders to ""Plan to Grow"" their businesses. Our customers across a range of industries include the Kansas City Chiefs, Coca-Cola Consolidated, WWF-Canada, and Capstone Infrastructure.
+It's an exciting time at Vena as we scale unbelievably fast and channel our latest round of funding into building out our product development roadmap and go-to-market strategy.
+Who we need
+Vena is seeking an experienced developer and collaborator, to join our team of 60+ developers headquartered in Toronto, Canada. As a Senior Software Developer, you will be part of a Scrum team building scalable React applications and Java-based microservices that enhance our Software as a Service product.
+Who you are
+You are a well-rounded programmer, probably with one area of expertise and depth, with a passion for working across product stacks and learning new languages. You have a strong knowledge of Computer Science fundamentals including software design, algorithms, and best practices.
+What's in it for you
+Impact.
+You will directly contribute to our growth and success as a company and as a Development team, tackling complex technical challenges working with data, scale, and application performance. You will work on our new pipeline features and functionality, working towards product goals that align with our growth strategy.
+Technology
+. Our platform lets customers enter or import finance, accounting, HR, and other business data into our dimensional database engine, and then execute planning processes using that data and our workflow engine. You will use Java, Spring, TypeScript, and React to build new features that enable our customers to work with a familiar Excel interface in a more advanced way, creating templates, enabling distribution, and managing coordination for data gathering and analysis.
+Professional growth.
+You will have the chance to participate in our mentoring program both as a mentor and a mentee. You will join our ongoing learning and development labs and have the opportunity to take courses, earn new certifications, or purchase resources with our Education Subsidy. You will be supported in accelerating your career. As we continue to grow beyond 100 people across our Development and Technology team, you will have endless possibilities including moving up to a Technical Lead, Staff Engineer, Architect, or into people management leading a team.
+What you will do: *
+Write clean and elegant code.
+You will create robust, speedy production components and develop prototypes quickly. You will refactor, simplify and optimize code to develop features more effectively
+Collaborate.
+You will work closely with your cross-functional team members on features, design and implementation and innovate solutions to complex business problems. You will contribute to architecture and product discussions when possible.
+Drive excellence.
+You will contribute to building our environment that embraces continuous integration using automated testing. You will research and recommend best practices, the latest technologies, and new approaches to improve our software performance, delivery, scalability, and usability.
+What you bring to the team
+The drive to continuously learn.
+You want to be part of a collaborative culture of ""Engineering Excellence"" that continuously improves and pursues knowledge around emerging technologies, languages, and practices. You believe in keeping up with the latest tools, libraries, frameworks and trends in cloud computing. You can pick up new technologies quickly and you can mentor junior developers in optimal use of Java.
+The experience.
+You have senior level programming experience and exposure to a variety of different languages including expertise in Java and Javascript. You have worked with databases, Hibernate and AWS. You have extensive hands-on experience contributing to cloud product development in an Agile CI/CD environment and a proven track record of ensuring high-quality code.
+The interpersonal skills.
+You have great communication skills and you can build trusting, influential relationships within and across teams.
+Life at Vena
+At Vena, we believe that a positive company culture is key to success, and we are honored that overwhelming positive and supportive feedback from our teams has resulted in us being the recipient of three 2020 Comparably Awards for Small and Midsize Businesses. We have been recognized in the following categories: Best Company Culture, Best Companies for Women and Best Companies for Diversity.
+To us, this level of recognition speaks to the dedication and commitment of the people who make up our teams, and we work hard every day to nurture an environment that appreciates our people and expands access to development and growth opportunities. This includes a number of employee resource groups including DIBS (Diversity, Inclusion & Belonging) which aims to create the space and freedom to celebrate their differences; N4W (Network for Women) that addresses the interests, challenges and hurdles women+ from different backgrounds experience in the tech community workplace. And our accessibility group, Va11y, that works toward actualizing barrier-free access to Vena for everyone, no matter their unique needs or learning style.
+Vena also actively supports a variety of partner initiatives, including bootcamps for Women In Tech Sales, as well as networking events and hackathons with Black Professionals in Tech Network, Elle Hacks, SheHacks and WomenHack.
+As a people-first organization, we offer a flexible working environment, prioritize mental health and wellness through monthly virtual sessions, and have built out a virtual social events calendar to keep us all in touch. You will be inspired by our diverse executive leadership as they scale the company and remain engaged with the teams; shifting from monthly to weekly town halls and maintaining transparent communications through the pandemic and beyond.
+Why Choose Vena?
+Total Rewards
+: Grow with Vena and celebrate its success with our Employee Stock Option Program (ESOP). We look ahead and invest in your future with our Retirement Savings Matching Program. We also provide comprehensive health benefits through our employer group plan effective from day one.
+Unique Culture:
+Join us in our ongoing commitment to build a diverse and inclusive workplace. Every voice, action and idea matters at Vena.
+Career Growth:
+We invest in your job training, professional development and continuing education and offer an Education Subsidy. Pursue your interests and chart your growth towards a new position on your current team or a new one.
+Vena had 100+ employee promotions and internal moves to new roles in 2020!
+Executive Leadership:
+Be inspired by our executive leadership as they lead and motivate our team.
+Read what employees say about working at Vena!
+Glassdoor
+Comparably
+Indeed
+Please note: Due to COVID-19 Guidelines, all interviews will be conducted using Zoom.
+As we continue to monitor the situation and follow public health guidelines, our commitment to ensuring the safety and health of our employees, customers,
+candidates
+and community around the world remains a top priority. We will continue to offer flexible working arrangements that include working remotely or on site with proper safety and health measures in place.
+Vena celebrates the differences that make us all unique and strives to make our workplace accessible however we can.
+Should you require accommodation throughout any stage of the recruitment and selection process, please specify your requirements to careers@venasolutions.com when submitting your application and we will work with you to accommodate your needs.
+We incorporate accessible practices into all of our internal roles and invite others to join us in our ongoing efforts. Find out more at www.venasolutions.com/va11y
+Job Type: Full-time"
+"Staff Data Engineer - Toronto - Thornhill, ON - Indeed.com","Staff Data Engineer in Toronto - Ontario, Canada
+There has never been a better time to join Extreme, after several acquisitions extending our portfolio and go to market strategy, we have seen enormous opportunity and growth within the regions. Aside from being a Technology Leader in the Gartner Magic Quadrant, we also adamantly promote an internal culture that truly embraces diversity, inclusion and equality in the workplace. Having Diversity and Inclusion as part of our core values and beliefs, we’re proud to foster an environment where every Extreme employee can thrive because of their differences, not despite them.
+Staff Data Engineer:
+Extreme Networks is searching for a
+Staff Data Engineer
+to help with the architecture, design, and implementation of a new data analytics framework.
+Extreme’s Data Lake is built from the ground up to take full advantage of Extreme’s end-to-end networking solutions. Using innovative machine learning and artificial intelligence technologies, our data analysis framework, analyzes and interprets tens of millions of network devices, and user data points from the network edge to the data center, to drive actionable business insights and deliver new levels of automation and intelligence.
+As a key member of the data science team, you will have the opportunity to contribute across the entire product life cycle, from definition to implementation.
+What You Will Do
+You will be part of a high-performing agile scrum team that architects, designs, implements, and tests a high performance, high efficiency data analytics framework. Development will include innovative technologies in the fields of real time, batch and stream processing, cluster management & security, machine learning, and artificial intelligence. You will have the opportunity to take new ideas from concept to delivery, working closely with team members and cross-functional partners to architect, design, and develop high-quality solutions that take into consideration scalability, availability, persistence, and performance.
+Qualifications:
+6+ years of industry experience in software engineering
+Excellent hands on programming experience with Python, GoLang, JavaScript and Java
+API Proficiency: REST API in GoLang/Python, strong OpenAPI literacy
+Data Serialization using Google ProtoBuf and/or Amazon Kinesis
+Hands-on knowledge of NoSQL, time series, in memory databases: Elasticsearch, InfluxDB, Redis, Parquet
+Docker and Kubernetes expertise
+Work experience with machine learning and statistical methodologies (decision trees, KMeans, classification, regression, SVM) preferably using Python scikit-learn
+Automated testing using Pytest
+Additional Desired Qualifications
+GUI Rapid development and data visualization techniques: Angular, JavaScript, HighCharts or other visualization library
+Hands-on experience working on resilient, scalable distributed systems
+Real time, batch, and stream processing analytics skills using: Pandas, Koalas, Vaex, Apache Spark and/or Dask
+GitHub expertise
+You Will Be a Great Fit If You Are
+A quick learner with excellent communication skills
+Tenacious in your approach to problem solving
+Highly productive with minimal supervision
+Eager to learn about and adopt the latest technologies and best practices in your field
+Education
+Bachelor’s degree in Computer Science or equivalent
+Extreme Networks, Inc. (EXTR) creates effortless networking experiences that enable all of us to advance. We push the boundaries of technology leveraging the powers of machine learning, artificial intelligence, analytics, and automation. Over 50,000 customers globally trust our end-to-end, cloud-driven networking solutions and rely on our top-rated services and support to accelerate their digital transformation efforts and deliver progress like never before. For more information, visit Extreme's website or follow us on Twitter, LinkedIn, and Facebook.
+We encourage people from underrepresented groups to apply. Come Advance with us! In keeping with our values, no employee or applicant will face discrimination/harassment based on: race, color, ancestry, national origin, religion, age, gender, marital domestic partner status, sexual orientation, gender identity, disability status, or veteran status. Above and beyond discrimination/harassment based on “protected categories,” Extreme Networks also strives to prevent other, subtler forms of inappropriate behavior (e.g., stereotyping) from ever gaining a foothold in our organization. Whether blatant or hidden, barriers to success have no place at Extreme Networks.
+#LI-ME1"
+"Digital Design Engineer - Ottawa, ON - Indeed.com","Since 1992, Ciena has been driven by a relentless pursuit of network innovation. We believe in a network that grows smarter, more agile, and more responsive every day. This means that when you digitally interact in your world - picking up the phone, streaming video, texting a friend or loved one – your interactions are being enabled by Ciena technologies. Ciena makes your social / entertainment / business existence REAL.
+This role is ideally
+Ottawa
+based however remote in
+Canada
+and the
+USA (CST/EST)
+is also available.
+*********************************************************************************
+What will you do at Ciena as a Digital Design Engineer?
+The Wavelogic family of products are widely used in Ciena's optical fiber transmission solutions, and are one of the main contributors to Ciena's success in the telecommunications industry. To further strengthen our team, we are looking for a hard-working digital design engineer who will be involved in the design of these products, working within a team of digital design engineers, verification engineers and architects. Your role as a digital design engineer will be to propose innovative solutions, in order to design power and area optimized functional blocks for the Wavelogic family of products.
+As a digital design engineer, you are expected to read and understand the architecture and functional requirements specification document(s) and communicate and collaborate with systems engineers and architects
+You will produce an implementation specification document and have it reviewed by your team, architects, analog designers if applicable
+You are accountable for the creation and integration of new and existing RTL and/or C source code, algorithms and functions
+You are held responsible for designer testing of your code as well as debugging of your code during simulation and regression verification
+You will assist the verification team in resolving coverage and provide design assertions and waivers as needed
+You are held responsible for crafting timing constraints for your code, and will participate in synthesis log reviews, constraint reviews, timing report analysis, layout and backend reviews
+You will be involved in lab validation of the product and its prototype if applicable
+You are encouraged to report on status updates on a regular basis
+What technical experience and personal skills are required for this role?
+Electrical or computer engineering, computer science or other applicable scientific degree at the BEng/BSc or MEng/MSc level
+A highly motivated self-starter, able to work independently, while being a phenomenal teammate
+Ability to methodically tackle sophisticated technical problems
+Excellent organization, written and oral (English) interpersonal skills
+Familiarity with digital design and verification methods
+Familiarity with standards and protocols such as OTN, B100G, Ethernet
+Familiarity with programming languages such as: Python, Make, bash, object-oriented programming, C, C++, System C
+The above lists are intended to describe the general nature and level of work, and they are not intended to be a comprehensive list of all responsibilities, duties and skills required to be qualified and to be performed by the selected candidate. You will have an opportunity to better understand the role through the interview experience.
+#LI-SM
+About Ciena
+Ciena is a network strategy and technology company with a passion to provide an experience, to you and our customers that is as rewarding as the
+outcome. We
+attract the best and brightest– those with outstanding talent, motivation, and the right attitude to contribute to our success. Our culture balances our openness and informality with professionalism and trust and is built on the foundation of our core values: Customer First, Integrity, Velocity, Innovation, and Outstanding People.
+Ciena enables everyone to have a voice and a network that supports them while on the journey to discovering their passion and purpose. We trust each individual to do what they can to reach their full potential and make an impact on the business, whenever, wherever they are in the
+world. With
+Ciena’s highly innovative, forward-thinking
+business practices,
+we reward people for pushing the
+boundaries. Unlock
+your potential at Ciena!
+Being You @ Ciena
+As part of our commitment to diversity and inclusion, we want to foster an environment that values and respects all individual’s strengths, perspectives, ideas, and ability to meet the needs of our customers globally. Ciena values the diversity of its workforce and respects its employees as individuals, regardless of race, ethnicity, religion, gender, age, national origin, disability, sexual orientation, veteran or marital status or any other category protected by applicable law. We do not tolerate any form of discrimination.
+Ciena is also committed to compliance with all fair employment practices regarding citizenship and immigration
+status.
+If contacted in relation to a job opportunity, you should advise Ciena in a timely fashion of the specific accommodation
+measures required for you
+to be assessed in a fair and equitable manner.
+We do not charge any fee for employment and the same applies to the Recruitment Partners we work with. Additionally, we do not ask for any refundable security deposit to be paid in bank accounts for employment purposes. We request candidates to be cautious of misleading communications and not pay any fee/ deposit to individuals/ agencies/ employment portals on the pretext of attending Ciena’s interview process or seeking employment with us."
+"Senior Member of Technical Staff Montreal, Quebec - Montréal, QC - Indeed.com","Title: Senior Member of Technical Staff - Distributed Edge
+The Elevator Pitch:
+At VMware, we're building new possibilities for our customers by accelerating digital business transformation. We're modernizing data centers for greater agility and productivity, integrating public clouds for faster time to market, empowering digital workspaces to improve mobile experiences, and transforming cyber security. You can be a part of this amazing transformation that will impact our customers and businesses around the world.
+At VMware, we are targeting to enable digital equity to everyone and therefore building a framework consisting of multiple clouds, multi-access networks, and multi-core networks, which we call a distributed grid. A distributed grid weaves together a fabric of heterogeneous compute, data, and intelligence to enable context-aware, immersive, and distributed modern applications anytime, anywhere, on-demand. We want you to be part of this experience and help us address some of the challenges of the distributed grid, like accelerating a control framework, facilitating intelligent decision-making, or enabling various optimization solutions – to name a few.
+Working within the OCTO Distributed Edge team, you will be involved in research and co-innovation with industry and academia to unravel the complexities of the distributed grid. If you are passionate driving the future of technology, a self-starter who likes taking on new challenges and learning new technologies, and you curious to experiment in the pursuit of building something great within a team of scientist, researchers, engineers, architects, etc., then you are in the right place.
+As a Senior Member of Technical Staff in Distributed Edge, you will:
+Get hands on exposure with cutting edge technology from managers, mentors, and fellow team members.
+Acquire the tools and knowledge to contribute on a large scale.
+Have the ability to advance your career in the direction you choose in the future.
+Work Here. Transform Everywhere.
+What is the primary need, technical challenge, and/or problem you will be responsible for on this team?
+You'll be given opportunities to make contributions and impact your team. You'll solve real world problems and work on projects which matter to the business. At the same time, you will be offered personalized career and technical tracks, cutting edge trainings, VMware Power of Difference engagement, and career-boosting mentorships.
+Success in the Role:
+Depending on your background, interest, and technical alignment to the various areas of Distributed Edge technology stack, you could be working on various team projects.
+As a Senior Member of Technical Staff on this team, you’ll...
+Collaborate with researchers and industry partners to define the architecture of an Edge Control Framework
+Familiarize yourself with the multi-cloud environment and existing distributed domain controllers within VMware platform
+Define a pipeline to automatically ingest data from any (edge) node
+Expand the data pipeline for data transfer and information sharing between multiple (edge) nodes and a central controller
+Build a basic intelligent controller by using the Edge Control Framework to validate.
+Implement the data pipeline solutions to enhance the Edge Control Framework
+Participate in academic paper publications and/or filing invention disclosures
+Work in a dynamic, fast-moving, and collaborative environment
+What are skills that would be helpful for a successful in this role?
+Completed a PhD degree in Electrical Engineering, Computer Science, or related quantitative fields
+Experience in Python, Go, C++, or similar scripting and programming languages
+Experience in control theory, multi-agent systems, and distributed dynamic systems
+Strong proficiency in analysis, design, and implementation of multi-agent control systems, distributed systems, and data pipelining
+Expertise in using python libraries for data science and machine learning such as: pandas, NumPy, scikit-learn, TensorFlow, etc.
+Strong communication skills
+Eagerness to work in a collaborative environment
+What is the leadership like for this role? What is the structure and culture of the team like?
+VMware people share deeply held values that inspire us to build a diverse culture, make a positive impact on our customers, communities and the world around us, and support the policies that guide how we treat one another.
+When it comes to the team you will be on that comes after you start! During the first two weeks of employment, you will attend onboarding, learn about your new role, and VMware as a company. You'll partner with your manager and mentor to better help guide you toward success.
+Upon joining your team, you will be expected to participate in the following
+Team meetings
+Mentor/Manager 1:1s
+Coding
+Code reviews
+Team training
+Goal review
+And more!
+Where is this role located?
+The location of this role is flexible. Work will be performed from a VMware office or remote location in the US.
+What are the benefits and perks of working at VMware?
+You and your loved ones will be supported with a competitive and comprehensive benefits package. Below are some highlights, or you can view the complete benefits package by visiting www.benefits.vmware.com.
+Employee Stock Purchase Plan
+Medical Coverage, Retirement, and Parental Leave Plans for All Family Types
+Generous Time Off Programs
+40 hours of paid time to volunteer in your community
+Rethink's Neurodiversity program to support parents raising children with learning or behavior challenges, or developmental disabilities
+Financial contributions to your ongoing development (conference)
+Category :
+Engineering and Technology
+Subcategory:
+Software Engineering
+Experience:
+Manager and Professional
+Full Time/ Part Time:
+Full Time
+Posted Date:
+2021-12-08
+Research & Development Operations & Central Services: VMware’s R&D Operations and Central Services team makes sure our customers enjoy a high-quality experience across the entire product portfolio. Our goal is to protect the company’s brand reputation by continually improving customer satisfaction. We bring together key R&D functions such as performance, security, and release management, which frees up R&D business units to focus on product innovation. Our priorities include investing in R&D talent, sharing best practices, and driving scale and agility in VMware products. Are you interested in expanding your R&D skills and experience in ways few jobs can? Join our team, and you’ll help deliver game-changing solutions across business units and product lines. Our team members also work with outside companies, build new contacts, and take part in industry-wide conferences and committees.
+VMware Company Overview: At VMware, we believe that software has the power to unlock new opportunities for people and our planet. We look beyond the barriers of compromise to engineer new ways to make technologies work together seamlessly. Our cloud, mobility, and security software form a flexible, consistent digital foundation for securely delivering the apps, services and experiences that are transforming business innovation around the globe. At the core of what we do are our people who deeply value execution, passion, integrity, customers, and community. Shape what’s possible today at http://careers.vmware.com.
+Equal Employment Opportunity Statement: VMware is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of Any Kind: VMware is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at VMware are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. VMware will not tolerate discrimination or harassment based on any of these characteristics. VMware encourages applicants of all ages. Vmware will provide reasonable accommodation to employees who have protected disabilities consistent with local law."
+"Senior System Administrator (Monitoring/Automation) - Oakville, ON - Indeed.com","IPEX is the leading manufacturer and supplier of thermoplastic piping systems in North America, offering a comprehensive range of thermoplastic materials, products, and accessories for municipal, industrial, commercial, and residential markets. This includes systems that convey water, chemicals, and gases, to conduit that carries power and data cabling. The IPEX companies are part of Aliaxis, a global leader in piping systems.
+Our ability to excel depends on the integrity, knowledge, imagination, skill, diversity, and teamwork of people like you.
+Job Summary
+We are currently looking for a motivated, passionate, and dynamic candidate to serve in a Senior System Administrator role to enable the business to achieve their objectives through the effective use of technology. This position will report to the Data Center Manager and will be based in Montreal Administrative offices.
+The Senior System Administrator has the overall responsibility to serve as Level 3 operations support for all North America and global initiatives. The incumbent will act as a technical subject matter expert for Monitoring IT Infrastructure, handling IT Alerts, System Center (SCOM & SCCM) and PowerShell, other responsibilities will include technology market scanning, the definition of requirements, the design and assessment of the Infrastructure solutions and the documentation.
+Principal Responsibilities include:
+Conduct regular OS and application updates/patching using System Center
+Implement, Monitor, administer and automate IT Alerts
+Monitor and manage system capacities and address resource constraints before they become serious problems
+Identify and deliver proactive maintenance that minimizes unexpected downtime increases system availability and performance
+Build and improve automation for operational tasks
+Troubleshoot and resolve critical alerts with the help of the responsible of the service, possibly involving outside support
+Provide leadership in defining and drafting governance such Alerts standards and categorization, SLO, Alerts escalate process and best practices
+Mentor existing staff on best practices and technologies to drive IT Monitoring and automation
+Provide support for L3 technical issues
+Develop communication channels with the business partners and understand the importance of such application and their monitoring parameters
+Must have experience working with a wide range of applications and IT Infrastructure
+Understanding of Network topologies and concepts
+Assist in the DR (Disaster Recovery) planning, implementation and execution
+Conduct Infrastructure technology and opportunity watches
+Assess the opportunities and potential risks attached to the proposed solutions recommended by the application architects, business analysts and production engineering architects.
+Requirements
+Qualifications & experience Required
+Bachelor / College degree in Computer Science or related technical discipline.
+10+ years of total experience in IT
+7+ years as a senior System Administrator focusing in Monitoring and Automation
+5+ Years working with System Center Configuration Manager (SCCM) and System Center Operations Manager (SCOM)
+5+ years of experience with PowerShell, ability to author new scripts without using a template
+5+ years of experience supporting remote locations and working with a remote support utility
+2+ years Disaster Recovery / Business Continuity Experience
+Skills Required:
+Must be able to design, prepare and conduct new technology evaluations to determine infrastructure solutions based on business requirements and make recommendations for improvement of infrastructure, technology, operational capability, reliability and performance
+Must be proactive and possess strong interpersonal customer service, communication and organizational skills
+Must possess excellent written and verbal presentation skills in English (French is a big plus)
+Must be able to operate in a busy environment and manage multiple projects and shifting priorities
+Must possess design and documentation skills
+Must be self-motivated
+Must be able to be on call on a rotational basis
+Must be able to handle multiple priorities in a fast-paced environment
+Good knowledge of industry standards, legislation and best practices (e.g. ITIL)
+Employee may need to occasionally travel to other IPEX locations (less than 10%)
+IPEX is committed to providing accommodations for people with disabilities throughout the recruitment process and, upon request, will work with qualified job applicants to provide suitable accommodation in a manner that takes into account the applicant’s accessibility needs due to disability. Accommodation requests are available to candidates taking part in all aspects of the selection process for IPEX jobs. To request an accommodation, please contact HR at HR@ipexna.com"
+"Cloud Operations Manager - Ottawa - Ottawa, ON - Indeed.com","Location: Ottawa, Canada
+Thales people architect identity management and data protection solutions at the heart of digital security. Business and governments rely on us to bring trust to the billons of digital interactions they have with people. Our technologies and services help banks exchange funds, people cross borders, energy become smarter and much more. More than 30,000 organizations already rely on us to verify the identities of people and things, grant access to digital services, analyze vast quantities of information and encrypt data to make the connected world more secure.
+Thales is currently seeking a Cloud Operations Manager to join the team in Ottawa, Canada. This role will is currently virtual, but may require occasional onsite presence once restrictions have been lifted. As a Cloud Operations Manager you will be responsible for leading a highly motivated and technical team that is build and maintaining our public and private cloud infrastructures. Day-to-day operations include managing our Cloud Services including deployments, hotfixes, system updates, system administration, incident resolution, problem management and escalations, configuration and change management, asset management, management and disaster recovery. You will also mentor engineers to meet the company’s needs.
+Key Responsibilities:
+Provide 24 X 7 operations for Thales CPL Cloud Services
+Oversee Network Operations, Service Desk, Event Management, Incident Management, Problem Management, Configuration Management and Change Management Processes for all Cloud Services.
+Define and report Key Performance Indicators to monitor process health; define and report Customer facing service metrics. Implement and oversee Security policy, monitoring, and guidelines for Cloud Services.
+Demonstrate thought leadership by excellent presentation and negotiation skills.
+Take initiative in discovering existing and new challenges pertaining to the operations of Cloud Services and propose pro-active measures.
+Constantly seek to improve, resolve, and streamline tools and processes to meet operational challenges.
+Lead Service Disruption and Outage Analysis to create timely Disruption Reports and prevent the reoccurrence of incidents.
+Directly manage assigned employee team. Carry out management and supervisory responsibilities in accordance with the organization’s policies. Responsibilities include interviewing, hiring and training; planning, assigning and directing work; setting objectives and appraising performance.
+Responsible for creating Runbooks in order provide clear guidelines for staff on operational procedures during incidents/escalations.
+Required Skills and Experience:
+Bachelor’s degree in Computer Science or related field or 5+ years of professional work experience in a related field.
+5+ years of progressive experience in large complex information systems.
+5+ of IT Service Management, data center, server, and storage management, virtualization, networking, systems management, and/or project management.
+Experience in managing production systems on a very large scale.
+Experience with Google Cloud Platform (GCP) and Amazon Web Services (AWS)
+High level knowledge of automation tools such as Terraform, Cloud formation, and Ansible.
+Experience utilizing Linux and Window systems.
+This position requires direct or indirect access to hardware, software, technology or technical data controlled under the Canadian Export Control List and/or the US the Export Administration Regulations (EAR). All applicants must be eligible, or able to obtain authorization, for such access.
+Preferred Skills and Experience:
+Experience designing and/or consuming cloud service architectures.
+Experience in deploying and supporting web based applications.
+Ability to think in a Cloud Services manner.
+Experience with orchestration toolsets.
+Understanding of operational concepts like network security, routing, and load balancing.
+Understanding of protocols like TCP/IP, SSH, RDP, etc.
+Understanding of operational concepts like change management, on call rotations, escalations, and uptime
+Experience working with virtualization: VMWare, and Hyper-V
+Experience working with DB’s: MSSQL, MySQL, PostgreSQL, Mongo, and Cassandra
+Ability to work in an extremely geographically distributed company
+Collaboration and project management tools: Jira, and Confluence
+ITIL certifications
+Thales is an equal opportunity employer which values diversity and inclusivity in the workplace. Thales is committed to providing accommodations in all parts of the interview process. Applicants selected for an interview who require accommodation are asked to advise accordingly upon the invitation for an interview. We will work with you to meet your needs. All accommodation information provided will be treated as confidential and used only for the purpose of providing an accessible candidate experience."
+"Specialist, System Architecture, IP Core Engineering - Toronto, ON - Indeed.com","Req Id: 338184
+At Bell, we do more than build world-class networks, develop innovative services and create original multiplatform media content – we advance how Canadians connect with each other and the world.
+If you’re ready to bring game-changing ideas to life and join a community that values, professional growth and employee wellness, we want you on the Bell team.
+Bell is making unmatched investments in our world-leading broadband fibre and wireless networks because we know they’re the backbone of the products and services our customers love. If you’re excited about transforming the way people connect, our Network team is the right place for you.
+Senior Advisor – System/Network Architecture (National IP Core Engineering)
+If you’re passionate, driven and find yourself seeking interesting work, new challenges and continuous learning opportunities, then we want you to join our team. The Network team plans, designs, builds and operates Bell’s multi-billion dollar networks, including the continued expansion of our fibre optic network, HSPA+ and LTE — Canada’s largest and fastest wireline and wireless network.
+The Role:
+This career opportunity is with the National IP Core Engineering team. The selected candidate will be part of a team that is responsible for building and managing the core IP/MPLS networks that are used to connect to Bell Canada’s leading edge services including IP VPN, BID, Mobility, Fibe TV/Fibe Internet, and data centers(NHS/Q9/IaaS) as well as managing Bell’s transit, peering and caching relationships.
+Job Duties/Accountabilities :
+The successful candidate will be responsible and accountable to design, build, document, capacity manage and troubleshoot various networks. Specifics include:
+Working with Technology Development to architect network designs and test protocols/features in the lab
+Creating DDSs (Detailed Design Specifications) to configure various network routers within the core for additional IP core bandwidth upgrades, or establish peering/transit/CDN/Cache connections
+Optimizing network performance and efficiency to ensure the best use of existing infrastructure.
+Assisting service assurance teams in troubleshooting complex network issues.
+Attending/implementing upgrades/cutovers when needed.
+Perform analysis of network data and develop models to identify trends and predict future usage
+Analyze and report on team results
+Develop tools (scripts/programs) for automating routine activities
+Building and designing underlays /overlays of the protocols for the design of Network 3.0 datacentres
+Critical Qualifications/Competencies:
+University degree in, electrical engineering, software engineering, computer science or equivalent
+Solid understanding of:
+IP/MPLS technologies. (BGP/LDP)
+Routing and switching (OSPF/Segment Routing/IS-IS)
+QoS and Traffic Engineering(FRR/RSVP)
+Internetworking hardware (Cisco, Juniper, Alcatel/Nokia, F5, Fortinet, etc .).
+Sound knowledge on Layer 1-7 of the Network OSI Model
+Sound knowledge on Application layer protocols and how they work (DNS, RADIUS, LDAP, DHCP … etc.)
+Gifted thinker who is extremely resourceful and can learn new technologies on the fly, driven and proactive
+Strong interpersonal, oral and written communication skills
+Strong aptitude to recognize opportunities for improvement in day-to-day work and take appropriate actions
+Excellent analytical, problem solving and decision making skills with a strong attention to detail
+Strong time management skills and work ethic (highly motivated) to manage multiple projects/accountabilities
+Preferred Qualifications/Competencies :
+Hands-on working experience in the networking arena.
+Familiarity with ONAP or other orchestration tools
+Additional vendor specific training (eg. CCNA, CCDP, CCNP, CCIE, JNCIA, JNCIP, JNCIE) is an asset.
+Knowledge of Windows, UNIX, Linux and network management tools
+Knowledge of automation or scripting tools (Tail-F, Ansible, Puppet, Chef, Python)
+Able to develop web based applications (JAVA, XML, HTML and REST)
+Able to write code to automate processes and orchestrate deployments and manage code (Netconf/Yang/Tail-F)
+Intimate knowledge of Microsoft Excel, working knowledge of other MS Office Applications (Word, PowerPoint, Visio).
+System Integration experience – distributed server applications, firewall rules, load balancing, network traffic analysis.
+Bilingualism is an asset (English and French); adequate knowledge of French is required for positions in Quebec.
+Additional Information:
+Position Type:
+Management
+Job Status:
+Regular - Full Time
+Job Location:
+Canada : Ontario : Mississauga || Canada : Ontario : Ottawa || Canada : Ontario : Toronto || Canada : Quebec : Montreal
+Flexible work profile:
+Mobile
+Application Deadline:
+12/15/2021
+Please apply directly online to be considered for this role. Applications through email will not be accepted.
+At Bell, we don’t just accept difference - we celebrate it. We’re committed to fostering an inclusive, equitable, and accessible workplace where every team member feels valued, respected, and supported, and has the opportunity to reach their full potential. We welcome and encourage applications from people with disabilities.
+Accommodations are available on request for candidates taking part in all aspects of the selection process. For a confidential inquiry, simply email your recruiter directly or recruitment@bell.ca to make arrangements. If you have questions regarding accessible employment at Bell please email our Diversity & Inclusion Team at inclusion@bell.ca.
+Created: Canada, ON, Toronto
+Bell, one of
+Canada's Top 100 Employers."
+"Senior Transit Electrical Engineer - Richmond Hill, ON - Indeed.com","Senior Transit Electrical Engineer
+-
+(
+162818
+)
+Description
+About Us
+At HDR, we specialize in engineering, architecture, environmental and construction services. While we are most well-known for adding beauty and structure to communities through high-performance buildings and smart infrastructure, we provide much more than that. We create an unshakable foundation for progress because our multidisciplinary teams also include scientists, economists, builders, analysts and artists. That's why we believe diversity is our greatest strength. HDR is proud to be an equal opportunity workplace and an affirmative action employer.
+Watch our
+'About Us'
+video
+We believe that the way we work can add meaning and value to the world. That ideas inspire positive change. That coloring outside the lines can illuminate fresh perspectives. And that small details yield important realizations. Above all, we believe that collaboration is the best way forward.
+Primary Responsibilities
+In the role of Senior Transit Electrical Engineer, we'll count on you to:
+Coordinate the work of Electrical Engineers with the balance of a multidiscipline team throughout the entire project's development
+Establish client relations, and participate in the marketing, design and production meetings with regard to electrical systems
+Assume the electrical lead on many projects
+Participate in reviews with various governing transit agencies for code compliance
+Conduct schematic, design development and contract document work sessions at the project site in conjunction with the Project Manager, Project Architect and other disciplines
+Coordinate workload through the entire project development to complete documents on schedule
+Track the financial aspects of projects, and coordinate and adjust the work effort with the team to ensure that the work is completed within the parameters of the agreed-upon schedule
+Work with the Project Manager and Regional Controller for project reviews with corporate management as needed
+Direct the activities of other transit electrical engineering professionals, and act as a mentor to other staff members as needed
+Participate in proposal writing and discussions as transit electrical subject matter expertise
+Qualifications
+Required Qualifications
+Bachelor's degree in Electrical Engineering or Architectural Engineering with an Electrical emphasis
+P.Eng
+Previous experience in design, construction and operation of high voltage substations and wayside power systems
+Previous experience in design of power distribution, fire alarm, emergency power, CCTV, PA, snow melt systems, communications, internal lighting and exterior lighting systems, fire safety systems and back-up power supply design as it relates to the electrical components of transit facilities, buildings, and rehabilitation projects
+Previous experience in the in the design, construction and operation of railway and transit systems
+Strong computer knowledge of Microsoft Office and AutoCAD, and electrical design software
+An attitude and commitment to being an active participant of our employee-owned culture is a must
+Preferred Qualifications
+Master's degree in Electrical Engineering or Architectural Engineering with an Electrical emphasis
+15+ years experience in design of transit electrical systems
+Why HDR
+At HDR, we know work isn't only about who you work for; it's also about what you do and how you do it. Led by the strength of our values and a culture shaped by employee ownership, we network with each other, build on each other's contributions, and collaborate together to make great things possible. When you join HDR, we give you license to do the same. We help you take charge of your career, giving you multiple growth opportunities along the way.
+Primary Location
+:
+Canada-Ontario-Richmond Hill
+Industry
+:
+Transit
+Schedule
+:
+Full-time
+Employee Status
+:
+Regular
+BusinessClass
+:
+Transit Engineering
+Job Posting
+:
+Aug 24, 2021"
+Staff Software Developer(Frontend) - Ontario - Indeed.com,"Hi there! Thanks for stopping by
+Are you actively looking for a new opportunity? Or just checking the market? Well… you might just be in the right place!
+We're looking for a Staff Software Developer to join our Supplier and Integration Team in North America and focus mostly on the Frontend part of Lightspeed Retail product. You will work on lots of integration projects that will have a tremendous impact on the daily life of thousands of suppliers and merchants all over the world.
+At Lightspeed, we are dedicated to bringing cities and communities to life by powering SMBs. Come and help us build our communities!
+For this role, you can be located in Canada or the United States, +1/-1h time zone difference from EST.
+What you'll be doing:
+Creating and extending functionality of our products by contributing to our micro service -based platform
+Developing clean and highly maintainable code
+Collaborating as part of a team (squad) to deliver product features and functionality
+Engaging with our Product Managers, Architects, Principal developers, and other stakeholders
+Extending your own skills by learning from and growing with the team
+What you need to bring:
+We're a team of 6 people spread across multiple locations in Canada and the US and looking for a Staff Software Developer who has experience with the following:
+High level experience developing and shipping production-grade software
+Front end web development
+Ownership for your features and systems throughout the SDLC and beyond
+Solid foundation in computer science
+Ability to analyse production environments, incidents and performance characteristics
+Eagerness to improve existing systems and plan new ones
+We know that people are more than what's on their CV. If you're unsure that you have the right profile for the role... hit the 'Apply' button and give it a try!
+Even better if you have, but not necessary
+Experience working in Golang
+Experience working with node.js
+Experience in microservice architectures
+Experience writing automated unit and functional tests
+Experience with cloud environments like GCP, AWS, as well as container technologies such as Kubernetes, Docker, etc.
+Experience with real time messaging systems (Pub/Sub, Kafka)
+Experience with both relational (SQL) and non-relational (NoSQL) data-stores
+A keen interest in API design
+What's in it for you?
+Come live the Lightspeed experience...
+Lots of autonomy, flexible work culture and possibility of fully remote work
+Genuine career opportunities in a company that's creating new jobs everyday;
+Work in a team big enough for growth but lean enough to make a real impact.
+Development of very high traffic products, used at the global scale
+Exposure to modern and proven technology
+Opportunity to learn and expand your skill set
+Become a valued part of the diverse and inclusive Lightspeed family
+… and enjoy a range of benefits that'll keep you happy, healthy and (not) hungry:
+Lightspeed share scheme (we are all owners)
+Unlimited paid time off policy
+Health insurance
+Health and wellness benefit of $500 per year
+Paid leave and assistance for new parents
+Mental health online platform and counselling & coaching services
+Volunteer day
+To all recruitment agencies: Lightspeed does not accept unsolicited agency resumes. If we have not directly engaged your company in writing to supply candidates for a specific vacancy, Lightspeed will not be responsible for any fees related to unsolicited resumes.
+Where to from here?
+Obviously, this has to be mutually beneficial: we want you to step into a role you love, and we want to offer you a place you're proud to come to every day. For a glimpse into our world check out our career page here.
+Lightspeed is building communities through commerce, and we need people from all backgrounds and lived experiences to do that. We were founded in 2005, in Montreal's gay village and our original members were all part of the LGBTQ+ community. The ethos of our business has been about inclusion from the very beginning, and we strive to provide a workplace where everyone belongs.
+Who we are:
+Lightspeed (TSX/NYSE: LSPD) powers the businesses that are the backbone of the global economy.
+Our one-stop commerce platform transforms and unifies digital and physical operations by enabling multichannel sales, expansion to new locations, global payments, financial solutions and connection to supplier networks. With the Lightspeed commerce platform, merchants in retail and hospitality can build thriving businesses for the future.
+Headquartered in Montréal, Canada, Lightspeed is trusted by favourite local businesses, where the community goes to shop and dine in over 100 countries. Lightspeed has offices in Canada, the USA, Europe, Russia and APAC.
+We're passionate about enabling people to do their best work. We dream big and we're looking for people who do the same. With us, career milestones happen often and we celebrate every one. Come work with us and find out where your career will take you at Lightspeed!"
+"Software Engineer - Backend - Consul Ecosystem, API Tooling - British Columbia - Indeed.com","About HashiCorp
+HashiCorp is a fast-growing startup that solves development, operations, and security challenges in infrastructure so organizations can focus on business-critical tasks. We build products to give organizations a consistent way to manage their move to cloud-based IT infrastructures for running their applications. Our products enable companies large and small to mix and match AWS, Microsoft Azure, Google Cloud, and other clouds as well as on-premises environments, easing their ability to deliver new applications for their business.
+About the team
+The Consul team, like all of HashiCorp, is fully distributed (100% remote). We have been a remote company since our founding in 2012.
+Consul helps organizations automate network configurations, discover services, and enable secure connectivity across any cloud or runtime. The Consul API Tooling team creates critical tools that live outside of the Consul repository for our Consul practitioners and customers. These tools include Consul Template, Consul Terraform Sync, Envconsul and more.
+About the role
+On the Consul team, we help organizations automate network configurations, discover services, and enable secure connectivity across any cloud or runtime. The customers and large community of users of our tools are operators, infrastructure engineers, and software developers that encounter novel performance, scaling, and usability challenges that we help them solve.
+Consul started as an infrastructure management tool for service discovery and health checking, and has evolved to become a full-featured service mesh. You'll be an active contributor to the tooling that supports Consul. At a high level, a subset of what these tools do are: enable our practitioners and customers to dynamically update their network infrastructure devices, monitor services and render templates based off of updates to those services, monitor external nodes and launch subprocesses with environment variables.
+You'll be following new developments in emerging technology and competitive offerings, looking for opportunities for product differentiation, and rethinking product architecture to meet new global scale and organizational demands.
+In this role you can expect to:
+Build and architect distributed systems for the Consul API tools.
+Interface directly with internal teams, users and HashiCorp customers, as well as the larger Consul community.
+Participate in discussions with product managers and customers to better understand the network topologies, challenges, and constraints for which operators are trying to solve, and leverage those insights when approaching feature design and implementation.
+Propose new functionality or substantive changes through written documents in an async process, describing the problem background, proposed implementation and example UX, then iterating on peer feedback collaboratively.
+Own the full lifecycle of feature development from design through testing and release.
+Program mostly in Golang, learning from and contributing to a team committed to continually improving their skills.
+You may be a good fit for our team if you have:
+Familiarity with service-oriented architectures, and ideally have worked on an infrastructure or platform team building internal tooling to deploy, connect and monitor them.
+Empathy for the people operating, learning, teaching and supporting software you write, and consider their experience when making design decisions and performance, security or complexity tradeoffs.
+Experience in a lower-level language like
+Go
+.
+Awareness of the broader service mesh ecosystem and an interest in contributing to a full-featured product offering while reducing complexity and barriers to adoption for practitioners.
+Curiosity for academic computer science research, particularly distributed systems papers such as Raft and Paxos variants, and enjoy learning more about the challenges of consistency at global scale.
+About the application process
+Please note, as collaboration and communication are a critical aspect of how we work, a cover letter is a great way to provide a sample of how you communicate.
+In your cover letter, please describe why you're interested in working at HashiCorp, and what draws you to this role in particular. Specifics of your past experience that are relevant to this role are great to include, too.
+#LI-TW1
+#LI-Remote
+HashiCorp embraces diversity and equal opportunity. We are committed to building a team that represents a variety of backgrounds, perspectives, and skills. We believe the more inclusive we are, the better our company will be.
+For more information regarding how HashiCorp collects, uses, and manages personal information, please review our Privacy Policy."
+"Software Integration - Build and Release Engineer - ADAS - Markham, ON - Indeed.com","CIeNET is a mobile, automotive and enterprise software services and solutions research, engineering and development company founded in the U.S. in the year 2000. We currently have 2,200 employees worldwide, supporting customers in North America, Asia and Europe. We have over ten locations across US, Canada, Mainland China and Taiwan. CIeNET has been named Global Outsourcing 100 in thirteen consecutive years. CIeNET has become an ALTEN Group company recently.
+CIeNET is expanding its presence in Canada to better serve our industry leading customers in Advanced Driver Assistance Systems (ADAS) and Autonomous Driving control and safety software engineering. We are working on state-of-the-art technologies and products that will bring advance ADAS features and Autonomous Driving technologies to life in the years to come.
+CIeNET Canada is looking for intelligent, creative, enthusiastic and diligent software professionals to join our team and shape the great future of your career with us.
+Requirements
+The successful candidate will be part of the integration team contributing to strengthen and optimize the development environment and workflows for ADAS (Advanced Driver Assistance Systems) projects by improving automation, code quality and processes while reducing overall software build times.
+Key Responsibilities
+Create, maintain, improve, and evolve the Continuous Integration (CI) and Continuous Delivery (CD) processes for new and existing services to reduce manual/repetitive tasks
+Architect robust technical design solutions with a focus on quality, scalability, real-time processing, and availability
+Work collaboratively with several development teams throughout the company and around the globe to help deliver end-to-end products and features that support our latest Automated Driving and Active Safety programs/features
+Ensure continuous operation of delivered services and framework by quickly fixing issues and preventing future failures
+3+ years of professional experience in software integration, CI/CD and/or DevOps with experience in tooling, infrastructure solutions and automated testing
+Experience working within both Windows and Linux platforms
+Experience with virtualization and container-based solutions (ie., Docker, Kubernetes)
+Prior software development experience, preferably in C/C++ with exposure to bash, python and windows batch
+Experience with CMake build configurations
+Experience with GNU gcc (and derived compiler toolchain)
+Strong knowledge of Jenkins, pipelines and use of GIT-based review management tools
+Experience providing guidance, leadership, and mentoring to team members
+Ability to independently investigate issues based on limited information, demonstrating high level of analytical ability to resolve complex problems
+Creative, disciplined, strong sense of responsibility, delivery, and schedule commitment
+Strong leadership and interpersonal communication skills
+Qualifications
+Preferred Skills and Experiences:
+Strong understanding of major automotive vehicle systems such as Advanced Driver-Assistance (ADAS), Motion Control, Automotive Network, and Powertrain
+Experience with Automotive Communication Protocols (Ethernet/CAN/LIN)
+Experience with SAFe methodologies
+Experience in working with distributed teams situated globally
+Experience with the QNX OS and build toolchain QCC
+Experience with Adaptive AUTOSAR service-based vehicle platform
+Experience with Unit Test tools e.g. (CppUTest, Google Test etc) and respective Jenkins plugins
+Education and Training:
+Bachelor's degree in Computer Science, Electrical Engineering, or an equivalent program
+Benefits
+Competitive compensation, Group insurance, RRSP employer match, three weeks vacation.
+CIeNET offers equal opportunities to people. Accommodation is available for applicants with disabilities upon required. We would like to thank all applicants for expressing interest. However only those selected for interviews will be contacted. Reference check of certain positions will be conducted with your permission."

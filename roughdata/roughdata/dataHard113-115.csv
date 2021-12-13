@@ -1,0 +1,1047 @@
+Title,Description
+"Software Engineer - Data Analytics & Visualization - Vancouver, BC - Indeed.com","POSITION PURPOSE
+Your position as a Software Engineer & Data Analyst is vital to Image Engine. Your intuition and experience presenting data to both technical and non-technical users empowers you to build tools and interfaces that serve data-driven decision making at all levels of VFX production.
+Reporting to the Software Engineering Supervisor, you will design, develop, and maintain end-to-end data gathering, analysis, and visualization tools. You will build intuitive, visual end-user experiences that directly impact the way we approach VFX. You will have significant responsibility and influence in shaping Image Engine’s approach to data analytics. Your clients will be our internal Producers, VFX Supervisors, Art/Content Supervisors, along with Finance & various Senior Managers.
+Projects may include data-driven bidding, progress tracking, and projection tools for VFX Producers; software & hardware analytics on our ~50k vCPU “private cloud” to drive purchase decisions, or to inform CG workflow changes; Render cost predictions to drive storage decisions on our 4 petabyte local storage or to detect “cloud-burst” requirements and identify cloud-capable render jobs.
+Your passion, talent, and ideas will help us bring VFX at Image Engine to the next level of efficiency and performance.
+DUTIES & RESPONSIBILITIES
+Design, implement, and support a mixture of proprietary, open-source, and third-party software for data gathering, warehousing, transformation, analysis, and visualization
+Collaborate with producers, supervisors, and managers to determine analytics & visualization needs for current and future productions
+Create data visualizations that are intuitive & informative for non-technical audiences
+Identify and optimize bottlenecks in data gathering & analytics algorithms and workflows
+Document, test, and debug tools to ensure they meet production requirements
+Provide technical support, training, and tutorials to Production Staff, Supervisors, and Managers
+Stay up-to-date with industry trends for data analytics & visualization
+EDUCATION AND EXPERIENCE
+A university degree in Computer Science, Math, Statistics, Engineering, or a related field
+2 or more years industry experience developing data warehousing, analysis, and visualization tools, or a postgraduate degree (MSc, PhD) with a strong focus on information visualization
+Master's in Computer Science or a related field an asset
+SKILLS AND ABILITIES
+Technical skills
+Experience writing software in Python required
+Proficiency with SQL and elasticsearch required
+Keen data sense backed by strong data visualization skills
+Experience building ETLs and data pipelines within a sandboxed Linux environment
+Working knowledge of DevOps practices, CI/CD, Git and GitHub
+Experience with Kibana, Grafana, ReDash, or Knime an asset
+Familiarity with VFX production workflows & data formats an asset
+Core skills
+Team oriented with good communication skills, able to work closely with non-technical coworkers
+Preference for a structured work environment, with clearly outlined priorities
+Expectation of upfront planning before proceeding with final implementation
+Proactive with proven ability to work both independently and in a team
+Ability to take direction and feedback from a supervisor or a peer
+Excellent time management and communication skills
+Ability to monitor and identify potential inefficiencies with production workflows
+Excellent troubleshooting and debugging skills
+Ability to adapt quickly to new technologies and applications
+Willingness to extend beyond your current specializations to help a larger engineering effort when required"
+"Graphics Core IP Design Engineer - 117481 - Markham, ON - Indeed.com","What you do at AMD changes everything
+At AMD, we push the boundaries of what is possible. We believe in changing the world for the better by driving innovation in high-performance computing, graphics, and visualization technologies – building blocks for gaming, immersive platforms, and the data center.
+Developing great technology takes more than talent: it takes amazing people who understand collaboration, respect, and who will go the “extra mile” to achieve unthinkable results. It takes people who have the passion and desire to disrupt the status quo, push boundaries, deliver innovation, and change the world. If you have this type of passion, we invite you to take a look at the opportunities available to come join our team.
+GRAPHICS CORE IP DESIGN ENGINEER
+THE ROLE:
+This opportunity is for a full-time, experienced individual who has a passion for the digital design and verification of large-scale, complex computer hardware processors. The successful candidate will be working as part of an agile team developing, verifying, and delivering IP for AMD’s next generation graphics (GFXIP) cores. Our design engineers enjoy challenges making speed, area and low power tradeoffs while driving functionality to closure. We use state-of-the-art tools & methodologies to deliver into cutting-edge silicon technologies. The successful candidate will work closely with architects, other design and verification engineers to contribute to the development of new feature design and quality improvement of existing designs.
+THE PERSON:
+Besides a passion for modern, complex processor architecture, digital design, and verification in general, these personal qualities are essential to success in this role:
+Excellent analytical skills
+Outstanding critical thinking and problem-solving skills
+Comfortable working closely with others as part of a team
+A self-starter who excels at driving tasks to completion and enabling collaboration amongst team members
+KEY RESPONSIBILITIES:
+Study and analyze to gain a deep understanding of high-level architectural and micro-architecture specifications for Graphics Core IP blocks
+Digital logic design in Verilog and SystemVerilog including writing SystemVerilog Assertions (SVA) and cover properties to ensure highest quality
+Assist in Formal Property Verification (FPV) by working closely with FPV team to drive high confidence in the critical areas of the design earlier on during project life cycle
+REQUIREMENTS:
+Strong fundamentals in Digital Logic Design and Computer Architecture
+Must have RTL design or SVA development experience in at least one project from beginning (concept-phase) to end (tape-out)
+Several years of relevant ASIC IP design experience preferred
+Experience coding with Verilog or System Verilog or similar languages
+Experience with developing design assertions (SVA), coverage, lint and design methodologies
+Exposure to design and verification tools - VCS or equivalent simulator, debug tools such as Verdi and waveform viewers
+Familiar with Linux programming and scripting, in Perl, TCL or similar
+Understanding of micro-architecture and design of blocks such as arbiters, interconnect networks and caches an asset
+Exposure to Formal Property Verification (FPV) using tools such as Synopsys VC Formal or Cadence JasperGold an asset
+ACADEMIC CREDENTIALS:
+Bachelor’s (preferably Master’s) degree in Computer Engineering, Computer Science, Electrical Engineering or similar
+LOCATION:
+Markham, ON Canada
+#LI-PH1
+Requisition Number:
+117481
+Country:
+Canada
+Province:
+Ontario
+City:
+Markham
+Job Function:Design
+AMD is an inclusive employer dedicated to building a diverse workforce. We encourage applications from all qualified candidates and will accommodate applicants’ needs under the respective provincial human rights codes throughout all stages of the recruitment and selection process.
+Any applicant who requires accommodation should contact
+AskHR@amd.com
+.
+AMD does not accept unsolicited resumes from headhunters, recruitment agencies or fee based recruitment services."
+"System Software Engineer - Deep Learning MIGraphX Performance Developer - 126821 - Markham, ON - Indeed.com","What you do at AMD changes everything
+At AMD, we push the boundaries of what is possible. We believe in changing the world for the better by driving innovation in high-performance computing, graphics, and visualization technologies – building blocks for gaming, immersive platforms, and the data center.
+Developing great technology takes more than talent: it takes amazing people who understand collaboration, respect, and who will go the “extra mile” to achieve unthinkable results. It takes people who have the passion and desire to disrupt the status quo, push boundaries, deliver innovation, and change the world. If you have this type of passion, we invite you to take a look at the opportunities available to come join our team.
+System Software Engineer – Deep Learning MIGraphX Performance Developer
+The Role:
+In this role we are seeking a software development engineer to join a development team building and optimizing Machine Learning system software for AMD GPU compute platforms. The individual will be part of a development team and open-source community which analyzes, develops, tests, and deploys improvements to make AMD the best platform for machine learning applications.
+The Person:
+The ideal person has strong technical and analytical skills in C++ development in a Linux environment. They must have the ability to work as a member of a team, while also being able to work independently, define goals, scope, and lead their own development effort.
+Key Responsibilities:
+Build solutions for machine learning inference for AMD GPUs.
+Design and develop lower level system software that works with underlying libraries, runtime systems and hardware.
+Analyze and optimize solutions to achieve the highest performance.
+Test and deploy these solutions.
+Work with cutting-edge compiler technologies.
+Apply one's knowledge of software engineering best practices.
+Preferred Experience:
+Excellent C/C++ programming and software design skills including debugging, performance analysis, and test design.
+Experience developing software in Linux environment including commonly used tools.
+Basic understanding of Deep Learning.
+Academic Credentials:
+Bachelor's, Master's, or PhD or equivalent experience in Computer Science, Computer Engineering, or related field.
+Location:
+Markham, Ontario, Canada
+#LI-JG1
+Requisition Number:
+126821
+Country:
+Canada
+Province:
+Ontario
+City:
+Markham
+Job Function:Design
+AMD is an inclusive employer dedicated to building a diverse workforce. We encourage applications from all qualified candidates and will accommodate applicants’ needs under the respective provincial human rights codes throughout all stages of the recruitment and selection process.
+Any applicant who requires accommodation should contact
+AskHR@amd.com
+.
+AMD does not accept unsolicited resumes from headhunters, recruitment agencies or fee based recruitment services."
+"Firmware Design Engineer - Senior - Montréal, QC - Indeed.com","Responsibilities:
+What do you get to do in this position?
+As a firmware senior designer and part of the software development team at Schneider Electric in Montreal the candidate is responsible for all aspects of the software development. Using the principles of software engineering, agile methodologies and cybersecurity, he/she designs, develops, tests and documents software according to the product management specifications.
+Working closely with the software designers, software architects, hardware designer, verification & validation specialists and technical writers, the duties will consist but not limited to the following:
+Understand and clarify product requirements
+Collaborate with colleagues and stakeholders
+Design, develop, test and maintain software
+Design, develop and maintain automated unit tests
+Review design, code and test
+Document the design, implementation and test results
+Improve and maintain continuous integration tools infrastructure
+Produce high quality and highly secure software (static analysis, dynamic analysis) according to specifications
+Maintain continuous integration tools infrastructure
+Analyze, plan and estimate efforts then commit and deliver accordingly
+This job might be for you if you are/have:
+Graduated in computer science, software engineering or equivalent (ex: EE);
+A minimum of 5 years’ experience in a similar role;
+Experience in Embedded or Real-time Development on Linux platform (kernel and user space);
+Solid experience in Embedded Software Development in C and some C++;
+Solid experience in wireless protocols (WIFI) including design, development, testing and certification;
+Experience with GCC tools as well as IAR or Keil tools;
+Scripting skills in Python;
+Experience with product and solution cybersecurity (HW/SW);
+Experience in unit testing;
+Experience in continuous integration;
+Experience in Application Development mixing multiple languages;
+Experience in Multi-Threaded/Multi-Process applications and distributed solutions;
+Knowledge of IP networking and network topologies (ex: mesh, star, p2p);
+Analytical skills using standard methodologies (ex: Six Sigma);
+Experience with communication protocols and web services;
+Experience in debugging software and hardware as well as complex wired/wireless solutions;
+Comfortable using lab tools such as (Scope, Multimeter, Digital analyzers…) for testing and analysis;
+Knowledge of Linux build systems (Yocto or Buildroot or OpenWRT);
+Bilingual (French / English)
+(External) English Qualifications:
+Let us learn about you! Apply today.
+(External) English Company Boiler Plate:
+Why us?
+Schneider Electric is leading the digital transformation of energy management and automation. Our technologies enable the world to use energy in a safe, efficient and sustainable manner. We strive to promote a global economy that is both ecologically viable and highly productive.
+€25.7bn global revenue
+137 000+ employees in 100+ countries
+45% of revenue from IoT
+5% of revenue devoted for R&D
+You must submit an online application to be considered for any position with us. This position will be posted until filled
+It is the policy of Schneider Electric to provide equal employment and advancement opportunities in the areas of recruiting, hiring, training, transferring, and promoting all qualified individuals regardless of race, religion, color, gender, disability, national origin, ancestry, age, military status, sexual orientation, marital status, or any other legally protected characteristic or conduct. Concerning agencies: Schneider Electric does not accept unsolicited resumes and will not be responsible for fees related to such."
+"SR SW SYSTEMS ENGINEER (Toronto) - Thornhill, ON - Indeed.com","There has never been a better time to join Extreme, with several acquisitions extending our portfolio and go to market strategy, we have seen enormous opportunity and growth within the region.
+Aside from being a Technology Leader in the Gartner Magic Quadrant, we also adamantly promote an internal culture that truly embraces diversity, inclusion and equality in the workplace. Having Diversity and Inclusion as part of our core values and beliefs, we’re proud to foster an environment where every Extreme employee can thrive
+because
+of their differences, not despite them.
+Senior Software Systems Engineer (Toronto)
+Seeking an embedded systems platform system design and development engineer with good understanding of underlying hardware to work on next generation networking products at Extreme Networks.
+Responsibilities include platform module development, integrating PHY drivers from multiple vendors, identifying and integrating Linux OS changes/upgrades necessary and working on Linux networking components as well. In addition, work on platform infrastructure, I2C, MDIO, and Kubernetes based docker/microservices. This would also involve working on open-source components, patching, building and installation of open source components. As an individual contributor, one should be a team player and should work in a multi-site mode along with other teams in different time zones as well.
+The skill-set required:
+BS/MS preferably in the field of Electronics & communications or Computer Science.
+Work experience of 5+ years in the following areas:
+switch/router H/W and S/W arch and knowledge of networking domain
+platform infrastructure & embedded software device driver development in switches/ routers.
+Familiar with – Broadcom MACs and PHYs and Barefoot components and their SDKs
+Experience in working with Linux networking components; using ONL/ONLP, IPMI, etc is essential
+Worked on Linux device driver for various devices and interfaces - FPGA/CPLD, I2C, SPI, MMC/SD, PCI, USB, SATA and be familiar with DMA and interrupts in Linux
+Linux build infra and tools including exposure to Linux embedded boot environment - Uboot, ONIE, UEFI/BIOS would be helpful
+Debugging skills - using GDB, Kernel and drivers level debugging and application level debugging.
+Experience in VMs and Dockers with microservices architecture would help
+Programming in C, C++ and scripting language (shell script and python)
+Source version control tool and environment - GIT and Jenkins
+Extreme Networks, Inc. (
+EXTR
+) creates effortless networking experiences that enable all of us to advance. We push the boundaries of technology leveraging the powers of machine learning, artificial intelligence, analytics, and automation. Over 50,000 customers globally trust our end-to-end, cloud-driven networking solutions and rely on our top-rated services and support to accelerate their digital transformation efforts and deliver progress like never before. For more information, visit Extreme's
+website
+or follow us on Twitter, LinkedIn, and Facebook.
+We encourage people from underrepresented groups to apply. Come Advance with us! In keeping with our values, no employee or applicant will face discrimination/harassment based on: race, color, ancestry, national origin, religion, age, gender, marital domestic partner status, sexual orientation, gender identity, disability status, or veteran status. Above and beyond discrimination/harassment based on “protected categories,” Extreme Networks also strives to prevent other, subtler forms of inappropriate behavior (e.g., stereotyping) from ever gaining a foothold in our organization. Whether blatant or hidden, barriers to success have no place at Extreme Networks.
+#LI-ME1"
+"Senior QA Engineer - Waterloo, ON - Indeed.com","BicDroid Inc. – Waterloo, ON
+Located in Waterloo, ON, Canada, BicDroid Inc. (""BicDroid"") is a world technology leader in data and cyber security and has been selected by ""Fortune Global 500"" companies to protect their server data, enhance the security of their smartphones, and provide secure and reliable remote work solutions for their employees. Built on patented key technologies including quantum safe key management, end-to-end cryptographically secure access control (ECSAC), smart integration of ECSAC and encryption, secure hardware and OS level virtualization, and cryptographic partition for data self-protection, BicDroid’s products make data immune to malicious attacks, protecting data anytime, anywhere, and against any known/unknown threats including ransomware, malicious insiders, supply chain attacks, and fileless attacks. They include QDocument (server-side, client-side, and transmission security) and Quarantined Work Space (QWS), the most innovative, secure, reliable remote work solution on the market, and have been deployed in
+hundreds of millions
+of devices. With its recent advanced coding techniques for distributed file systems, BicDroid also offers high performance Hadoop.
+We are looking to add a QA Engineer to our Waterloo team. The candidate will be expected to communicate with the QA and development teams, and have analytic / problem-solving skills.
+The ability to develop testing strategies, identify problems, and draw up test documents and reports will be required as well. With new security development features always in progress the candidate will need to use their knowledge of operating systems, networking, security, et al to develop new ways to verify/validate, break, and/or breach these new features.
+Job Responsibilities:
+Meeting with development team to determine quality assurance parameters, and provide feedback throughout the testing cycle.
+Performing both automated and manual testing on a variety of Unix/Linux distros/kernels.
+Be a team player that can work independently with minimum supervision.
+Troubleshooting quality issues and modify testing procedures as needed.
+Provide quality assurance reports based on the company requirements.
+Responding to requests from the design team, deployment team, and management.
+Implement, read and comprehend QA code and test plans with minimum supervision.
+Evaluate feedback from customers to improve documentation and deployment.
+Document the testing and deployment procedures.
+Required Skills:
+Bachelor's degree or higher in Computer Science, Computer Engineering, or related fields.
+Have knowledge and working experience with Unix/Linux distros.
+Ability to write C and Python code plus Unix shell and Expect scripts.
+Know different operating system designs & concepts (i.e. monolithic vs micro kernels).
+Possess knowledge and experience of different file transfer and network protocols.
+Knowledge of security concepts (firewalls, ACLs, signatures, PPKs, etc.) is an asset.
+Familiarity with Robot testing framework and Pytest are assets.
+High-level analytical and problem-solving experience.
+Good written and verbal communication skills.
+Familiarity with an issue tracking product, preferably JIRA.
+Familiarity with a version control system, preferably Git.
+Familiarity of co.
+Other Job Details:
+Ability in C++ is not an ability in C. We require C experience.
+Experience in Python must be more than ""simple"" programs.
+Career Development and Training:
+Working with experienced industry professionals you will have the opportunity to learn one-on-one about specific topics in-depth as part of your job and/or if you have a particular interest in a topic.
+Education and Experience:
+Bachelor/Masters of computer science or electrical and computer engineering, etc.
+Benefits:
+Employer RRSP contribution matching.
+Extended health benefit plan (after 3 month probation period) covering prescriptions, eye wear, dental.
+Job Type: Full-time
+How to Apply?
+Please send your resume and cover letter to:
+careers_ca@bicdroid.com"
+"Software Group Lead (VCC) - Toronto, ON - Indeed.com","Location: Toronto, Canada
+Thales people architect solutions that support 85 million mainline and suburban passenger journeys, worldwide, every day. Our Rail Signalling and Communication systems are used on metro lines across major cities, and 72,000 kms of route, 52,000 trains per day in 16 countries are controlled by our Traffic Management Systems. Together We deployed the first-ever nationwide ticketing system which processes over 50 million ticketing transactions in 100 cities daily.
+Thales provides world-leading Communications-Based Train Control (CBTC) and interlocking for mass rail transit applications globally. The Centre of Competence for Urban Rail Signalling is located right before you at mid-town Toronto. As the largest office in Canada, we house a department for every step of the Software Development Lifecycle (SDLC)! This includes Software, Hardware, Systems Design, Verification & Validation, Operations, etc. The supporting corporate shared services teams in Finance, Human Resources and IT is also located at the office. Our office space was designed to provide a sustainable, healthy workplace that expresses TRSS’s brand while increasing collaboration. Features include Greenguard furniture, EnergyStar appliances, low-emitting adhesives, sealants, and sliding glass doors on internal offices provide daylight and views to the outside. Come join the big Transport family, here in Toronto!
+We are looking for a Software Group Lead to join our Software Engineering team!
+S/he is responsible for supervision, planning, progress and technical guidance of the team. S/he will also be technically supervising the architecture of software components and its consistency with the overall sub-system/system software architecture.
+Key Responsibilities:
+Understands the customer’s needs and through life cycle concerns whatever the used means (e.g. advanced studies, simulations, mock-ups, models, prototypes, etc.)
+Plans, coordinates and monitors the performance of the work, identifies and manages risks
+Manages and coordinates internal teams
+Contributes to the formalization of mission/function description, architectural and algorithms design and the refinement of functional and non-functional requirements
+Designs, codes, debugs, write test procedures and tests software code, chairs design reviews
+Reviews code, test procedures and test results
+Analyzes and implements correction for defect reports
+Perform engineering testing in the field and investigates problems in the field
+Provides some inputs for cost estimates
+Assists Functional Manager in providing training, leadership and motivation to the staff
+Contributes in co-engineering activities with the Systems Engineering team in order to ensure system-software consistency and the right refinement of software components and compliance with the software architecture
+Solves tasks in the best technical and timely manner
+Looks for opportunities to make suggestions for improvement
+Keeps abreast of new technology developments and help to evaluate new products and processes to improve current software development
+Can also spend a part of his/her time in Work Package Management (WPM) within his/her technical domain
+Defines and maintains all software architecture for the entire lifecycle of the project/product
+Leads and coordinates software architecture strategies
+Supports assessment of trade-offs between aspects of cost, schedule, requirements and technological possibilities
+Ensures that the software team adheres to in-scope standards, software reuse policy and software development plans
+Required Skills and Experience:
+Bachelor's degree in Computer Science, Engineering or a closely related field
+Minimum of 8 years relevant Senior level experience in development of software for embedded systems using programming languages such as C and C++
+Expert level analysis skills, able to diagnose issues based on field logs and correlate events to failures
+Able to handle assignments within a medium to large scale software application
+Knowledgeable of the software development processes
+Able to quickly integrate with the team and work independently
+Knowledge of software development environment (Microsoft Visual Studio, desktop simulator, target simulator etc.)
+Expert level knowledge of railway signaling techniques including of SelTrac CBTC
+Experience in working within an team using Agile Methodologies
+Practical experience in using typical programs which are part of Microsoft Office Suite
+Practical experience with source control, IDE and requirements management tools (e.g. Eclipse, Jira, Git, ClearCase, ClearQuest, Doors, etc.)
+Preferred Skills and Experience:
+Expert level experience in development of software for embedded systems using programming languages such as C and C++
+Expert level experience in development of software in Java, C-Sharp, Assembly and Python programming languages will be considered an asset
+Expert level experience in using scripting languages such as Perl, Ruby etc.
+Expert level experience in Modelling and Simulation
+Able to program on various operating platforms (i.e. Windows, Linux, Unix etc.)
+Professional Engineer (P.Eng.) Licence or Project Management Professional (PMP) designation is an asset
+Thales is an equal opportunity employer which values diversity and inclusivity in the workplace. Thales is committed to providing accommodations in all parts of the interview process. Applicants selected for an interview who require accommodation are asked to advise accordingly upon the invitation for an interview. We will work with you to meet your needs. All accommodation information provided will be treated as confidential and used only for the purpose of providing an accessible candidate experience."
+"FPGA Place and Route Architect - Waterloo, ON - Indeed.com","Description
+At Xilinx, we are leading the industry transformation to build an adaptable, intelligent world. ARE YOU bold, collaborative, and creative? We develop leaders and innovators who want to revolutionize the world of technology. We believe that by embracing diverse ideas, pushing boundaries, and working together as ONEXILINX, anything is possible.
+Our culture of innovation began with the invention of the Field Programmable Gate Array (FPGA), and with the 2018 introduction of our Adaptive Compute Acceleration Platform (ACAP), has made a quantum leap in capability, solidifying our role as the adaptable platform supplier of choice. From the beginning, we have always believed in providing inventors with products and platforms that are infinitely adaptable. From self-driving cars, to world-record genome processing, to AI and big data, to the world's first 5G networks, we empower the world's builders and visionaries whose ideas solve every day problems and improve people's lives.
+If you are PASSIONATE, ADAPTABLE, and INNOVATIVE, Xilinx is the right place for you! At Xilinx, we care deeply about creating significant development experiences while building a strong sense of belonging and connection. We champion an environment of empowered learning, wellness, community engagement, and recognition, so you can focus on work that matters - world class technology that improves the way we live and work. We are ONEXILINX.
+Job Description
+Xilinx is looking for a staff software engineer with expertise in Algorithms and Graph Theory and strong C++ programming skills. The person will be part of FPGA Software Implementation Tools team, with responsibility to research and develop novel algorithms and techniques to compile user applications on FPGAs with the goal of achieving high performance.
+Xilinx's new hardware programmable SoC FPGAs and Adaptive Compute Acceleration Platform (ACAP) deliver most dynamic processor technology and are achieving record performances in Data Center, Wireless/5G, Automotive/ADAS and Emulation applications. These new applications and heterogeneous computing architecture brings in new challenges in compilation, particularly in placement and routing.
+Xilinx's Software Implementation Tools team addresses these challenges. As a part of this team, you will work on evaluating new FPGA architectures and it's impact on existing EDA tools, and develop new algorithms with the aim of improving Quality of Results (QoR), Compile Time, and Memory Usage by orders of magnitude. You will also be interacting with the field and customers, helping them meet their requirements.
+Job Requirements
+Expertise in C++.
+Knowledge of Data structures, Graph Theory and Algorithms.
+Knowledge of EDA Algorithms and Distributed Computing is a plus.
+Knowledge of Digital Design and FPGA is a plus.
+Qualifications - External
+Education Requirements/Years or Experience
+BS with 8+ years of experience or MS with 6+ years of experience or PhD with 3+ years of experience in Computer Science, Computer Engineering, Electrical Engineering or related equivalent.
+Open to candidates working remotely in the Toronto area"
+"Embedded Software Developer - Winnipeg, MB - Indeed.com","EMBEDDED SOFTWARE DEVELOPER
+ABOUT US:
+Smartrend Supply Ltd., established in 2004, is a leading manufacturer of customer-specific components and assemblies for transportation and general industrial applications. In 2018, First Light Safety Products was created as a subsidiary of Smartrend Supply Ltd. First Light, an innovative and progressive organization, incorporates LED technology into essential safety indicators to improve the visibility of school buses, thus increasing the safety of drivers and passengers of buses and other motor vehicles. Both organizations share a 29,000 sq ft, state of the art manufacturing facility.
+SUMMARY:
+The
+Embedded Software Developer
+is a detailed professional who has strong problem-solving skills and able to work under pressure and time constraints. The ESD will develop system architecture design for SMG and FL’s line of products. The successful candidate is a team player and is capable of presenting technical information to customers and our internal team.
+DETAILED DUTIES AND RESPONSIBILITIES:
+Develop User and System specifications.
+Develop System Architecture Design.
+Implement software based on specifications and design.
+Architect, design and develop embedded software applications utilizing C/C++, assembly, Perl, and/or python.
+Work closely with System, Hardware, and test engineers throughout the embedded software design/development life cycle.
+Work directly with customers to ensure embedded software meets key mission requirements.
+Document software design and participate in design and code reviews.
+Perform software/hardware integration during software development and unit testing.
+KNOWLEDGE, SKILLS, AND ABILITIES REQUIRED:
+Education: BS Degree in Electrical or Computer Science or equivalent.
+Knowledge of Linux systems.
+Knowledge of Real-Time Operating Systems.
+Knowledge of IP networks, SNMP, managed network devices.
+Knowledge of CAN Bus and J1939.
+Familiarity with automated build environments, test strategies, and static code analysis.
+Experience with working and debugging electronics.
+Experience in designing transportation, agriculture, and/or construction vehicle electronic devices/systems.
+Understanding of FMEAs and DFM (design for manufacturing) guidelines.
+Possess creativity for production development.
+Exposure to design and verification testing methods.
+Must posses excellent communication skills to collaborate with customers and multiple disciplinary teams.
+Project management, leadership, and presentation skills is an asset.
+ability to work well under pressure and under tight timelines.
+Able to travel between Canada, the USA, and internationally, as required.
+Share with us your talent, drive, and entrepreneurial spirit and we will provide a creative and supportive environment, where valuable contributions are rewarded and celebrated with professional growth, job satisfaction, and an attractive total compensation program. We offer a benefits package to our employees including:
+Group Insurance Plan.
+Paid Vacations.
+We would like to thank all applicants who apply, however, only those selected for an interview will be contacted.
+About Smartrend Manufacturing Group:
+Established in 2004, Smartrend Manufacturing Group (SMG) is a supply chain company specializing in customer- specific engineered components and assemblies for OEMs and industrial producers. We bring value to our customers with efficiently designed and manufactured parts, made to their specifications, and delivered on their schedule. We focus on collaborative efforts with our customers to provide the lowest total cost of acquisition. We operate in three countries with 30 direct team members.
+Job Type: Full-time"
+"Maintenance Worker - Calgary, AB - Indeed.com","Position
+Maintenance Worker
+Location
+Calgary
+Status
+Casual leading to Part Time / Full Time
+Work hours
+8 hours a day, occasional weekends as needed
+Start Date
+Until suitable candidate found
+Description
+Wing Kei has two ongoing priorities: to serve seniors with devotion and maintain a work culture that in many ways resemble a big family, one that excels. Our efforts toward excellence and continuous improvement speak for themselves: To care for those who once cared for us is one of the highest honors. Join us if you share the same vision and passion as ours in building and maintaining a quality home for our seniors!
+POSITION SUMMARY
+Under the supervision of Director of Finance and Hospitality, or designate, the maintenance worker partners up with Wing Kei’s multidisciplinary teams in providing a safe and clean living and working environment for our seniors and our staff. The position will be responsible for applying basic fixes, preventative maintenance program and general repairs to building systems and equipment and ensure the facilities are safe, tidy and functional.
+THE ROLE
+Key Accountabilities
+Demonstrate, promote and advocate the Wing Kei vision, mission and core values
+Inspect and Troubleshoot equipment and systems upon request, ensure all equipment within the premises are in good conditions
+Implement preventive maintenance program based on manufacturers’ requirement to assure optimal working conditions of equipment, including but not limited to scheduled checks on functionality of building and equipment
+Assist in installation and implementation of new hardware and systems and assist in providing in-services to users from multidisciplinary teams
+Maintain a clean and organized maintenance room for storage of tools, parts and supplies
+Participate in meetings, in-services and trainings to keep up-to-date with best practices
+Maintain good documentation of working procedures and service progress
+THE INDIVIDUAL WHO WILL SUCCEED
+Is aligned with Wing Kei’s vision and mission to continue to deliver excellence in seniors care
+Certified 4th Class Power Engineer or equivalent will be an asset
+Minimum 1 year electrical or mechanical trades experience preferred
+Has basic knowledge of preventive maintenance programs for building systems
+Is reliable with attention to details and consistent problem solving ability
+Ability to prioritize tasks and is self-motivated
+Functional knowledge in using electronic devices and computer software
+Communicates well in writing and speaking; ability to communicate in Chinese is an asset
+Benefits:
+Package includes:
+Dental Insurance
+Health Insurance
+Life Insurance
+Wellness Program
+Pension
+We are an equity employer and encourage applications from all genders, persons with disabilities and visible minorities who may contribute to the wellbeing of our residents.
+All new employees must complete a Criminal Records Check in accordance with the Protection for Persons in Care Act. In compliance with Alberta Health’s Infection Control standards, all new employees are required to provide a copy of their Tuberculosis or Chest X-Ray paperwork and a proof of positive immunity of MMR within 30 days of their date of hire.
+Thank you for your interest in working at Wing Kei. Unless you are contacted for an interview, you will receive no further acknowledgment of your application.
+How to Apply:
+Please send resume:
+by E-Mail to:
+careers@wingkei.org
+or by Fax to:
+1-866-281 5988
+or by Mail to:
+Wing Kei
+1212 Centre Street NE
+Calgary, Alberta T2E 2R4
+Attn: Human Resources
+If you do not have a resume, please submit an application form in WORD or PDF or ONLINE format."
+"OT Industrial Network Field Support Specialist - Lloydminster, SK - Indeed.com","OT Infrastructure Technical Support Specialist
+PENGCORP CHAMPIONSHIP TEAM
+Based in the Lloydminster, AB area the company is seeking a highly-motivated individual who is able to provide technical support to field customers who need assistance utilizing and optimizing hardware and software performance. Responsibilities include monitoring and maintaining good health of computer systems and networks for various plants. The ideal team member will carry out installation and configuration of computer and network systems, diagnosing hardware and software faults and solving technical and application problems, either over the phone or in person. Depending on the size of the client being serviced this role may span one or more areas of expertise as needed by the team lead supporting ICS and IT initiatives.
+ROLE
+Maintain high-availability of OT infrastructure (e.g. network, telecommunication, structure wiring, fiber optic, satellite, microwave and/or cellular radios, workstations, servers, operating systems, antivirus, industrial applications, etc.).
+Work in coordination with senior OT resources to implement process-oriented architecture principles to meet organization’s availability, integrity, and confidentiality requirements.
+Install and configure hardware, software, and peripheral equipment in accordance with organizational standards.
+Maintain plans/processes/procedures for modifying and improving OT infrastructure taking into consideration technology that enhances users/field experience.
+Maintain technical accuracy and soundness of engineering and/or technical practices based on sound design criteria, specifications, and standards as related to the project requirements. Among others, this includes standards at minimum such as:
+CSA Z246.1
+NIST SP800-82
+ISA99/IEC62443, ISA 84
+NERC CIP
+Provide technical leadership on project teams in conjunction with project management and multi-department personnel.
+Assist other engineers and technical staff in problem solving, troubleshooting, and application of industrial control devices.
+Work in coordination with senior OT resources to apply security policies to maintain security objectives of the system.
+Ensure all systems operations and maintenance activities are properly documented and updated as necessary.
+Ensure that cybersecurity-enabled products or other compensating security control technologies reduce identified risk to an acceptable level.
+Implement specific cybersecurity countermeasures on-site for systems and/or applications (i.e. Standalone systems).
+Integrate automated capabilities for updating or patching system software where practical and develop processes and procedures for manual updating and patching of system software based on current and projected patch timeline requirements for the operational environment of the system.
+Implement security measures to resolve vulnerabilities, mitigate risks, and recommend security changes to system or system components as needed.
+Diagnose and resolve customer reported system incidents, problems, and events.
+Troubleshoot system hardware and software.
+Analyze incident data for emerging trends.
+Maintain incident tracking and solution database.
+Perform asset management/inventory of OT resources.
+Provide input to the Risk Management Framework process activities and related documentation (e.g., system life-cycle support plans, concept of operations, operational procedures, and maintenance training materials).
+Perform Factory Acceptance Test (FAT) and Site Acceptance Test (SAT) as needed.
+Qualifications & Education Requirements
+College education in Electrical or Computer/Network or related subjects, preferably from an accredited college.
+Minimum certification and/or training as follows:
+Microsoft Certified Solution Associate (i.e. MCSA) – Windows Server 2012+, SQL
+Cisco Certified Network Associate – Industrial/Security/Routing & Switching (i.e. CCNA)
+Acronis Backup Specialist (ABS 12.5)
+Moxa Technical Support Certification (i.e. MTSC) – Networking, Wireless, Computing
+Radios/Cellular training (e.g. Motorola, Cambrium Network)
+Certified Fiber Optic Technician (i.e. CFOT)
+Certified Premises Cabling Technician (i.e. CPCT)
+WE OFFER
+A great place to work and advance your career, with a competitive salary and benefit package. Enjoy a flexible work schedule with minimum supervision and the opportunity to be part of a driven and motivated team that is penetrating a lucrative market."
+"Senior Software Engineer - Vancouver, BC - Indeed.com","Who is Recruiting from Scratch:
+Recruiting from Scratch is a premier talent firm that focuses on placing the best product managers, software, and hardware talent at innovative companies. Our team is 100% remote and we work with teams across the United States to help them hire. We work with companies funded by the best investors including Sequoia Capital, Lightspeed Ventures, Tiger Global Management, A16Z, Accel, DFJ, and more.
+If you are a fit, the team will reach out to you about this role or any others that may be a fit for our clients.
+Our Client
+A pioneer in K–12 education since 2000, our client is leading the way in next-generation curriculum and assessment. Their captivating core and supplemental programs in ELA, math, and science engage all students in rigorous learning and inspire them to think deeply, creatively, and for themselves. Their formative assessment products turn data into practical instructional support to help students at every skill level build a strong foundation in early reading and math. Their programs provide teachers with powerful tools that help them understand and respond to the needs of all their students. Today, our client serves five million students in all 50 states.
+Our client is a leader in creating immersive, rigorous digital learning experiences that look great, play great, and help students expect great things of themselves. Our client has been described as the best tech company in education, and the best education company in tech.
+What You’ll Do
+Impress the toughest customers around – K-5 graders – by:
+designing and building engaging, quirky, fast frontends using frameworks like Angular and React
+Make life better for passionate teachers by:
+architecting apps that meet the ultimate reliability and uptime challenge for digital tools – is this better than paper?
+building well structured and documented RESTful APIs so that our apps can share data with ease
+designing tools, workflows, and culture to ship code from your laptop to classrooms frequently and confidently
+Help school administrators build great schools by:
+building data pipelines that respect privacy and ensure security while offering useful insights
+implementing code that runs great across platforms under variable memory and network constraints
+analyzing performance and squashing tricky bugs using tools like DataDog, and AWS CloudWatch
+Learn every day by:
+leading collaboration, pull request-ing, and mentoring on a cross-functional team
+participating in cross-team share-outs, brownbags, and workshop series
+Example Projects You Might Work On
+Crafting immersive animated environments and characters using the latest web and canvas frameworks
+Architecting algorithms to select the right activity for the right student at the right moment.
+Modeling data from student activities to show teachers just the right advice
+Simulating hundreds of thousands of kids to implement scaling, stability, and security improvements
+Improving our deployment and testing automation pipelines
+Basic Requirements:
+BS/MS in Computer Science or equivalent
+5+ years of professional software development experience
+Strong CS and software engineering fundamentals
+2+ years experience with server-side development in Python. Node.js, Java (Dropwizard), are also relevant.
+Experience deploying production systems in the cloud (primarily AWS, but knowledge of GCP and Azure is relevant)
+Experience with database technologies (SQL, RDS, modeling, ORMs, tuning)
+Strong communication skills, written and verbal
+Preferred:
+Experience with tools we use every day:
+Build/Run:
+Serverless, Linux
+Storage:
+Postgres, S3, Snowflake
+Deploy:
+Terraform, AWS (EC2, Lambda, SQS, etc.)
+Monitoring:
+Datadog
+Secure data management and processing
+REST
+Experience with tools we don’t use and knowledge of when and how to use them
+Proven passion for building and learning:
+open source contributions, pet projects, self-education, Stack Overflow
+Experience in education or ed-tech
+Experience with live product support and remote teams
+Experience with a modern JavaScript framework (e.g. React)"
+"Onsite Technical Support - Edmonton, AB - Indeed.com","About Us
+Campus Support is a centralized service centre that supports its clients in making students the number one priority. We are committed to delivering essential operational, marketing and leadership support that enables each campus team to provide an exceptional educational experience. We are pleased to say that we are looking for an experienced IT professional to join our team!
+The purpose of the
+Onsite Technical Support (OTS) Tier 1
+is to provide and maintain the electronic data infrastructure necessary for the Campus to support communication and information storage, retrieval and security. Under direction of the Campus Director, the OTS is responsible for tailoring the Campus' infrastructure to its size and needs, setting up and monitoring the necessary computer hardware and software as well as providing guidance, direction and support to maximize staff performance and student studies with respect to technical supplies and resources.
+Job Responsibilities
+Specifically, the
+Onsite Technical Support
+person is responsible for:
+Configuring, maintaining and troubleshooting the campus IT infrastructure including, but not limited to, servers, internet, computers and peripherals, printers and software
+Providing high level technical support for both institution hardware and software to ensure campus runs smoothly
+Supporting the day-to-day operation of the Campus Support head office
+Delivering instruction that meets module and program objectives as set out in the curriculum
+Qualifications
+To be successful in the
+Onsite Technical Support
+role, the individual must be committed to developing, maintaining and demonstrating the following.
+Education and Experience
+Completion of post-secondary education
+A minimum of one years' experience in IT/network administrator or a related field
+Experience in supporting desktop applications, servers and AV equipment
+Working knowledge of Windows Operating systems
+Familiarity with reports such as cost-benefit analysis
+Certified Network Engineer (CNE) or Microsoft Certified Systems Engineer (MCSE) designation would be an asset
+An equivalent combination of education and experience will be considered
+Mac OS experience
+Mac OS development experience is preferred
+Working experience with visual and design applications such as Maya and Photoshop
+Basic understanding of Network equipment such as: Switches, Routers, access points & patch panels
+Intermediate knowledge of Active Directory administration
+Intermediate knowledge of Office 365 administration
+Skills and Abilities
+Strong interpersonal and communication skills
+Ability to communicate to employees and students in a simple and efficient manner
+Strong customer service focus
+Ability to work as a team with all products/groups
+Ability to multi-task in a dynamic environment
+Excellent time management and organizational skills
+Demonstrate and encourage high standards of behaviour, a professional attitude and commitment to quality service
+Ability to work cooperatively with employees and students
+Commitment to remain current in Onsite Networking Administrator technologies and certifications as appropriate
+Strong Networking knowledge, an aptitude for troubleshooting computer hardware
+Knowledge of PC and Mac operating systems, hardware and software applications
+Good grasp of relevant technical situations
+Strong skills in coaching, delegating and conflict resolution
+Excellent organizational skills with ability to multi-task
+Provisos
+Occasional overtime may be required"
+"Product Design Engineering Lead, Augmented Reality - Waterloo, ON - Indeed.com","Minimum qualifications:
+Bachelor's degree in Electrical Engineering, Computer Engineering, Physics, a related field, or equivalent practical experience.
+6 years of experience in product design for consumer electronics.
+Experience working with overseas/global contract manufacturers on joint development manufacturing projects.
+Experience working with external consulting firms.
+Preferred qualifications:
+3 years of experience managing a team.
+Optomechanical experience.
+Augmented Reality/Virtual Reality and devices and services experience.
+Advanced skills working cross-functionally with Electrical Engineering/Product Management/Industrial Design/Operations, etc.
+About the job
+Our computational challenges are so big and unique we can't just buy our hardware, we've got to make it ourselves. Our Platforms Team designs and builds the hardware, software and networking technologies that power all of Google's services. As a Mechanical Engineer you design and evaluate our data center systems, identifying product requirements and contributing to research and project planning. From the chip to chiller, you are responsible for designing and optimizing an architecture that will scale with Google's continued growth.
+With your technical expertise, you lead and manage projects, develop product and process improvements, provide consultation to others and help facilitate training and development.
+As a leading member of the Augmented Reality Product Design team, you’ll lead and oversee projects. You’ll work cross-functionally to incorporate new technologies into our designs, working with partners to build product-like development vehicles to test and showcase these technologies. You will also oversee accessory products through the design process to mass production and launch. You’ll manage resources and may manage a small team of internal contributors.
+The Google Augmented Reality and Virtual Reality team is a group of engineers, designers, and research scientists tasked with building the foundations for great immersive computing and prototyping helpful, delightful user experiences. We're focused on making immersive computing accessible to billions of people through mobile devices, and our scope continues to grow and evolve.
+Responsibilities
+Familiarize yourself with cutting-edge technologies in our area, and help envision product-like development vehicles that test and showcase these technologies.
+Work cross-functionally to develop designs that take into consideration the needs of many stakeholders.
+Take responsibility for executing on these designs with our Joint Design Manufacturing (JDM) partners.
+Ensure good outcomes by diving into the details, contributing to troubleshooting, planning testing, and validation.
+Build and manage a small team to support this effort.
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form."
+"Sr. Advanced Power Supply Design Engineer - Mississauga, ON - Indeed.com","Join a team recognized for leadership, innovation and diversity
+The future is what you make it.
+Working at Honeywell isn’t just about developing cool things. That’s why all of our employees enjoy access to dynamic career opportunities across different fields and industries.
+Are you ready to help us make the future?
+When you join Honeywell, you become a member of our global team of thinkers, innovators, dreamers, and doers who make the things that make the future.
+That means changing the way we fly, fueling jets in an eco-friendly way, keeping buildings intelligent and safe and even making it possible to breathe on Mars.
+This perfection is built on a foundation of inclusion, diversity and driving a performance culture that values integrity and ethics.
+We are seeking someone who brings the right experience designing Printed Boards Assemblies (PBAs) for Electronic Solutions within Honeywell Aerospace.
+This position in is Mississauga, ON
+Key Responsibilities:
+In this visible, design and developing technical role, you will be responsible for the following:
+Designing high reliability power electronics up to 300W, including isolated AC-DC and DC-DC converters, with associated EMI filters.
+Applying design solutions for EMC, familiar with standard requirements – preferably Aerospace and Military standards.
+Experience designing analog and digital circuits is a plus.
+Owns one or more complex power supply boards, in charge of development assignments, including supporting system trades, negotiating requirements derived from system requirements, developing architectures, completing design, analyses, and testing in an engineering laboratory setting.
+Ability to generate board layout constraint guidelines, oversee the layout and fabrication of the power supplies.
+Collaborates with a global, multi-disciplinary team of systems, mechanical, radiation effects, reliability, component, and manufacturing engineers.
+Partnering to reach effective solutions to medium complexity electrical engineering problems under moderate supervision.
+Following and tailoring best design practices and guidelines to ensure efficiency on given project task while ensuring design compliance and producibility.
+Supporting system integration activities such as qualification tests, coordinating build and test of engineering hardware for functionality and requirements verification.
+This position may require occasional business-related travel within Canada or globally.
+YOU MUST HAVE
+Bachelor of Science Degree in Electrical Engineering or Computer Engineering
+Minimum of 6 years experience in power supply design / power electronics
+Must have a valid Permanent Residency Card, or Canadian citizenship to meet client requirements.
+WE VALUE
+Master's/advanced degrees in an Engineering discipline
+Experience in power supply design / power electronics up to 300W, including isolated AC-DC and DC-DC converters, with associated EMI filters
+Experience designing module or box level high-reliability power electronics, including designs with various isolated and non-isolated switch-mode power supply topologies
+Experience performing and leading electrical hardware PBA level requirements development, preliminary and detailed design, design verification, and qualification spanning a high mix of moderate complexity commercial, defense, and space products and systems.
+Knowledge of DO-254 Design Assurance Guidance for Airborne Electronics, MIL-STD-704 (power quality), MIL-STD-1275 (power quality), and RTCA DO-160.
+Experience designing analog circuits including signal conditioning, data conversion (analog-to-digital and digital-to-analog), motor control, and sensors.
+Familiarity with Mentor CAD tools, LTspice.
+Able to communicate effectively and can clearly and concisely convey subtle or complex messages to a variety of audiences, both written and verbal.
+Accommodation is available upon request for applicants with disabilities under the Ontario Human Rights Code
+Additional Information
+JOB ID:
+HRD132215
+Category:
+Engineering
+Location:
+3333 Unity Drive,Mississauga,Ontario,L5L 3S6,Canada
+Exempt"
+"software developer - Oakville, ON - Indeed.com","Business Equipment and Computer Applications
+Microsoft Visual Studio
+Eclipse
+Applications
+Adobe Photoshop
+Adobe Premiere Pro
+Specific Skills
+Write, modify, integrate and test software code
+Identify and communicate technical problems, processes and solutions
+Prepare reports, manuals and other documentation on the status, operation and maintenance of software
+Assist in the collection and documentation of user's requirements
+Assist in the development of logical and physical specifications
+Research and evaluate a variety of software products
+Maintain existing computer programs by making modifications as required
+Write, modify, integrate and test software code for e-commerce and other Internet applications
+Programming Languages
+Visual Basic
+Visual C++ / MFC
+Servlet
+Object-Oriented programming languages
+MySQL
+Java
+HTML
+C
+C++
+Applet
+XML Technology (XSL,XSD,DTD)
+SQL
+Basic
+Soap
+Objective-C
+Angular.js
+Model-View-Controller (MVC)
+The Information Bus Company (TIBCO)
+Work Conditions and Physical Capabilities
+Fast-paced environment
+Work under pressure
+Attention to detail
+Sitting
+Tight deadlines
+Computer and Technology Knowledge
+Word processing software
+Spreadsheet
+MS Windows
+Internet
+Database software
+Intranet
+Servers
+Presentation software
+Communication software
+Image editing software
+Project management software
+HTML editing software
+Web service design
+Software development
+Mapping and data visualization software
+Website creation and management software
+MS Office
+Business diagram software
+Business intelligence
+Personal Suitability
+Initiative
+Effective interpersonal skills
+Accurate
+Team player
+Excellent oral communication
+Client focus
+Judgement
+Organized
+Network System And Data Communication Engineers Specific Skills
+Research, evaluate and integrate network system and data communication hardware and software"
+"Project Engineer (File Based, MAM & Playout Systems) - Burlington, ON - Indeed.com","This role would suit a person with a desire to work in a diverse position where there is always something new to learn. Being a global company, there are many opportunities to work closely with some of the largest media and entertainment (M&E) and broadcast companies in the world. We emphasize teamwork, promote creativity and enjoy being at the forefront edge of high-tech in our industry.
+Responsibilities:
+Stand-up media workflows and playout solutions for Media & Entertainment (M&E) customers globally
+Help customers streamline operations by adopting the industry’s leading workflow & playout solution
+Design and deploy public cloud compute infrastructure
+Design and deploy on-premises virtualization compute infrastructure clusters
+Configure file-based workflows and deploy custom scripts to build media content supply chains
+Configure playout systems to create linear broadcast and OTT streams
+Integrate third party hardware, software and APIs to create end-to-end media workflows
+Work with technical team lead and other team members in an Agile environment
+Own and deliver crucial elements of the project’s technical deployment
+Drive customer satisfaction by delivering systems to an agreed upon specification
+Routine reporting on project progress and issues to internal stakeholders
+Escalate issues to Research and Development team for resolution
+Requirements:
+Education in Computer Engineering, Software Engineering, Computer Science, Networking or similar technical discipline
+Excellent debug and problem resolution skills
+Ability to quickly learn new technologies and translate into practical use
+Knowledge of scripting languages (eg. JavaScript, Python)
+Familiarity with Linux operating system
+Knowledge of scripting languages (eg. JavaScript, Python)
+The following would be an asset in your day-to-day work in this role:
+Computer networking knowledge
+Experience with relational databases (e.g. MySQL, Amazon Aurora, MariaDB)
+Practical knowledge of public cloud compute platforms (e.g. AWS, Google, Azure)
+Experience with Agile work planning methods
+Experience with broadcast automation, device control and media management
+Knowledge of current digital video compression standards and file types
+What we Offer:
+Employer funded benefits program
+Competitive total compensation package
+Work-Life Balance
+Employee assistance plan, including an on-site Employee Support Counsellor
+Employee Discount Platform
+Career Progression
+Casual Work Environment
+Social Events and Sports Teams
+Location: Burlington, ON
+About Us:
+Evertz Microsystems (TSX:ET) is a leading global manufacturer of broadcast equipment and solutions that deliver content to television sets, on-demand services, WebTV, IPTV, and mobile devices (like phones and tablets). Evertz has expertise in delivering complete end-to-end broadcast solutions for all aspects of broadcast production including content creation, content distribution and content delivery. Considered as an innovator by their customers, Evertz delivers cutting edge solutions that are unmatched in the industry in both hardware and software. Evertz delivers products and solutions that can be found in major broadcast facilities on every continent. Evertz’ customer base also includes telcos, satellite, cable TV, and IPTV providers. With over 1700 employees, that include hardware and software engineers, Evertz is one of the leaders in the broadcast industry. Evertz has a global presence with offices located in: Canada, United States, United Kingdom, Germany, United Arab Emirates, India, Hong Kong, China, Singapore, and Australia. Evertz was named one of Canada’s 50 Best Managed Companies, which recognizes excellence in Canadian-owned and Canadian-managed companies. Canada’s 50 Best Managed Companies identifies Canadian corporate success through companies focused on their core vision, creating stakeholder value and excelling in the global economy.
+Evertz makes certain there is an equal employment opportunity for all employees and applicants for employment, including persons with disabilities. In compliance with AODA, Evertz will strive to provide accommodation to persons with disabilities in the recruitment process upon request. If you are selected for an interview and you require accommodation due to a disability during the recruitment process, please notify Human Resources upon scheduling your interview.
+Thank you for considering a career with Evertz
+mWpgfp"
+"Scrum Master - Brossard, QC - Indeed.com","Scrum Master - WD30129719300
+At Johnson Controls, we’re shaping the future to create a world that’s safe, comfortable, and sustainable.
+Our global team creates innovative, integrated solutions making the people, facilities, and assets safe with our industry leading security solutions.
+We are passionate about improving the way the world lives, works, and plays. This is an exciting opportunity to develop the next generation of AI-driven security solutions.
+Your role will have a large impact, as the technology you develop will be used to protect people, facilities, and assets, at scale – around the world. Which is pretty world-changing!
+You will be working with a talented team of architects, scientists, product managers, UI/UXD specialists, software, Hardware, and QA engineers.
+Our teams are spread across several locations including Boston MA, Indianapolis IL, Belfast UK, Tel-Aviv Israel, Bangalore & Delhi India, Montreal Canada, Boca Raton FL, and Los Angeles CA. (we have some flexibility on location)
+You will be using the latest cutting-edge technologies to power next-generation Access Control and Video solutions.
+Our market-leading brands include Tyco AI, American Dynamics, Cloudvue, Illustra, Exacq, Software House, KANTECH, Innometriks, and CEM.
+We are investing heavily for growth so looking for change agents with big bold ideas, an entrepreneurial mindset, and a highly collaborative working style. This might just be THE impactful role you have been looking for!
+What you will do
+We are currently looking for a Scrum Master to join our team in Brossard, QC.
+The Scrum Master will be working with multiple agile teams composed of Product Owner, architect, developers and testers to deliver best in class access control KANTECH products. Job duties include, but are not limited to coach tem members on agile best practices, improve agile process, participate in daily stand-ups, animate retrospectives, and participate in sprint planning. This position would be for KANTECH brands group and reports directly to the director of Engineering.
+What You will do
+Lead the scrum team in using Agile methodology and scrum practices
+Works with Scrum Team, as well as internal and external stakeholders, to influence and drive decision making and support organizational project or product teams.
+Work closely with SAFe release train engineer and product owner to plan sprints and program increments.
+Remove impediments and coach the scrum team on removing impediments.
+Assess the SAFe Maturity of the team and organization and coach the team to higher levels of maturity, at a pace that is sustainable and comfortable for the team and organization.
+Resolve conflicts and issues as they occur.
+Lead the SAFe and development teams in self-organization.
+Qualifications
+What we look for
+Required
+Bachelor's Degree in Software Engineering, Computer Science or a closely related discipline.
+Three to five years’ experience as a scrum master.
+Knowledge of an agile framework or method (i.e. SAFe, Scrum, Kanban), or understanding of software development life cycle models.
+Adept at refinement, story splitting, estimation, velocity, retrospection, and other Scrum techniques
+Ability to quickly resolve conflicts.
+Demonstrated knowledge of industry trends and standards.
+Strong mentoring skills.
+Strong verbal and written communication and presentation skills.
+Preferred
+Prior developer experience.
+Bilingual French/English.
+Johnson Controls and each of its Canadian subsidiaries are committed to providing reasonable accommodations to applicants, candidates and employees with disabilities, in accordance with applicable human rights legislation and in Ontario, in accordance with the Accessibility for Ontarians with Disabilities Act (“AODA”). If you are an individual with a disability and you require an accommodation during the application process, please visit www.johnsoncontrols.com/careers.
+Job
+Engineering
+Primary Location
+CAN-Quebec-Brossard
+Organization
+Bldg Technologies & Solutions"
+"Software Group Lead (VCC) - Toronto, ON - Indeed.com","Location: Toronto, Canada
+Thales people architect solutions that support 85 million mainline and suburban passenger journeys, worldwide, every day. Our Rail Signalling and Communication systems are used on metro lines across major cities, and 72,000 kms of route, 52,000 trains per day in 16 countries are controlled by our Traffic Management Systems. Together We deployed the first-ever nationwide ticketing system which processes over 50 million ticketing transactions in 100 cities daily.
+Thales provides world-leading Communications-Based Train Control (CBTC) and interlocking for mass rail transit applications globally. The Centre of Competence for Urban Rail Signalling is located right before you at mid-town Toronto. As the largest office in Canada, we house a department for every step of the Software Development Lifecycle (SDLC)! This includes Software, Hardware, Systems Design, Verification & Validation, Operations, etc. The supporting corporate shared services teams in Finance, Human Resources and IT is also located at the office. Our office space was designed to provide a sustainable, healthy workplace that expresses TRSS’s brand while increasing collaboration. Features include Greenguard furniture, EnergyStar appliances, low-emitting adhesives, sealants, and sliding glass doors on internal offices provide daylight and views to the outside. Come join the big Transport family, here in Toronto!
+We are looking for a Software Group Lead to join our Software Engineering team!
+S/he is responsible for supervision, planning, progress and technical guidance of the team. S/he will also be technically supervising the architecture of software components and its consistency with the overall sub-system/system software architecture.
+Key Responsibilities:
+Understands the customer’s needs and through life cycle concerns whatever the used means (e.g. advanced studies, simulations, mock-ups, models, prototypes, etc.)
+Plans, coordinates and monitors the performance of the work, identifies and manages risks
+Manages and coordinates internal teams
+Contributes to the formalization of mission/function description, architectural and algorithms design and the refinement of functional and non-functional requirements
+Designs, codes, debugs, write test procedures and tests software code, chairs design reviews
+Reviews code, test procedures and test results
+Analyzes and implements correction for defect reports
+Perform engineering testing in the field and investigates problems in the field
+Provides some inputs for cost estimates
+Assists Functional Manager in providing training, leadership and motivation to the staff
+Contributes in co-engineering activities with the Systems Engineering team in order to ensure system-software consistency and the right refinement of software components and compliance with the software architecture
+Solves tasks in the best technical and timely manner
+Looks for opportunities to make suggestions for improvement
+Keeps abreast of new technology developments and help to evaluate new products and processes to improve current software development
+Can also spend a part of his/her time in Work Package Management (WPM) within his/her technical domain
+Defines and maintains all software architecture for the entire lifecycle of the project/product
+Leads and coordinates software architecture strategies
+Supports assessment of trade-offs between aspects of cost, schedule, requirements and technological possibilities
+Ensures that the software team adheres to in-scope standards, software reuse policy and software development plans
+Required Skills and Experience:
+Bachelor's degree in Computer Science, Engineering or a closely related field
+Minimum of 8 years relevant Senior level experience in development of software for embedded systems using programming languages such as C and C++
+Expert level analysis skills, able to diagnose issues based on field logs and correlate events to failures
+Able to handle assignments within a medium to large scale software application
+Knowledgeable of the software development processes
+Able to quickly integrate with the team and work independently
+Knowledge of software development environment (Microsoft Visual Studio, desktop simulator, target simulator etc.)
+Expert level knowledge of railway signaling techniques including of SelTrac CBTC
+Experience in working within an team using Agile Methodologies
+Practical experience in using typical programs which are part of Microsoft Office Suite
+Practical experience with source control, IDE and requirements management tools (e.g. Eclipse, Jira, Git, ClearCase, ClearQuest, Doors, etc.)
+Preferred Skills and Experience:
+Expert level experience in development of software for embedded systems using programming languages such as C and C++
+Expert level experience in development of software in Java, C-Sharp, Assembly and Python programming languages will be considered an asset
+Expert level experience in using scripting languages such as Perl, Ruby etc.
+Expert level experience in Modelling and Simulation
+Able to program on various operating platforms (i.e. Windows, Linux, Unix etc.)
+Professional Engineer (P.Eng.) Licence or Project Management Professional (PMP) designation is an asset
+Thales is an equal opportunity employer which values diversity and inclusivity in the workplace. Thales is committed to providing accommodations in all parts of the interview process. Applicants selected for an interview who require accommodation are asked to advise accordingly upon the invitation for an interview. We will work with you to meet your needs. All accommodation information provided will be treated as confidential and used only for the purpose of providing an accessible candidate experience."
+"FPGA Place and Route Architect - Waterloo, ON - Indeed.com","Description
+At Xilinx, we are leading the industry transformation to build an adaptable, intelligent world. ARE YOU bold, collaborative, and creative? We develop leaders and innovators who want to revolutionize the world of technology. We believe that by embracing diverse ideas, pushing boundaries, and working together as ONEXILINX, anything is possible.
+Our culture of innovation began with the invention of the Field Programmable Gate Array (FPGA), and with the 2018 introduction of our Adaptive Compute Acceleration Platform (ACAP), has made a quantum leap in capability, solidifying our role as the adaptable platform supplier of choice. From the beginning, we have always believed in providing inventors with products and platforms that are infinitely adaptable. From self-driving cars, to world-record genome processing, to AI and big data, to the world's first 5G networks, we empower the world's builders and visionaries whose ideas solve every day problems and improve people's lives.
+If you are PASSIONATE, ADAPTABLE, and INNOVATIVE, Xilinx is the right place for you! At Xilinx, we care deeply about creating significant development experiences while building a strong sense of belonging and connection. We champion an environment of empowered learning, wellness, community engagement, and recognition, so you can focus on work that matters - world class technology that improves the way we live and work. We are ONEXILINX.
+Job Description
+Xilinx is looking for a staff software engineer with expertise in Algorithms and Graph Theory and strong C++ programming skills. The person will be part of FPGA Software Implementation Tools team, with responsibility to research and develop novel algorithms and techniques to compile user applications on FPGAs with the goal of achieving high performance.
+Xilinx's new hardware programmable SoC FPGAs and Adaptive Compute Acceleration Platform (ACAP) deliver most dynamic processor technology and are achieving record performances in Data Center, Wireless/5G, Automotive/ADAS and Emulation applications. These new applications and heterogeneous computing architecture brings in new challenges in compilation, particularly in placement and routing.
+Xilinx's Software Implementation Tools team addresses these challenges. As a part of this team, you will work on evaluating new FPGA architectures and it's impact on existing EDA tools, and develop new algorithms with the aim of improving Quality of Results (QoR), Compile Time, and Memory Usage by orders of magnitude. You will also be interacting with the field and customers, helping them meet their requirements.
+Job Requirements
+Expertise in C++.
+Knowledge of Data structures, Graph Theory and Algorithms.
+Knowledge of EDA Algorithms and Distributed Computing is a plus.
+Knowledge of Digital Design and FPGA is a plus.
+Qualifications - External
+Education Requirements/Years or Experience
+BS with 8+ years of experience or MS with 6+ years of experience or PhD with 3+ years of experience in Computer Science, Computer Engineering, Electrical Engineering or related equivalent.
+Open to candidates working remotely in the Toronto area"
+"Embedded Software Developer - Winnipeg, MB - Indeed.com","EMBEDDED SOFTWARE DEVELOPER
+ABOUT US:
+Smartrend Supply Ltd., established in 2004, is a leading manufacturer of customer-specific components and assemblies for transportation and general industrial applications. In 2018, First Light Safety Products was created as a subsidiary of Smartrend Supply Ltd. First Light, an innovative and progressive organization, incorporates LED technology into essential safety indicators to improve the visibility of school buses, thus increasing the safety of drivers and passengers of buses and other motor vehicles. Both organizations share a 29,000 sq ft, state of the art manufacturing facility.
+SUMMARY:
+The
+Embedded Software Developer
+is a detailed professional who has strong problem-solving skills and able to work under pressure and time constraints. The ESD will develop system architecture design for SMG and FL’s line of products. The successful candidate is a team player and is capable of presenting technical information to customers and our internal team.
+DETAILED DUTIES AND RESPONSIBILITIES:
+Develop User and System specifications.
+Develop System Architecture Design.
+Implement software based on specifications and design.
+Architect, design and develop embedded software applications utilizing C/C++, assembly, Perl, and/or python.
+Work closely with System, Hardware, and test engineers throughout the embedded software design/development life cycle.
+Work directly with customers to ensure embedded software meets key mission requirements.
+Document software design and participate in design and code reviews.
+Perform software/hardware integration during software development and unit testing.
+KNOWLEDGE, SKILLS, AND ABILITIES REQUIRED:
+Education: BS Degree in Electrical or Computer Science or equivalent.
+Knowledge of Linux systems.
+Knowledge of Real-Time Operating Systems.
+Knowledge of IP networks, SNMP, managed network devices.
+Knowledge of CAN Bus and J1939.
+Familiarity with automated build environments, test strategies, and static code analysis.
+Experience with working and debugging electronics.
+Experience in designing transportation, agriculture, and/or construction vehicle electronic devices/systems.
+Understanding of FMEAs and DFM (design for manufacturing) guidelines.
+Possess creativity for production development.
+Exposure to design and verification testing methods.
+Must posses excellent communication skills to collaborate with customers and multiple disciplinary teams.
+Project management, leadership, and presentation skills is an asset.
+ability to work well under pressure and under tight timelines.
+Able to travel between Canada, the USA, and internationally, as required.
+Share with us your talent, drive, and entrepreneurial spirit and we will provide a creative and supportive environment, where valuable contributions are rewarded and celebrated with professional growth, job satisfaction, and an attractive total compensation program. We offer a benefits package to our employees including:
+Group Insurance Plan.
+Paid Vacations.
+We would like to thank all applicants who apply, however, only those selected for an interview will be contacted.
+About Smartrend Manufacturing Group:
+Established in 2004, Smartrend Manufacturing Group (SMG) is a supply chain company specializing in customer- specific engineered components and assemblies for OEMs and industrial producers. We bring value to our customers with efficiently designed and manufactured parts, made to their specifications, and delivered on their schedule. We focus on collaborative efforts with our customers to provide the lowest total cost of acquisition. We operate in three countries with 30 direct team members.
+Job Type: Full-time"
+"Maintenance Worker - Calgary, AB - Indeed.com","Position
+Maintenance Worker
+Location
+Calgary
+Status
+Casual leading to Part Time / Full Time
+Work hours
+8 hours a day, occasional weekends as needed
+Start Date
+Until suitable candidate found
+Description
+Wing Kei has two ongoing priorities: to serve seniors with devotion and maintain a work culture that in many ways resemble a big family, one that excels. Our efforts toward excellence and continuous improvement speak for themselves: To care for those who once cared for us is one of the highest honors. Join us if you share the same vision and passion as ours in building and maintaining a quality home for our seniors!
+POSITION SUMMARY
+Under the supervision of Director of Finance and Hospitality, or designate, the maintenance worker partners up with Wing Kei’s multidisciplinary teams in providing a safe and clean living and working environment for our seniors and our staff. The position will be responsible for applying basic fixes, preventative maintenance program and general repairs to building systems and equipment and ensure the facilities are safe, tidy and functional.
+THE ROLE
+Key Accountabilities
+Demonstrate, promote and advocate the Wing Kei vision, mission and core values
+Inspect and Troubleshoot equipment and systems upon request, ensure all equipment within the premises are in good conditions
+Implement preventive maintenance program based on manufacturers’ requirement to assure optimal working conditions of equipment, including but not limited to scheduled checks on functionality of building and equipment
+Assist in installation and implementation of new hardware and systems and assist in providing in-services to users from multidisciplinary teams
+Maintain a clean and organized maintenance room for storage of tools, parts and supplies
+Participate in meetings, in-services and trainings to keep up-to-date with best practices
+Maintain good documentation of working procedures and service progress
+THE INDIVIDUAL WHO WILL SUCCEED
+Is aligned with Wing Kei’s vision and mission to continue to deliver excellence in seniors care
+Certified 4th Class Power Engineer or equivalent will be an asset
+Minimum 1 year electrical or mechanical trades experience preferred
+Has basic knowledge of preventive maintenance programs for building systems
+Is reliable with attention to details and consistent problem solving ability
+Ability to prioritize tasks and is self-motivated
+Functional knowledge in using electronic devices and computer software
+Communicates well in writing and speaking; ability to communicate in Chinese is an asset
+Benefits:
+Package includes:
+Dental Insurance
+Health Insurance
+Life Insurance
+Wellness Program
+Pension
+We are an equity employer and encourage applications from all genders, persons with disabilities and visible minorities who may contribute to the wellbeing of our residents.
+All new employees must complete a Criminal Records Check in accordance with the Protection for Persons in Care Act. In compliance with Alberta Health’s Infection Control standards, all new employees are required to provide a copy of their Tuberculosis or Chest X-Ray paperwork and a proof of positive immunity of MMR within 30 days of their date of hire.
+Thank you for your interest in working at Wing Kei. Unless you are contacted for an interview, you will receive no further acknowledgment of your application.
+How to Apply:
+Please send resume:
+by E-Mail to:
+careers@wingkei.org
+or by Fax to:
+1-866-281 5988
+or by Mail to:
+Wing Kei
+1212 Centre Street NE
+Calgary, Alberta T2E 2R4
+Attn: Human Resources
+If you do not have a resume, please submit an application form in WORD or PDF or ONLINE format."
+"OT Industrial Network Field Support Specialist - Lloydminster, SK - Indeed.com","OT Infrastructure Technical Support Specialist
+PENGCORP CHAMPIONSHIP TEAM
+Based in the Lloydminster, AB area the company is seeking a highly-motivated individual who is able to provide technical support to field customers who need assistance utilizing and optimizing hardware and software performance. Responsibilities include monitoring and maintaining good health of computer systems and networks for various plants. The ideal team member will carry out installation and configuration of computer and network systems, diagnosing hardware and software faults and solving technical and application problems, either over the phone or in person. Depending on the size of the client being serviced this role may span one or more areas of expertise as needed by the team lead supporting ICS and IT initiatives.
+ROLE
+Maintain high-availability of OT infrastructure (e.g. network, telecommunication, structure wiring, fiber optic, satellite, microwave and/or cellular radios, workstations, servers, operating systems, antivirus, industrial applications, etc.).
+Work in coordination with senior OT resources to implement process-oriented architecture principles to meet organization’s availability, integrity, and confidentiality requirements.
+Install and configure hardware, software, and peripheral equipment in accordance with organizational standards.
+Maintain plans/processes/procedures for modifying and improving OT infrastructure taking into consideration technology that enhances users/field experience.
+Maintain technical accuracy and soundness of engineering and/or technical practices based on sound design criteria, specifications, and standards as related to the project requirements. Among others, this includes standards at minimum such as:
+CSA Z246.1
+NIST SP800-82
+ISA99/IEC62443, ISA 84
+NERC CIP
+Provide technical leadership on project teams in conjunction with project management and multi-department personnel.
+Assist other engineers and technical staff in problem solving, troubleshooting, and application of industrial control devices.
+Work in coordination with senior OT resources to apply security policies to maintain security objectives of the system.
+Ensure all systems operations and maintenance activities are properly documented and updated as necessary.
+Ensure that cybersecurity-enabled products or other compensating security control technologies reduce identified risk to an acceptable level.
+Implement specific cybersecurity countermeasures on-site for systems and/or applications (i.e. Standalone systems).
+Integrate automated capabilities for updating or patching system software where practical and develop processes and procedures for manual updating and patching of system software based on current and projected patch timeline requirements for the operational environment of the system.
+Implement security measures to resolve vulnerabilities, mitigate risks, and recommend security changes to system or system components as needed.
+Diagnose and resolve customer reported system incidents, problems, and events.
+Troubleshoot system hardware and software.
+Analyze incident data for emerging trends.
+Maintain incident tracking and solution database.
+Perform asset management/inventory of OT resources.
+Provide input to the Risk Management Framework process activities and related documentation (e.g., system life-cycle support plans, concept of operations, operational procedures, and maintenance training materials).
+Perform Factory Acceptance Test (FAT) and Site Acceptance Test (SAT) as needed.
+Qualifications & Education Requirements
+College education in Electrical or Computer/Network or related subjects, preferably from an accredited college.
+Minimum certification and/or training as follows:
+Microsoft Certified Solution Associate (i.e. MCSA) – Windows Server 2012+, SQL
+Cisco Certified Network Associate – Industrial/Security/Routing & Switching (i.e. CCNA)
+Acronis Backup Specialist (ABS 12.5)
+Moxa Technical Support Certification (i.e. MTSC) – Networking, Wireless, Computing
+Radios/Cellular training (e.g. Motorola, Cambrium Network)
+Certified Fiber Optic Technician (i.e. CFOT)
+Certified Premises Cabling Technician (i.e. CPCT)
+WE OFFER
+A great place to work and advance your career, with a competitive salary and benefit package. Enjoy a flexible work schedule with minimum supervision and the opportunity to be part of a driven and motivated team that is penetrating a lucrative market."
+"Senior Software Engineer - Vancouver, BC - Indeed.com","Who is Recruiting from Scratch:
+Recruiting from Scratch is a premier talent firm that focuses on placing the best product managers, software, and hardware talent at innovative companies. Our team is 100% remote and we work with teams across the United States to help them hire. We work with companies funded by the best investors including Sequoia Capital, Lightspeed Ventures, Tiger Global Management, A16Z, Accel, DFJ, and more.
+If you are a fit, the team will reach out to you about this role or any others that may be a fit for our clients.
+Our Client
+A pioneer in K–12 education since 2000, our client is leading the way in next-generation curriculum and assessment. Their captivating core and supplemental programs in ELA, math, and science engage all students in rigorous learning and inspire them to think deeply, creatively, and for themselves. Their formative assessment products turn data into practical instructional support to help students at every skill level build a strong foundation in early reading and math. Their programs provide teachers with powerful tools that help them understand and respond to the needs of all their students. Today, our client serves five million students in all 50 states.
+Our client is a leader in creating immersive, rigorous digital learning experiences that look great, play great, and help students expect great things of themselves. Our client has been described as the best tech company in education, and the best education company in tech.
+What You’ll Do
+Impress the toughest customers around – K-5 graders – by:
+designing and building engaging, quirky, fast frontends using frameworks like Angular and React
+Make life better for passionate teachers by:
+architecting apps that meet the ultimate reliability and uptime challenge for digital tools – is this better than paper?
+building well structured and documented RESTful APIs so that our apps can share data with ease
+designing tools, workflows, and culture to ship code from your laptop to classrooms frequently and confidently
+Help school administrators build great schools by:
+building data pipelines that respect privacy and ensure security while offering useful insights
+implementing code that runs great across platforms under variable memory and network constraints
+analyzing performance and squashing tricky bugs using tools like DataDog, and AWS CloudWatch
+Learn every day by:
+leading collaboration, pull request-ing, and mentoring on a cross-functional team
+participating in cross-team share-outs, brownbags, and workshop series
+Example Projects You Might Work On
+Crafting immersive animated environments and characters using the latest web and canvas frameworks
+Architecting algorithms to select the right activity for the right student at the right moment.
+Modeling data from student activities to show teachers just the right advice
+Simulating hundreds of thousands of kids to implement scaling, stability, and security improvements
+Improving our deployment and testing automation pipelines
+Basic Requirements:
+BS/MS in Computer Science or equivalent
+5+ years of professional software development experience
+Strong CS and software engineering fundamentals
+2+ years experience with server-side development in Python. Node.js, Java (Dropwizard), are also relevant.
+Experience deploying production systems in the cloud (primarily AWS, but knowledge of GCP and Azure is relevant)
+Experience with database technologies (SQL, RDS, modeling, ORMs, tuning)
+Strong communication skills, written and verbal
+Preferred:
+Experience with tools we use every day:
+Build/Run:
+Serverless, Linux
+Storage:
+Postgres, S3, Snowflake
+Deploy:
+Terraform, AWS (EC2, Lambda, SQS, etc.)
+Monitoring:
+Datadog
+Secure data management and processing
+REST
+Experience with tools we don’t use and knowledge of when and how to use them
+Proven passion for building and learning:
+open source contributions, pet projects, self-education, Stack Overflow
+Experience in education or ed-tech
+Experience with live product support and remote teams
+Experience with a modern JavaScript framework (e.g. React)"
+"Onsite Technical Support - Edmonton, AB - Indeed.com","About Us
+Campus Support is a centralized service centre that supports its clients in making students the number one priority. We are committed to delivering essential operational, marketing and leadership support that enables each campus team to provide an exceptional educational experience. We are pleased to say that we are looking for an experienced IT professional to join our team!
+The purpose of the
+Onsite Technical Support (OTS) Tier 1
+is to provide and maintain the electronic data infrastructure necessary for the Campus to support communication and information storage, retrieval and security. Under direction of the Campus Director, the OTS is responsible for tailoring the Campus' infrastructure to its size and needs, setting up and monitoring the necessary computer hardware and software as well as providing guidance, direction and support to maximize staff performance and student studies with respect to technical supplies and resources.
+Job Responsibilities
+Specifically, the
+Onsite Technical Support
+person is responsible for:
+Configuring, maintaining and troubleshooting the campus IT infrastructure including, but not limited to, servers, internet, computers and peripherals, printers and software
+Providing high level technical support for both institution hardware and software to ensure campus runs smoothly
+Supporting the day-to-day operation of the Campus Support head office
+Delivering instruction that meets module and program objectives as set out in the curriculum
+Qualifications
+To be successful in the
+Onsite Technical Support
+role, the individual must be committed to developing, maintaining and demonstrating the following.
+Education and Experience
+Completion of post-secondary education
+A minimum of one years' experience in IT/network administrator or a related field
+Experience in supporting desktop applications, servers and AV equipment
+Working knowledge of Windows Operating systems
+Familiarity with reports such as cost-benefit analysis
+Certified Network Engineer (CNE) or Microsoft Certified Systems Engineer (MCSE) designation would be an asset
+An equivalent combination of education and experience will be considered
+Mac OS experience
+Mac OS development experience is preferred
+Working experience with visual and design applications such as Maya and Photoshop
+Basic understanding of Network equipment such as: Switches, Routers, access points & patch panels
+Intermediate knowledge of Active Directory administration
+Intermediate knowledge of Office 365 administration
+Skills and Abilities
+Strong interpersonal and communication skills
+Ability to communicate to employees and students in a simple and efficient manner
+Strong customer service focus
+Ability to work as a team with all products/groups
+Ability to multi-task in a dynamic environment
+Excellent time management and organizational skills
+Demonstrate and encourage high standards of behaviour, a professional attitude and commitment to quality service
+Ability to work cooperatively with employees and students
+Commitment to remain current in Onsite Networking Administrator technologies and certifications as appropriate
+Strong Networking knowledge, an aptitude for troubleshooting computer hardware
+Knowledge of PC and Mac operating systems, hardware and software applications
+Good grasp of relevant technical situations
+Strong skills in coaching, delegating and conflict resolution
+Excellent organizational skills with ability to multi-task
+Provisos
+Occasional overtime may be required"
