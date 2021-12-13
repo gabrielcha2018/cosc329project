@@ -63,13 +63,13 @@
 - Week 14: Finalize project deliverables and submit the required deliverables
 
 ## File Structure
-- webscrpaeplus
+- webscrpaeplus.ipynb
   - Scrap job description from website to csv
-- combin
+- combin.ipynb
   - Combine scrapped data to a master csv
-- draftofskill
+- draftofskill.ipynb
   - Organize predetermined list of skills into ngrams
-- findskill
+- findskill.ipynb
   - Find synonyms for predetermined skills
   - Use the master csv to identify popular skills(cluster skill)
 
