@@ -13,6 +13,7 @@
 * [Team Members](#Team-Members)
 * [Final Presentation](#Final-Presentation)
 * [Project Demo](#Project-Demo)
+* [Limitation](#Limitation)
 <!--te-->
 
 ## Website
@@ -98,3 +99,7 @@
 
 ## Project Demo
 - [Click here](https://youtu.be/BSsczBQuiO0)
+
+## Limitation
+- We get 14000 datas, but missing 6000
+- The graph of list of popular skills is display applying stemmer, some skills might not easy to understand
