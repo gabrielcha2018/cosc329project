@@ -1,0 +1,14 @@
+kind: pipeline
+type: docker
+name: pr-check
+
+steps:
+- name: check
+  image: python
+  commands:
+  - pip install flake8 pytest
+  - flake8 --statistics
+  
+trigger:
+  event:
+  - pull_request
